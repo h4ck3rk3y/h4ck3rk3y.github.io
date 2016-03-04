@@ -1,0 +1,31 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://h4ck3rk3y.github.io/
+baseurl: /
+title: Gyanendra Mishra
+author: Gyanendra Mishra
+description: Gyanendra Mishra
+avatar: profile.png
+email: anomaly.the@gmail.Comment
+github: h4ck3rk3y # username
+twitter: _gyani_
+linkedin: mishragyanendra
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+#disqus: username
+google_analytics: UA-60799114-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
