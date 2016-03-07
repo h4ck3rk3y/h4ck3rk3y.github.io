@@ -1,31 +1,47 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: "Gyanendra Mishra"
+subtitle: Backpacker / Web Developer / Software Developer / Security Enthusiast / Data Science Admirer
+css: "/css/index.css"
+meta-title: "Gyanendra Mishra"
+meta-description: "Undergraduate Computer Science student. Loves all things data and security. I will code for airtickets."
+bigimg:
+  - "/img/big-imgs/triund.jpg": "Triund, Dharamshala, India (2014)"
+  - "/img/big-imgs/phongnha.jpg" : "Phong Nha Ke Bang, Vietnam (2015)"
+  - "/img/bigs-imgs/bangkok.jpg" : "Bangkok, Thailand (2016)"
+  - "/img/big-imgs/trolltunga.jpg" : "Trolltunga, Norway (2014)"
+  - "/img/big-imgs/siemreap.jpg" : "Siem Reap, Cambodia (2015)"
+  - "/img/big-imgs/andamans.jpg" : "Andaman Islands, India (2014)"
+  - "/img/big-imgs/tsangpo.jpg" : "Ladakh, India (2015)"
+  - "/img/big-imgs/nhatrang.jpg" : "Nha Trang, Vietnam (2015)"
+  - "/img/big-imgs/penh.jpg" : "Phnom Penh, Camobdia (2015)"
+  - "/img/big-imgs/kuangsi.jpg" : "Luang Prabang, Laos (2016)"
 ---
+
+<div class="index-posts-title">Blog</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-	
+
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
-	  {% endif %}  
+	  {% endif %}
     </a>
 
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-  
+
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[More]</a>
     </div>
-  
+
    </article>
   {% endfor %}
 </div>
