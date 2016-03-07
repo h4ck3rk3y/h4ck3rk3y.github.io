@@ -24,7 +24,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[Auter](https://github.com/Zephrys/Auter)** - An android app that allows that makes auto rickshaw rides safer. Uses the Aadhar API along with Parse.com as backend. Users can verify drivers and send out alerts incase of emergencies. Inspiration was to solve the public transport problem in New Delhi.
 
-## RevMine
+## Chrome Extensions
 
 - **[RevMine](http://revmine.tk)** - Quantifies reviews. Reads text parses important features and provides astonishing insights.[Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb)
 
@@ -62,7 +62,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[http-vuln-cve2015-1427](https://nmap.org/nsedoc/scripts/http-vuln-cve2015-1427.html)** - A script that checks for Remote Code Execution Vulnerabilities in Elastic Search instances.
 
-- **[NTLM Auth in the HTTP Library](https://nmap.org/nsedoc/lib/http.html) I added NTLM authentication support to Nmaps HTTP Library.
+- **[NTLM Auth in the HTTP Library](https://nmap.org/nsedoc/lib/http.html)** I added NTLM authentication support to Nmaps HTTP Library.
 
 ### Nmap scripts and libraries not yet in trunk
 
