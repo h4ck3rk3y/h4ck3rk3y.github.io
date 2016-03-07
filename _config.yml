@@ -3,7 +3,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "https://blog.gyani.net"
+url: "http://blog.gyani.net"
 baseurl: ""
 
 # Brief name and description of the site
@@ -42,8 +42,8 @@ author:
   facebook: iownfb
   github: h4ck3rk3y
   twitter: _gyani_
-  linkedin: mishra/gyanendra
-  stackoverflow: 3978786/gyanendra-mishra
+  linkedin: in/mishragyanendra
+  stackoverflow: users/3978786/gyanendra-mishra
 
 # Select which links to show in the footer
 footer-links-active:
