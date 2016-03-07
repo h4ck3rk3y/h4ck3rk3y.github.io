@@ -18,11 +18,11 @@ A list of things I have worked on in the recent past, watch out for more!
 
 -  **[First Medical Responders](http://fmr-ircs.in)** - A resource management tool that I developed in the summer of 2015 for the Indian Red Cross society. Allows the society to keep track of disaster management volunteers and contact them in the time of need.
 
+- **[gyani.net](http://gyani.net)** - My web presence.
+
 ##Android
 
 - **[Auter](https://github.com/Zephrys/Auter)** - An android app that allows that makes auto rickshaw rides safer. Uses the Aadhar API along with Parse.com as backend. Users can verify drivers and send out alerts incase of emergencies. Inspiration was to solve the public transport problem in New Delhi.
-
-- **[gyani.net](http://gyani.net)** - My web presence.
 
 ## RevMine
 

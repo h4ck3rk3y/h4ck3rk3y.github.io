@@ -29,7 +29,8 @@ avatar: "/img/avatar-icon.jpg"
 navbar-links:
   Home: ""
   Projects: "projects"
-  About Me / Contact: "about"
+  About Me: "about"
+  Accolade: "achievements"
 
 # --- Footer options --- #
 
