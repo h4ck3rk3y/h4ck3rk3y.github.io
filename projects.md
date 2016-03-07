@@ -27,7 +27,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Chrome Extensions
 
-- **[RevMine](http://revmine.tk)** - Quantifies reviews. Reads text parses important features and provides astonishing insights.[Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb)
+- **[RevMine](http://revmine.tk)** - Quantifies reviews. Reads text parses important features and provides astonishing insights. [Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb)
 
 ## Command Line Apps
 
