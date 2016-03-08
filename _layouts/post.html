@@ -10,13 +10,13 @@ layout: base
       <article role="main" class="blog-post">
 	    {{ content }}
 	  </article>
-	  
+
 	  {% if page.tags %}
 	  <div class="blog-tags">
 		Tags: {{ page.tags | join: ", " }}
 	  </div>
 	  {% endif %}
-	  
+
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
@@ -34,8 +34,6 @@ layout: base
         {% include share-section.html %}
       {% endif %}
 
-      </div>
-	  {% endif %}
     </div>
   </div>
 </div>
