@@ -41,7 +41,7 @@ From Nha Trang we rode to **Da Nang**. We had to cover around 525 kms, and we di
 
 We stayed a day in Da Nang. The hostel was called **Funtastic Beach Hostel**. At $7/night it was the most expensive place we stayed at, for the entire duration of our trip. It had a playstation 4, a reading room, a foosball table, lots of computers to check mail on, great breakfast, great wifi and great hygeine. Despite all these facilities we liked Tintins **Backpackers Hostel** at Nha Trang the best. On the 29th of Decemer 2015 we were to leave for **Dong Hoi** to visit the **Phong Nha Ke Bang National Park**.
 
-![Dragon Bridge, Da Nang](img/blog/dragon.jpg)
+![Dragon Bridge, Da Nang](/img/blog/dragon.jpg)
 
 It was a 350km journey, so we had decided to leave our hostel at 9.30 am max. We were only able to leave it at around 11. On our way down, we decided to get our engine repaired because of the fumes. The mechanic took 2 hours to get it done, we had lunch at **Lotteria** and left for Dong Hoi. In hindsight this was the first time we ate at  Lotteria. **Lotteria** is basically the Mc Donalds of Vietnam. The rates are lower than Burger King or Mc Donalds and the food is okay. The best thing about Lotteria is **Kem Cone Socoloa** or chocolate ice cream which they sell for around 5000 Dongs.
 
@@ -85,4 +85,4 @@ Continuing with the story. We reach a mechanics house. He pulls up the shutter a
 We reached Dong Hoi at about 3 AM and decided to stay at the **Buffalo Backpackers Hostel and Bar**. Good place, great food. The next day we left for **Phong Nha**, which was around 15 Kms from Dong Hoi on Chingari, riding as if nothing had happened last night. **Phong Nha** was beautiful.
 
 
-![Phong Nha ke Bang](img/big-imgs/phongnha.jpg)
+![Phong Nha ke Bang](/img/big-imgs/phongnha.jpg)
