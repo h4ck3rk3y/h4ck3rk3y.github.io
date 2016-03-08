@@ -3,7 +3,7 @@ layout: post
 title: Once Upon a Time in Vietnam
 subtitle: or the night that we thought we were done for
 tags: [personal, travel, vietnam, bike]
-fb-img: http://blog.gyani.net/img/big-imgs/nhatrang.jpg
+fb-img: http://blog.gyani.netp/img/big-imgs/nhatrang.jpg
 ---
 
 This is a first in a series of posts about the thousand dollar challenge. The thousand dollar challenge was a challenge that I and Edwin gave ourselves. The challenge was to travel south east asia for a month in under $1000. The amount includes flights, visas, insurance, stay, food and everyother trip cost.
@@ -52,7 +52,7 @@ Coming back to the point and the reason I decided to write this blog post. It wa
 
 > *Pro Tip: Never Leave AH1 for a road you are not sure about. Google is not your friend.*
 
-The next two hours were spent on a road wide enough to fit one Sedan. The road wasn't really a road, it had no lighting, it was passing through farms or what we thought were farms and no one except us seemed to be driving on the road. It was pitch dark and we couldn't anything. The only source of light was *Chingaris* headlight, which itself seemed to be bent upwards instead of focussing on the road. For some reason I was reminded of the Vietnam Wars and began thinking about the possibility of these roads being pre war roads and us driving over un exploded ordinance and dying and this wasn't even the worst part of the day.The worst part of the day is yet to come. We passed the next two hours telling each other stories from **r/nosleep** and **r/letsnotmeet**.
+The next two hours were spent on a road wide enough to fit one Sedan. The road wasn't really a road, it had no lighting, it was passing through farms or what we thought were farms and no one except us seemed to be driving on the road. It was pitch dark and we couldn't see anything. The only source of light was *Chingaris* headlight, which itself seemed to be bent upwards instead of focussing on the road. For some reason I was reminded of the Vietnam Wars and began thinking about the possibility of these roads being pre war roads and us driving over un exploded ordinance and dying and this wasn't even the worst part of the day.The worst part of the day is yet to come. We passed the next two hours telling each other stories from **r/nosleep** and **r/letsnotmeet**.
 
 Around 8 PM we were able to join AH1. The entire day I was thankful to my Friend Chetaniya for giving me his powerbank. The day sadly wasn't over and we were still pretty far away from our destination, Dong Hoi.
 
