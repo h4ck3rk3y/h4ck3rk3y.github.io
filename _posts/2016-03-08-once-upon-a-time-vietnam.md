@@ -23,8 +23,8 @@ After buying the bike I decided to stick with Edwin no matter what happens, ditc
 
 The bike did around 200 kms on day 1 in about 6 hours. The next day, on our way to **Dalat** or *Paris of Vietnam* it did another 175 kms but the luggage stand broke. We got it repaired, nothing major had happened. The women selling gas scammed us.
 
-### Pro Tip:
-*Never ask the gas pump employees to fill your gas tank. Always show them how much you will be paying and keep your eye on the meter*
+> *Pro Tip: Never ask the gas pump employees to fill your gas tank. Always
+> show them how much you will be paying and keep your eye on the meter*
 
 This is when we met Rocky. In the last 10 days in South East Asia we had met plenty of middle men trying to sell us anything and everything under the sun.
 Rocky was different, Rocky met us around 45 Kilometers before Dalat and rode with us for the next few hours so as two insure that we stayed at his hostel, *Easy Rider Hostel* recently rechristened to *Dalat Intercontinental Hostel* for $4.5 a night. Rocky is a nice guy, his hosetl was good and the breakfast he got us was brilliant. The only thing Rocky did was wrong was to suggest us to remove the **broken chain guard** as it didn't matter. That was probably the beginning of the end of *Chingari*. We spent Christmas eve at Dalat, it was beautiful
@@ -41,15 +41,14 @@ From Nha Trang we rode to **Da Nang**. We had to cover around 525 kms, and we di
 
 We stayed a day in Da Nang. The hostel was called **Funtastic Beach Hostel**. At $7/night it was the most expensive place we stayed at, for the entire duration of our trip. It had a playstation 4, a reading room, a foosball table, lots of computers to check mail on, great breakfast, great wifi and great hygeine. Despite all these facilities we liked Tintins **Backpackers Hostel** at Nha Trang the best. On the 29th of Decemer 2015 we were to leave for **Dong Hoi** to visit the **Phong Nha Ke Bang National Park**.
 
-[Dragon Bridge, Da Nang](img/blog/dragon.jpg)
+![Dragon Bridge, Da Nang](img/blog/dragon.jpg)
 
 It was a 350km journey, so we had decided to leave our hostel at 9.30 am max. We were only able to leave it at around 11. On our way down, we decided to get our engine repaired because of the fumes. The mechanic took 2 hours to get it done, we had lunch at **Lotteria** and left for Dong Hoi. In hindsight this was the first time we ate at  Lotteria. **Lotteria** is basically the Mc Donalds of Vietnam. The rates are lower than Burger King or Mc Donalds and the food is okay. The best thing about Lotteria is **Kem Cone Socoloa** or chocolate ice cream which they sell for around 5000 Dongs.
 
 Coming back to the point and the reason I decided to write this blog post. It was 2PM and our lunch at Lotteria was over. We finally started driving out of the city. We had to get our chaines tightened again. At around 6 we decided to hit the coastal roads thinking they would be as good as **AH1** or a continuation of AH1. We were **wrong**.
 
 
-### Pro Tip:
-*Never Leave AH1 for a road you are not sure about. Google is not your friend.*
+> *Pro Tip: Never Leave AH1 for a road you are not sure about. Google is not your friend.*
 
 The next two hours were spent on a road wide enough to fit one Sedan. The road wasn't really a road, it had no lighting, it was passing through farms or what we thought were farms and no one except us seemed to be driving on the road. It was pitch dark and we couldn't anything. The only source of light was *Chingaris* headlight, which itself seemed to be bent upwards instead of focussing on the road. For some reason I was reminded of the Vietnam Wars and began thinking about the possibility of these roads being pre war roads and us driving over un exploded ordinance and dying and this wasn't even the worst part of the day.The worst part of the day is yet to come. We passed the next two hours telling each other stories from **r/nosleep** and **r/letsnotmeet**.
 
@@ -57,15 +56,15 @@ Around 8 PM we were able to join AH1. The entire day I was thankful to my Friend
 
 The ride continues, its around 11.30 in the night and we are around 30 Kilometers from Dong Hoi, sand on both sides. Nothing visible  except the road ahead of us. No signs of civilization except the cars passing by. We are trying to pass time by listening to songs and singing them loudly. I remember this is when *Kun Faya Kun* from the movie *Jodha Akbar* starts playing. Something happens to our chain. We ride for another ten minutes, it starts raining. A few minutes later our chain makes weird noises, it comes out and we get down to fix it only to find that the cog that holds the chain is broken. We shouldn't have ever taken Rockys advice. There is no way to fix it. We have no tools. Its around 12 am in Vietnam a country in which foreigners aren't allowed to drive anything even if they have an International License. This is a country where people don't speak English, leave alone Hindi. A country in which people some how love the show *Balika Vadhu* and especially *Anandi*. I guess that isn't releavant to the story. So basically we were done. Edwin started dragging Chingari forward, and I was tryingt to stop busses/trucks and whatever.
 
-### Pro Tip:
-*Don't trust Rocky.*
+> *Pro Tip: Don't trust Rocky.*
 
 30 minutes passed and none of them stopped.
 
 Finally a truck stoppped. Trucks in Vietnam are highly developed and beautiful. The truck driver and the co driver came out. They didn't speak English and we didn't speak Vietnamese. The only Vietnamese we knew was *Pho Bo* or *Beef Noodle Soup* and *Com Ga* or *Fried Chicken Rice*. Now one of us had the bright idea to talk to them using Google Translate.
 
-### Pro Tip:
-*Google may be your friend. Google Maps certianly isn't. Always have some data to talk to people via translate, if you are doing something crazy in a Foreign Country*
+> *Pro Tip: Google may be your friend. Google Maps certianly isn't. Always
+> have some data to talk to people via translate, if you are doing something
+> crazy in a Foreign Country*
 
 We explained who we were and what had happened. This guy went back to his truck and got us a water bottle and offered us his rain coat. We said no to the rain coat. He even bought his tool kit and tried to fix the bike. The other guy lit up a cigarette as it was very cold and rainy, and just like any other Vietnamese guy offered us smokes. I politely refused as I don't smoke. The repair guy spent some 20 minutes trying to repair the bike before finally giving up.
 
