@@ -8,7 +8,7 @@ This is a first in a series of posts about the thousand dollar challenge. The th
 
 We did it under $900 but that's a different story.
 
-So after chilling out in Camboida, visiting ancient temples and going down the sisowath quay enjoying the **Mekong Delta** we decided to do something crazy. This is where **Chingari* and **Mr Hung Phi** come in.
+So after chilling out in Camboida, visiting ancient temples and going down the sisowath quay enjoying the **Mekong Delta** we decided to do something crazy. This is where **Chingari** and **Mr Hung Phi** come in.
 
 From **Phnom Penh, Cambodia** after running around bargaining at different travel agents we finally found a $9 bus to **Ho Chi Minh, Vietnam**.
 
