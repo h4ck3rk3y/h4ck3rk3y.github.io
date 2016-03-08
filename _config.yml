@@ -3,7 +3,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "http://blog.gyani.net"
+url: "https://gyani.net"
 baseurl: ""
 
 # Brief name and description of the site
@@ -57,7 +57,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "blog.gyani.net"
+url-pretty: "gyani.net"
 
 # --- Misc --- #
 
