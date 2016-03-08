@@ -47,7 +47,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Security
 
-### New Nmap Scripts
+#### New Nmap Scripts
 
 - **[xmlrpc-methods](https://nmap.org/nsedoc/scripts/xmlrpc-methods.html)** -This script is used to perform introspection of XMLRPC services. This script starts by querying the system.listMethods method and then tries to run system.methodHelp on each method listed by system.listMethods.
 
@@ -65,7 +65,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[NTLM Auth in the HTTP Library](https://nmap.org/nsedoc/lib/http.html)** I added NTLM authentication support to Nmaps HTTP Library.
 
-### Nmap scripts and libraries not yet in trunk
+#### Nmap scripts and libraries not yet in trunk
 
 - **[Repository Link](https://svn.nmap.org/nmap-exp/gyani/)** I have written plenty of updates and bugfixes for the Nmap Scripting Engine. There are more new scripts and some libraries that are not yet in the main trunk but soon will be.
 
