@@ -44,6 +44,7 @@ author:
   twitter: _gyani_
   linkedin: in/mishragyanendra
   stackoverflow: users/3978786/gyanendra-mishra
+  tumblr: 0x-gyani
 
 # Select which links to show in the footer
 footer-links-active:
@@ -53,7 +54,8 @@ footer-links-active:
   twitter: true
   github: true
   linkedin: true
-  stackoverflow: true
+  stackoverflow: false
+  tumblr: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

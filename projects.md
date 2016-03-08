@@ -10,7 +10,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Websites
 
-- **[BidShyp](http://bidshyp.com)** - Worked in a team of two, two develop a bidding portal for the frieght industry. Shippers get to add shipment details of their packages, while frieght forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
+- **[BidShyp](http://bidshyp.com)** - Worked in a team of two, to develop a bidding portal for the frieght industry. Shippers get to add shipment details of their packages, while frieght forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
 
 -  **[RouteRush](http://routerush.me)** - A tool that generates a random itenirary based on your budget. The app chooses from over 150 cities, from a list of most visited cities. Uses the rome2rio api, google places api and the currency.io api.
 
