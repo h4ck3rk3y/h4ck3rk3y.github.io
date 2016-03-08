@@ -2,6 +2,8 @@
 layout: post
 title: Once Upon a Time in Vietnam
 subtitle: or the night that we thought we were done for
+tags: [personal, travel, vietnam, bike]
+fb-img: http://blog.gyani.net/img/big-imgs/nhatrang.jpg
 ---
 
 This is a first in a series of posts about the thousand dollar challenge. The thousand dollar challenge was a challenge that I and Edwin gave ourselves. The challenge was to travel south east asia for a month in under $1000. The amount includes flights, visas, insurance, stay, food and everyother trip cost.
