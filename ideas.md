@@ -5,7 +5,7 @@ subtitle: crazy project ideas
 comments: false
 ---
 
-#Project Ideas
+# Project Ideas
 
 ## Not Implemented Yet
 
