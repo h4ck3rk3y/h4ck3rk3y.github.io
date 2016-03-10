@@ -31,6 +31,7 @@ navbar-links:
   Projects: "projects"
   About Me: "about"
   Achievements: "achievements"
+  Ideas: "ideas"
 
 # --- Footer options --- #
 
@@ -92,6 +93,5 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
-  - ideas.md
 
 # 2fc73a3a967e97599c9763d05e564189
