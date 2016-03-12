@@ -10,9 +10,9 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Websites
 
-- **[BidShyp](http://bidshyp.com)** - Worked in a team of two, to develop a bidding portal for the frieght industry. Shippers get to add shipment details of their packages, while frieght forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
+- **[BidShyp](http://bidshyp.com)** - Worked in a team of two, to develop a bidding portal for the freight industry. Shippers get to add shipment details of their packages, while freight forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
 
--  **[RouteRush](http://routerush.me)** - A tool that generates a random itenirary based on your budget. The app chooses from over 150 cities, from a list of most visited cities. Uses the rome2rio api, google places api and the currency.io api.
+-  **[RouteRush](http://routerush.me)** - A tool that generates a random itinerary based on your budget. The app chooses from over 150 cities, from a list of most visited cities. Uses the rome2rio api, google places api and the currency.io api.
 
 - **[Musique](http://lamusique.ml)** - Music discovery in a Tinder way. Made it for Microsoft code.fun.do. Allows users to swipe music left or right, provides recommendations based on music that you have swiped right. Creates a playlist of all music swiped right which gets deleted every week so that you discover new music. Uses the soundcloud api.
 
@@ -23,7 +23,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Android
 
-- **[Auter](https://github.com/Zephrys/Auter)** - An android app that allows that makes auto rickshaw rides safer. Uses the Aadhar API along with Parse.com as backend. Users can verify drivers and send out alerts incase of emergencies. Inspiration was to solve the public transport problem in New Delhi.
+- **[Auter](https://github.com/Zephrys/Auter)** - An android app that allows that makes auto rickshaw rides safer. Uses the Aadhar API along with Parse.com as backend. Users can verify drivers and send out alerts in case of emergencies. Inspiration was to solve the public transport problem in New Delhi.
 
 ## Chrome Extensions
 
@@ -31,19 +31,19 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Command Line Apps
 
-- **[Monica](https://github.com/Zephrys/Monica)** - a popular commandline app that allows you to order tasty food from the comfort of your terminal. Uses the Zomato API.
+- **[Monica](https://github.com/Zephrys/Monica)** - a popular command line app that allows you to order tasty food from the comfort of your terminal. Uses the Zomato API.
 
-- **[Wolfe](https://github.com/h4ck3rk3y/wolfe)** - a commandlien app that makes development easier by automatically showing you the stackoverflow page of the last error you encountered.
+- **[Wolfe](https://github.com/h4ck3rk3y/wolfe)** - a command line app that makes development easier by automatically showing you the stackoverflow page of the last error you encountered.
 
 ## Data
 
-- **[Recobot](htps://github.com/h4ck3rk3y/recobot)** - a bot that generates recommendations for users of a direct connect hub. Got more than 600 users in the three days I ran it on my campusses direct connect hub.
+- **[Recobot](htps://github.com/h4ck3rk3y/recobot)** - a bot that generates recommendations for users of a direct connect hub. Got more than 600 users in the three days I ran it on my campuses direct connect hub.
 
 - **[TuneUp](https://github.com/psdh/tuneup)** - a command line tool that generates recommendations from MovieLens data, made for the information retrieval course.
 
 - **[WhatsintheVector](https://github.com/psdh/WhatsintheVector)** - A text search engine developed as a part of information retrieval course work.
 
-- **[SpamFilter](htps:/github.com/h4ck3rk3y/SpamFilter)** - A simple spam filter usign the Naive Bayes model written in python as an assignment for the machine learning course.
+- **[SpamFilter](htps:/github.com/h4ck3rk3y/SpamFilter)** - A simple spam filter using the Naive Bayes model written in python as an assignment for the machine learning course.
 
 ## Security
 
@@ -61,13 +61,13 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[http-webdav-scan](https://nmap.org/nsedoc/scripts/http-webdav-scan.html)** - This script is used to discover webdav instances. It lists methods exposed to non authenticated users, internal ips and files indexed by the WEBDAV instance.
 
-- **[http-vuln-cve2015-1427](https://nmap.org/nsedoc/scripts/http-vuln-cve2015-1427.html)** - A script that checks for Remote Code Execution Vulnerabilities in Elastic Search instances.
+- **[http-vuln-cve2015-1427](https://nmap.org/nsedoc/scripts/http-vuln-cve2015-1427.html)** - A script that checks for Remote Code Execution Vulnerabilities in Elasticsearch instances.
 
-- **[NTLM Auth in the HTTP Library](https://nmap.org/nsedoc/lib/http.html)** I added NTLM authentication support to Nmaps HTTP Library.
+- **[NTLM Auth in the HTTP Library](https://nmap.org/nsedoc/lib/http.html)** I added NTLM authentication support to Nmap’s HTTP Library.
 
 #### Nmap scripts and libraries not yet in trunk
 
-- **[Repository Link](https://svn.nmap.org/nmap-exp/gyani/)** I have written plenty of updates and bugfixes for the Nmap Scripting Engine. There are more new scripts and some libraries that are not yet in the main trunk but soon will be.
+- **[Repository Link](https://svn.nmap.org/nmap-exp/gyani/)** I have written plenty of updates and bug fixes for the Nmap Scripting Engine. There are more new scripts and some libraries that are not yet in the main trunk but soon will be.
 
 ## Talks
 
@@ -76,4 +76,5 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Travel
 
-- **The Thousand Dollar Challenge** - The challenge was to around south east asia, for a month in less than 1000 dollars. The amount includes five visas, airtickets, insurance from Kolkata and every other expenditure that I made for the trip. Did it in just under $900. Maybe this inspired routerush.
+- **The Thousand Dollar Challenge** - The challenge was to around south east asia, for a month in less than 1000 dollars. The amount includes five visas, air tickets, insurance from Kolkata and every other expenditure that I made for the trip. Did it in just under $900. Maybe this inspired RouteRush.
+
