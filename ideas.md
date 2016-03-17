@@ -18,6 +18,7 @@ comments: false
 - YouScan - copied youtube videos on facebook #data
 - Parallel MySql - A Proxy Server #gen#dev
 - QPayR - Payment via exhausting QR Codes - #security
+- Universal Blog import/export
 
 ## Implemented Ideas
 
