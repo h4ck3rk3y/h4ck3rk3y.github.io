@@ -25,5 +25,8 @@ I had the bright idea that *Air Asia* is an International Carrier and it makes l
 
 We left Dhruv and Sherki at *Terminal 1-D* as they were flying by SpiceJet to Hyderabad. We began searching for Cabs. All the cab drivers were asking for too much. Suddenly this cab driver shouted at Sodhi *"Paji mere sath aayiye, sirf 200 mein pahucha dunga"* or *"Come with me I'll take you there for just Rs 200"*. Our second cab ride started.
 
-What followed was a traffic jam that kept us busy for around 15 minutes. Around 4.15pm the roads were clear and we 
+> *Pro Tip: Google is not your friend. Confirm your terminal with your ticket/airline*
+
+What followed was a traffic jam that kept us busy for around 15 minutes. Around 4.15pm the roads were clear and the Delhi airport was a few kilometers away. Sodhis ticket said that you could check in 45 minutes prior to departure so that gave us 15 minutes more. We passed by the hotels and the landscaping and made it to the airport at 4.25pm. We checked in immediately, queues did not apply to us. When boarding started we started Vlogging. I am hoping that the Vlog really happens.
+
 The airhostess says *"Save your work before, shutting down the laptop."* Only in Bangalore.
