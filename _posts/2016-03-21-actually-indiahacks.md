@@ -8,6 +8,8 @@ tags: [indiahacks, bangalore, conference, general]
 
 So we arrived at the Bengaluru airport at 8.40 pm on the 18th of March. We took an over expensive Uber to Taj Viavanta in Yeshwantpur. Luckily Sodhi had a Rs. 250 coupon and that got us some relief. We arrived at Taj by 9.30. Got registered. I ran for the Buffet. Murg Methi, Fish in Garlic Sauce and a lot of Naan filled my plate. I probably ate thrice of what Shubhankar and Sodhi ate together. That was a very nice meal. From there we headed to the room where the Hackathon was happening.
 
+![Our ID](/img/blog/tag.jpg)
+
 The room was full of programmers. Laptops everywhere. Unlimited Red Bull, Coffee, Kesar Milk, more soda and chips. We started hacking. Met these dudes who had worked at Microsoft earlier and were working on a FinTech hack. Talking to them was fun, they basically were bored of regular jobs and were starting up. We continued hacking the entire night. We managed to piss of a judge due to some misunderstanding who punished us by judging us at the very end of the first round. By the time the judgment was over we had been up for 26 hours.
 
 The conference started. CXO's of established companies, new companies, non existing companies and international companies were everywhere. As written in the title we felt like we were in the first episode of the HBO series Silicon Valley.
