@@ -6,13 +6,13 @@ comments: false
 ---
 
 Some recent achievements in major hackathons, ctfs and quizzes.
---- 
+---
 
 ## Hackathons
 
-- **[Top 20 of Travel and Transport @India Hacks 2016](https://www.hackerearth.com/sprints/travel-and-transportation-india-hacks-2016/)** - My project RouteRush came in the top 20 projects among 700 other projects in the nation wide hackathon India Hacks. The app makes a random itinerary depending on your budget. Find the app [here](http://routerush.me).
+- **[Top 5 of Travel and Transport @India Hacks 2016](https://www.hackerearth.com/sprints/travel-and-transportation-india-hacks-2016/)** - My project RouteRush came in the top 5 projects among 700 other projects in the nation wide hackathon India Hacks. The app makes a random itinerary depending on your budget. Find the app [here](http://routerush.me).
 
--  **[Top 20 of Online Commerce @India Hacks 2016](https://www.hackerearth.com/sprints/online-commerce-india-hacks-2016/)** - Developed an extension  that quantifies product reviews and provides valuable insights. For example you or on the product page of a book and you click on the extension, depending on the top 50 reviews it may tell you something about say the story, the font, the paper etc. The app is domain independent. Around 1000 other teams participated. You can download the extension [here](https://bit.ly/revmine) or if you are not from India, you can look at the related webpage [here](http://revmine.tk).
+-  **[Top 5 of Online Commerce @India Hacks 2016](https://www.hackerearth.com/sprints/online-commerce-india-hacks-2016/)** - Developed an extension  that quantifies product reviews and provides valuable insights. For example you or on the product page of a book and you click on the extension, depending on the top 50 reviews it may tell you something about say the story, the font, the paper etc. The app is domain independent. Around 1000 other teams participated. You can download the extension [here](https://bit.ly/revmine) or if you are not from India, you can look at the related webpage [here](http://revmine.tk). RevMine was among the top 5 apps in a hackathon with 900 other submissions.
 
 - **Winner HP Enterprises Day @BITS Pilani 2016** - RevMine was presented in HP Enterprises Day, BITS Pilani. We were to present ready made student projects and we decided to go with RevMine and were selected as winners of the event.
 
