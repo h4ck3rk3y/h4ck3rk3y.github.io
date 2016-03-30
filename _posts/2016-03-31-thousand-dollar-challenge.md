@@ -3,6 +3,7 @@ layout: post
 title: The Thousand Dollar Challenge
 subtitle: a daily account of the trip
 tags: [personal, travel, thousand dollar challenge, bike]
+fb-img: http://gyani.net/img/blog/itenirary/cambo_meal.jpg
 ---
 
 **Day -1:** Left home for the New Delhi Railway Station. Took the afternoon Duronto to Kolkata.
