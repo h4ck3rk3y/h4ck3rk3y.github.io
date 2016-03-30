@@ -105,6 +105,6 @@ tags: [personal, travel, thousand dollar challenge, bike]
 
 **Day 25 10th January:** Landed at Kolkata. Had the celebration lunch. Took the evening Rajdhani Express to New Delhi.
 
-So total was around 27 days. Our trip was a bit rushed, yes but it was fun and it wasn't stressful either. Enjoy your trip. My trip was just under 900$. That includes souvenirs, flight tickets from Kolkata, train tickets from New Delhi, five visas all bus tickets, all food and accommodation and basically expenditure specific to the trip.
+So total was around 27 days. Our trip was a bit rushed but it was fun and it wasn't stressful either. My trip was just under 900$. That includes souvenirs, flight tickets from Kolkata, train tickets from New Delhi, five visas all bus tickets, all food and accommodation and basically expenditure specific to the trip.
 
 
