@@ -58,7 +58,7 @@ fb-img: http://gyani.net/img/blog/itenirary/cambo_meal.jpg
 
 ![Dragon Bridge](/img/blog/itenirary/dragon.jpg)
 
-**Day 12 28th:** Left for Dong Hoi, gateway to Phong Nha Ke Bhang. The bike episode happened . Arrived at 3 in the night on the 29th.
+**Day 12 28th:** Left for Dong Hoi, gateway to Phong Nha Ke Bhang. The [bike episode](http://gyani.net/blog/once-upon-a-time-vietnam/) happened . Arrived at 3 in the night on the 29th.
 
 ![Buffalo Pub](/img/blog/itenirary/buffalo.jpg)
 
