@@ -41,7 +41,7 @@ fb-img: http://gyani.net/img/blog/itenirary/cambo_meal.jpg
 ![Chingari](/img/blog/itenirary/bike.jpg)
 ![Beach House](/img/blog/itenirary/beach.jpg)
 
-**Day 8 24th:** Left for Da Lat. Bike broke down a couple of times while going uphill. Met this dude called Rocky 45 Km from Da Lat, turns out he owned a hostel. Stayed at his hostel Easy Rider Hostel or Intercontinental Hostel.
+**Day 8 24th:** Left for Da Lat also called the *Paris of Vietnam*. Bike broke down a couple of times while going uphill. Met this dude called Rocky 45 Km from Da Lat, turns out he owned a hostel. Stayed at his hostel Easy Rider Hostel or Intercontinental Hostel.
 
 ![Paris of The East](/img/blog/itenirary/eifel.jpg)
 ![Pho Bao](/img/blog/itenirary/phobao.jpg)
