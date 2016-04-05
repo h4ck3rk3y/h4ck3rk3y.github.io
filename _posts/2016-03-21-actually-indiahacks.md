@@ -24,4 +24,8 @@ People loved RevMine. A guy from SAP came up to us after our presentation and ha
 
 After the presentation we attended a stand up show by Sanjay Manaktala. He joked about Techies in India and the World. This was followed by the results. We didn't figure in the top 3 but the trip was still epic. Founders and aspiring founders everywhere. This was much needed exposure. Some 15 year old programmers won in one of the tracks. This event was inspiring and amazing. I hope to make it there next year as well. I'll be uploading a vlog soon.
 
+**Edit**: The vlog is here
 
+<iframe width="760" height="480"
+src="http://www.youtube.com/embed/Cb4HfhoCpII">
+</iframe>
