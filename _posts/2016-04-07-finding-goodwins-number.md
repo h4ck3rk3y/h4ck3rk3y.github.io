@@ -6,7 +6,7 @@ tags: [data, code, internet]
 fb-img: http://gyani.net/img/blog/goodwin.png
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Goodwin's Law xkcd](/img/blog/goodwin.png)
+![Goodwin's Law xkcd](/img/blog/goodwin.png)
 
 >*Picture Courtsey: xkcd.com*
 
