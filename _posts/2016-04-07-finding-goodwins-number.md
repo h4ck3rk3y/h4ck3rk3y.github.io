@@ -15,3 +15,5 @@ Recently I had the idea of analyzing the Internet to find *Goodwin's Number*. I 
 I plan on analyzing various websites starting with Reddit looking for the *Goodwin's Number* of particular subreddits and of Reddit as a whole. First I need some Food and Soda. I'll head to the All Night Canteen for some chicken pasta, work starts as soon as I come back.
 
 I'll be updating this blog post as the research progresses.
+
+>3:11 AM: The last few hours was spent on booking tickets for our trip to Greece and finding hotels. I was able to checkout the Python Reddit API Wrapper though.
