@@ -10,7 +10,7 @@ comments: false
 ## New Ideas
 
 - Use anomaly detection to build an extension that alerts you about fixed matches #data
-- WiShare - Bugmento for WiFi passwords #security#web
+- WiShare - BugMeNot for WiFi passwords #security#web
 - Predicting Terror With Data #data
 - GitScan - Plagiarism Detection on Github #gen#data
 - LinkedIn Project Add - Automatically add projects you have been added to #gen#chrome
