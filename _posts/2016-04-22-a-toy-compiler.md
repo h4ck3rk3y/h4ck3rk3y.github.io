@@ -15,7 +15,7 @@ Through the project my respect for language designers like Dennis Ritchie greatl
 
 I remember reading articles that went like 'If there was no Dennis Ritchie, there would have been no Steve Jobs', it was something that I really didn't believe until today. Scientists bring innovations to entrepreneurs who make it affordable and usable by the general public. Without real scientists we won't have anything new. Reminds me of the Peter Thiel quote.
 
->We wanted flying cars, instead we got 140 characters*.
+>We wanted flying cars, instead we got 140 characters.
 
 Only real scientists can get us flying cars.
 
