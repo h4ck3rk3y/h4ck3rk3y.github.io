@@ -21,4 +21,4 @@ Only real scientists can get us flying cars.
 
 I can't share the code yet but I'll definitely add a link to the repository as soon as the evaluations are done.
 
-**Update**: The program is open source now. The semester just got over. Find the code [here](https://github.com/psdh/cc).
+**Update**: The program is open source now. The semester just got over. Find the code [here](https://github.com/psdh/CSF363).
