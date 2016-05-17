@@ -17,4 +17,6 @@ From *Nea Kameni* we headed to the hot springs, *Palea Kameni*. To get to the sp
 
 # Need to Learn how to ride a two wheeler
 
-While thinking about essential skills I realized that I need to learn how to ride a bike. I was thinking of the Thousand Dollar Challenge and how I never rode the bike, sitting behind Edwin the whole time. At 20 I should know how to ride a bike.
+While thinking about essential skills I realized that I need to learn how to ride a bike. I was thinking of the Thousand Dollar Challenge and how I never rode the bike, sitting in the back seat the whole time. At 20 I should know how to ride a bike.
+
+Summer looks like a good time to learn some of these things. Can learn how to ride a two wheeler courtsey Edwin during a few weekends at Pune. If my company keeps me in Courtyard by Marriot for 2 months then I can learn to swim and get fit in the process.
