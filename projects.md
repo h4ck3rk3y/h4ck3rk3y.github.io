@@ -8,6 +8,11 @@ comments: false
 A list of things I have worked on in the recent past, watch out for more!
 --- 
 
+## Software
+
+- **[Toy Compiler](https://github.com/psdh/CSF363)** - Developed a toy compiler as a part of our compiler construction course.
+
+
 ## Bots
 
 - **[BroBot](https://github.com/Zephrys/Bro)** - Worked in a team of two to develop a bot that answers queries similar to *Where can I get the best Pizza in Chicago?* or *Where can I get the room with the best view of the Eifel tower? in Paris*. The bot maybe live if you want to try it, look at the [twitter handle](https://twitter.com/broknowsyouknow)
