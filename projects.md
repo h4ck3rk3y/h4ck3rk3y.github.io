@@ -8,6 +8,10 @@ comments: false
 A list of things I have worked on in the recent past, watch out for more!
 --- 
 
+## Bots
+
+- **[BroBot](https://github.com/Zephrys/Bro)** - Worked in a team of two to develop a bot that answers queries similar to *Where can I get the best Pizza in Chicago?* or *Where can I get the room with the best view of the Eifel tower? in Paris*. The bot maybe live if you want to try it, look at the [twitter handle](https://twitter.com/broknowsyouknow)
+
 ## Websites
 
 - **[BidShyp](http://bidshyp.com)** - Worked in a team of two, to develop a bidding portal for the freight industry. Shippers get to add shipment details of their packages, while freight forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
@@ -47,6 +51,8 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Security
 
+- **PayMate**: As a part of our network security project we built an electronic payment protocol which we called PayMate. It puts TOPT over a modified version of SET.
+
 #### New Nmap Scripts
 
 - **[xmlrpc-methods](https://nmap.org/nsedoc/scripts/xmlrpc-methods.html)** -This script is used to perform introspection of XMLRPC services. This script starts by querying the system.listMethods method and then tries to run system.methodHelp on each method listed by system.listMethods.
@@ -68,6 +74,8 @@ A list of things I have worked on in the recent past, watch out for more!
 #### Nmap scripts and libraries not yet in trunk
 
 - **[Repository Link](https://svn.nmap.org/nmap-exp/gyani/)** I have written plenty of updates and bug fixes for the Nmap Scripting Engine. There are more new scripts and some libraries that are not yet in the main trunk but soon will be.
+
+- **[Joomla RCE]** Developed a Script that checks whether a given Joomla! page is vulnerable to remote code execution.
 
 ## Talks
 
