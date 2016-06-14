@@ -30,3 +30,4 @@ src="http://www.youtube.com/embed/8-BTZRsUG6o">
 
 Try DinnerDateBot on [telegram](https://bit.ly/DateBot).
 
+**Update**: The AI is working weirdly, this issue is being actively tackled.
