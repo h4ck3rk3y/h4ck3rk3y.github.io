@@ -28,5 +28,5 @@ The bot tells you that on reaching the location you should send your coordinates
 src="http://www.youtube.com/embed/8-BTZRsUG6o">
 </iframe>
 
-Try DinnerDateBot on (telegram)[https://bit.ly/DateBot].
+Try DinnerDateBot on [telegram](https://bit.ly/DateBot).
 
