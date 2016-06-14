@@ -5,6 +5,10 @@ subtitle: a telegram Bot that gets you Dinner Dates
 tags: [bots, programming, ai]
 ---
 
+<p align="center">
+  <img />
+</p>
+
 For the past few months I and [Shubhankar](https://github.com/shubh24) have been reading, thinking and discussing bots and conversational interfaces. We have been wanting to build a bot of our own. This is our first attempt at making a conversational Bot.
 
 ![Registration](/img/blog/dinnerbot0.png)
