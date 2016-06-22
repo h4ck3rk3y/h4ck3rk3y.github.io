@@ -16,18 +16,19 @@ A list of things I have worked on in the recent past, watch out for more!
 ## Bots
 
 - **[BroBot](https://github.com/Zephrys/Bro)** - Worked in a team of two to develop a bot that answers queries similar to *Where can I get the best Pizza in Chicago?* or *Where can I get the room with the best view of the Eifel tower? in Paris*. The bot maybe live if you want to try it, look at the [twitter handle](https://twitter.com/broknowsyouknow)
+- **[DinnerDateBot](https://telegram.me/DinnerDateBot)** - Worked in a team of two to develop a bot that sets up dinner dates. Used API.ai to make sense of natural language. The bot first gets you reigstered and then asks about your location and your cuisine preference after which it finds you a match.
 
 ## Websites
 
 - **[BidShyp](http://bidshyp.com)** - Worked in a team of two, to develop a bidding portal for the freight industry. Shippers get to add shipment details of their packages, while freight forwarders get to bid on them. The company aims to be an aggregator in the shipping industry.
 
--  **[RouteRush](http://routerush.me)** - A tool that generates a random itinerary based on your budget. The app chooses from over 150 cities, from a list of most visited cities. Uses the rome2rio api, google places api and the currency.io api.
+-  **[RouteRush](http://routerush.xyz)** - A tool that generates a random itinerary based on your budget. The app chooses from over 150 cities, from a list of most visited cities. Uses the rome2rio api, google places api and the currency.io api.
 
 - **[Musique](http://lamusique.ml)** - Music discovery in a Tinder way. Made it for Microsoft code.fun.do. Allows users to swipe music left or right, provides recommendations based on music that you have swiped right. Creates a playlist of all music swiped right which gets deleted every week so that you discover new music. Uses the soundcloud api.
 
 -  **[First Medical Responders](http://fmr-ircs.in)** - A resource management tool that I developed in the summer of 2015 for the Indian Red Cross society. Allows the society to keep track of disaster management volunteers and contact them in the time of need.
 
-- **[Weblog](http://gyani.net)** - My web presence.
+- **[Weblog](https://gyani.net)** - My web presence.
 
 
 ## Android
@@ -37,6 +38,8 @@ A list of things I have worked on in the recent past, watch out for more!
 ## Chrome Extensions
 
 - **[RevMine](http://revmine.tk)** - Quantifies reviews. Reads text parses important features and provides astonishing insights. [Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb). The repository lies here, [RevMine at Github](https://github.com/Zephrys/RevMineApp).
+
+- **[TrumpCat](https://chrome.google.com/webstore/detail/trumpcat/hfajcdnolhbfcbcfkjkppgjlmfidpnnd)** - The trumpcat extension works to save your eyes from the images of Donald Trump. It simply replaces images of Donald Trump with cute kittens.
 
 ## Command Line Apps
 
