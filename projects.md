@@ -37,7 +37,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 ## Chrome Extensions
 
-- **[RevMine](http://revmine.tk)** - Quantifies reviews. Reads text parses important features and provides astonishing insights. [Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb). The repository lies here, [RevMine at Github](https://github.com/Zephrys/RevMineApp).
+- **[RevMine](https://bit.ly/revmine)** - Quantifies reviews. Reads text parses important features and provides astonishing insights. [Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb). The repository lies here, [RevMine at Github](https://github.com/Zephrys/RevMineApp).
 
 - **[TrumpCat](https://chrome.google.com/webstore/detail/trumpcat/hfajcdnolhbfcbcfkjkppgjlmfidpnnd)** - The trumpcat extension works to save your eyes from the images of Donald Trump. It simply replaces images of Donald Trump with cute kittens.
 
