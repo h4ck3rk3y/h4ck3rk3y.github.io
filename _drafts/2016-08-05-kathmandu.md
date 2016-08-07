@@ -16,9 +16,3 @@ Earlier today I saw an [r/travel](https://reddit.com/r/travel) post by a photogr
 
 Now the plan is to go Kathmandu and figure out where to go from there. @[Shubhankar](https://shubh24.github.io) and @[Prabhjyot](https://psdh.github.io)
 plan to join me for the trip, if anyone backs out then I go alone. I think I secretly want to go alone, I don't know I am confused.
-
-
-
-Placements contribute to an increase in tension and confusion. In three tests, *Microsoft*, *Directi* and *Adobe* I have had *off-by-one* errors which I couldn't find till the end of the test. A lot of other classmates report similar mistakes caused by tension/confusion. I hope placements end soon for me so that I can go for the trip.
-
-
