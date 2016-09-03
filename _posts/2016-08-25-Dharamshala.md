@@ -6,7 +6,7 @@ tags: [Dharamshala, travel, asia, mountains, McLleodGanj]
 ---
 
 
-I just returned from my second trip to Dharamshala. The first trip was in 2013 with my school friends, this time I went with my friends at my University.
+I just returned from my second trip to Dharamshala. The first trip was in 2014 with my school friends, this time I went with my friends at my University.
 
 An earlier blog post talked about how **Kathamndu** not **Dharamshala** was supposed to be the post placement getaway. We had to settle for **Dharamshala** as we didn't have enough time for Kathmandu. Numerous deadlines like application for Startup-Chile, SequoiaHacks, interviews stopped us from going to **Kathmandu**. That will probably happen later.
 
