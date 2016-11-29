@@ -14,11 +14,18 @@ comments: false
 - Predicting Terror With Data #data
 - GitScan - Plagiarism Detection on Github #gen#data
 - LinkedIn Project Add - Automatically add projects you have been added to #gen#chrome
-- YouScan - copied youtube videos on facebook #data
+- YouScan - find copied youtube videos on facebook #data
 - Parallel MySql - A Proxy Server #gen#dev
-- QPayR - Payment via exhausting QR Codes - #security
-- Universal Blog import/export
+- Universal Blog import/export, for example convert a tumblr to jekyl or vice versa.
 - A cab pooling portal for college
+- CodeOnFacebook - News Feed Replaced with Coding Tutorials #chrome
+- ePicTrip - Make itineraries through pictures. Click click and click till you get an itinerary
+- Gump - A cli tool that makes you fit #cli
+- Locately - Track people for events or meet ups in real time #dev
+- Lyrics Substance - Study lyrics to find out the favorite drug of a particular artist or genre #data
+- ReadFeed - Similar to pocket explore, get a feed out of what you have read or what people you follow have read on the Internet.
+- Traction - ProductHunt for ideas or fresh products. An extension that takes you to random landing pages which you can rate.
+- BattleCode - BattleShip for competitive programming. Solve questions and kill enemies by solving test cases.
 
 ## Implemented Ideas
 
