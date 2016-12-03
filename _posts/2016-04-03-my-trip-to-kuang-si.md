@@ -17,7 +17,7 @@ Readers of my previous blog at [Tumblr](0x-gyani.tumblr.com) would know that I h
 **5th January 2016**: We write our names on the board again. It is 11.30 am the guy doesn't show up. Today would be free as we had already paid the cab guy yesterday. We try to ask our scary hostel owner when the guy would come. After two hours the guy shows up. We stop by a couple of hostels and we are on our way to Kuang Si. We meet this dude called Tony. Turns out Tony was in the same bus to Luang Prabang. We reach the falls and we stop by the bathing area. We start diving and enjoying the pool created by the falls. Tony takes out his DSLR and offers us to take pictures which he would send over by email. I have the bright idea of diving with the Go Pro on. Edwin puts the camera on his head, he asks me if it would be alright. He jumps. He comes up but there is no camera on his head. I think he is kidding, after a minute it seems he isn't. I start panicking. We lost his phone yesterday, is it my turn? Is Karma finally getting back at us? There is this local, who in this video does the beautiful somersault. He starts looking for it and keeps looking for it. In the meantime I am standing outside and panicking/screaming. After what felt like whatever the local guy appears with the camera. I thank my stars. Edwin hugs the guy. Watch the entire episode below.
 
 <iframe width="760" height="480"
-src="http://www.youtube.com/embed/swgkC3IEXRM">
+src="https://www.youtube.com/embed/swgkC3IEXRM">
 </iframe>
 
 On the way back Tony asks for my email. I give me email and I thank him. He says don't thank me before I send the pictures. He never sent the pictures.

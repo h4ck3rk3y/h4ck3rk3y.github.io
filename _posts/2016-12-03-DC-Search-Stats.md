@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DC Search Stats, The Great Nepalese Expedition and Life
+title: DC Search Stats, The Great Nepalese Expedition and More
 subtitle: or how we invaded the privacy of 1300 DC++ Users and other things.
 tags: [programming, web, angular, sideproject, life, travel]
 ---
@@ -14,25 +14,25 @@ The last 3 months have been weird. Really weird. August was about placements fol
 One of the most famous videos that we made in the last few months was about the Shikanji Challenge. Prabhjyot, Shubhankar and I visited all rehdis(food stalls) on campus and tried the Shikanji there. Bhagirath Rehdi won, surprisingly. Here is the video.
 
 <iframe width="760" height="480"
-src="http://www.youtube.com/embed/DHd67FtmkdE">
+src="https://www.youtube.com/embed/DHd67FtmkdE">
 </iframe>
 
 We also made a video that talked about our upcoming trip to Nepal. Kathmandu, Pokhara and the Annapurna region. We never ended up going to Kathmandu. In this video we experimented with making a stop motion video. Here it is.
 
 <iframe width="760" height="480"
-src="http://www.youtube.com/embed/jEQqMpY7B0M">
+src="https://www.youtube.com/embed/jEQqMpY7B0M">
 </iframe>
 
 We even made a video about our trek. I'll talk about the trek later but here is the video. This video is just beautiful.
 
 <iframe width="760" height="480"
-src="http://www.youtube.com/embed/YpzV3cymauk">
+src="https://www.youtube.com/embed/YpzV3cymauk">
 </iframe>
 
 Edwin made a great video about our trip to South East Asia. This wasn't under the banner of pSentiSem productions but it's worth a watch.
 
 <iframe width="760" height="480"
-src="http://www.youtube.com/embed/D80i5TUAbyA">
+src="https://www.youtube.com/embed/D80i5TUAbyA">
 </iframe>
 
 There is also an upcoming video, that I shot during the Directors Tea Party(closest to a farewell a Bitsian gets). I went around asking people to say a few sentimental words. I'll embed that here soon.
@@ -49,7 +49,7 @@ From Lucknow we took a night bus to Sonauli(border city) via Gorakhpur. From Son
 
 We arrived in Pokhara on 10th of October in the evening. We learned about how Nepal has a 3 day holiday during Dusshehra. We couldn't head go for the trek as the permit office was closed on the 11th. We went around Pokhara and visited the Lake Side and Sarangkot. Lake Side really felt like we were abroad somewhere. It was full of Cafes. The Fewa Tal was simply beautiful.
 
-![Fewa Tal](/imgs/blog/nepal/fewatal.jpg)
+![Fewa Tal](/img/blog/nepal/fewatal.jpg)
 
 During our trip we explored a lot of top rated restaurants on WikiTravel and some new places that we thought looked worth visiting. We tried Neptalia, The Everest Steak House, Bamboostan Cafe, Almonds Cafe, Busy Bee Cafe, Asian Tea House, White Rabbits Coffee, Chicken N Falafel and Rice Bowl and a place by the Lake, the name of which I don't remeber. Asian Tea house was the best for food and the most economical. White Rabbit makes amazing Coffee and Shakes and deserves to be on the top of whatever list on WikiTravel. Busy Bee was very lively and lived up to it's reputation. Rice Bowl was simply sad, do not go there. The Falafel stall was great too. People at Everest Steak House seemed to be enjoying but I guess it was too bland for two Indian dudes.
 
