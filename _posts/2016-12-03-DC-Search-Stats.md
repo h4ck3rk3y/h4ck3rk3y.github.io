@@ -3,6 +3,7 @@ layout: post
 title: DC Search Stats, The Great Nepalese Expedition and More
 subtitle: or how we invaded the privacy of 1300 DC++ Users and other things.
 tags: [programming, web, angular, sideproject, life, travel]
+fb-img: https://gyani.net/img/blog/nepal/fewatal.jpg
 ---
 
 It feels great to be writing a post about a side project after a long while. The last post I made on the blog was about my trip to Dharamshala back in August. The last post I made about programming was probably about Birbal that too in the beginning of August.
