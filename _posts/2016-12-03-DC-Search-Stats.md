@@ -51,7 +51,7 @@ We arrived in Pokhara on 10th of October in the evening. We learned about how Ne
 
 ![Fewa Tal](/img/blog/nepal/fewatal.jpg)
 
-During our trip we explored a lot of top rated restaurants on WikiTravel and some new places that we thought looked worth visiting. We tried Neptalia, The Everest Steak House, Bamboostan Cafe, Almonds Cafe, Busy Bee Cafe, Asian Tea House, White Rabbits Coffee, Chicken N Falafel and Rice Bowl and a place by the Lake, the name of which I don't remeber. Asian Tea house was the best for food and the most economical. White Rabbit makes amazing Coffee and Shakes and deserves to be on the top of whatever list on WikiTravel. Busy Bee was very lively and lived up to it's reputation. Rice Bowl was simply sad, do not go there. The Falafel stall was great too. People at Everest Steak House seemed to be enjoying but I guess it was too bland for two Indian dudes.
+During our trip we explored a lot of top rated restaurants on WikiTravel and some new places that we thought looked worth visiting. We tried Neptalia, The Everest Steak House, Bamboostan Cafe, Almonds Cafe, Busy Bee Cafe, Asian Tea House, White Rabbits Coffee, Chicken N Falafel and Rice Bowl and a place by the Lake, the name of which I don't remember. Asian Tea house was the best for food and the most economical. White Rabbit makes amazing Coffee and Shakes and deserves to be on the top of whatever list on WikiTravel. Busy Bee was very lively and lived up to it's reputation. Rice Bowl was simply sad, do not go there. The Falafel stall was great too. People at Everest Steak House seemed to be enjoying but I guess it was too bland for two Indian dudes.
 
 ![White Rabbit](/img/blog/nepal/whiterabbit.jpg)
 ![Plate of Momos](/img/blog/nepal/momo.jpg)
