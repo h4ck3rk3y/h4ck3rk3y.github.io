@@ -74,7 +74,7 @@ In November we had the idea of listening on DC++ for search queries. For those o
 
 We had decided to do static analysis of the data collected during the week in which the crawler ran. Nothing happened for a while. I decided to finally learn AngularJS and I made a sideproject that used angular to show what was being searched on DC++ live among other things.
 
-![Screen Sho](/img/blog/screen.png)
+![Screen Shot](/img/blog/screen.png)
 
 I finally feel like making things again. Up next is a website that is basically an year book or a better, faster and more stable version of RouteRush.
 
