@@ -43,7 +43,7 @@ So my first contribution wasn't code. This is something that one should learn. Y
 - Help other users new to the program on IRC
 - Submit OS Fingerprints
 
-Then I started going through the NSE scripts. I figured out that I should go with the easy tasks on the [issue tracker](https://issues.nmap.org). One thing that we as a community can have on Nmap are bugs labeled according to difficulty as *easy*, *medium* or *hard.*. This according to me makes any community more beginner friendly.
+Then I started going through the NSE scripts. I figured out that I should go with the easy tasks on the [issue tracker](http://issues.nmap.org). One thing that we as a community can have on Nmap are bugs labeled according to difficulty as *easy*, *medium* or *hard.*. This according to me makes any community more beginner friendly.
 
 I picked up a task that required combining two different scripts. Two different developers had written scripts related to Wordpress. One script gathered themes and the other gathered plugin information from the given host. The second script used the first script as a template. The community decided to merge the two scripts into one script called *http-wordpress-enum*. Simply put it would enumerate plugins and themes. I didn't have to know how to make GET, POST requests or how Wordpress worked. A testing environment wasn't required as this wasn't an intrusive script. All that was required was Lua 101 and nothing else. I learned a few things after merging the two. **First not just the code but readability matters and second, follow the coding guidelines set up by the community**. You can find the coding guidelines for Nmap [here](https://secwiki.org/w/Nmap/Code_Standards).
 
