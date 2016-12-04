@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started With Nmap(open source)
+title: Getting Started With Nmap
 subtitle: answering the most ansked question on nmap-dev
 tags: [programming, nmap, lua, scripting, gsoc, opensource]
 fb-img: "https://gyani.net/img/blog/nmap.png"
