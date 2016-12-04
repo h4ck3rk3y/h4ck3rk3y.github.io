@@ -12,7 +12,7 @@ So I have been subscribed to the nmap-dev mailing list for about two years now.
 
 Nmap doesn't have the standard *Contributing to Nmap* page that most open source programs have on their websites. I am convinced that is one of the major reasons people keep asking "How to Contribute?" on the mailing list.
 
-I'll break this blog post into two parts, one that tells my story and my background when I started contriubting and the other that talks about how to contribute in general which looks more like a collection of useful resources. My side of the story will lean towards the Nmap Scripting Enigne, the part of Nmap that I find the most flexible and exciting.
+I'll break this blog post into two parts, one that tells my story and my background when I started contributing and the other that talks about how to contribute in general which looks more like a collection of useful resources. My side of the story will lean towards the Nmap Scripting Enigne, the part of Nmap that I find the most flexible and exciting.
 
 This post is in a draftish state. It might be long, bear with me and sip some tea and help me refine this by letting me know if I should make any edits. I have seen a very small portion of the Code Base and I'll probably miss a lot of things and maybe some interesting components.
 
@@ -22,7 +22,7 @@ I started contributing to Open Source in December of 2014. I tried contributing 
 
 Knowledge of Git, GitHub(the difference between the two), IRC and relevant programming knowledge helps with any organization that you pick. If you know Git which is the most popular version control it shouldn't be tough for you to switch to something like svn or mercurial. Something that I think personally helps is having Linux running on your system. When I started with open source, I used to get awe struck by watching people perform command line magic, it isn't magical it comes with time.
 
-If you are reading this post while thinking of trying for GSoC 2017 remember that GSoC is a beginner-intermediate programme and not an experts programme. If you are an expert then you are better of being a mentor. So if you are new to open source you shouldn't worry much, you should simply try to contribute.
+If you are reading this post while thinking of trying for GSoC 2017 remember that GSoC is a beginner-intermediate program and is not for experts. If you are an expert then you are better of being a mentor. So if you are new to open source you shouldn't worry much, you should simply try to contribute.
 
 Eventually I lost interest in the project and the community and then I decided to switch to a project that is of interest to me, something that has to do with security. I chose Nmap, something that I had played with a bit earlier and something that probably all of us have seen in the movie The Matrix Reloaded.
 
@@ -31,7 +31,7 @@ I had taken to writing scripts in Python and thought that writing scripts in Lua
 
 To get started with Nmap, I made my first contribution around January of 2013. I saw that ZenMap lacked a *Hindi*. I went through the mailing list nmap-dev and saw that someone had claimed the task of writing a *Hindi* translation but left it midway. I contacted the guy and he said that I could proceed with writing the translation. I went through the instructions of creating a translation file and started translating things into Hindi by typing using Quilipad.
 
-So my first contribution wasn't code. This is something that one should learn. You don't have to contribute code to contribute to open source. There are many different ways to contribue open source, some of them are.
+So my first contribution wasn't code. This is something that one should learn. You don't have to contribute code to contribute to open source. There are many different ways to contribute open source, some of them are.
 
     - Contribute translations
     - Improve existing documentation
@@ -43,13 +43,13 @@ So my first contribution wasn't code. This is something that one should learn. Y
     - Help other users new to the program on IRC
     - Submit OS Fingerprints
 
-Then I started going through the NSE scripts. I figured out that I should go with the easy tasks on the [issue tracker](https://issues.nmap.org). One thing that we as a community can have on Nmap are bugs labeled according to difficulty as *easy*, *medium* or *hard.*. This according to me makes any community more beginer friendly.
+Then I started going through the NSE scripts. I figured out that I should go with the easy tasks on the [issue tracker](https://issues.nmap.org). One thing that we as a community can have on Nmap are bugs labeled according to difficulty as *easy*, *medium* or *hard.*. This according to me makes any community more beginner friendly.
 
 I picked up a task that required combining two different scripts. Two different developers had written scripts related to Wordpress. One script gathered themes and the other gathered plugin information from the given host. The second script used the first script as a template. The community decided to merge the two scripts into one script called *http-wordpress-enum*. Simply put it would enumerate plugins and themes. I didn't have to know how to make GET, POST requests or how Wordpress worked. A testing environment wasn't required as this wasn't an intrusive script. All that was required was Lua 101 and nothing else. I learned a few things after merging the two. **First not just the code but readability matters and second, follow the coding guidelines set up by the community**. You can find the coding guidelines for Nmap [here](https://secwiki.org/w/Nmap/Code_Standards).
 
 After this I picked up a few Nmap Libraries like *stdnse* and the *http* library. All libraries and scripts are very well documented and the documentation is available [here](https://nmap.org/nsedoc/index.html). **You don't need to know everthing**. You can read the documentation of whatever you need to use. You just need to know what code lies where.
 
-I started working on scripts of my own and started putting things on the mailing list. I picked up a few tasks from the isse tracker and started working on them. Here is my a link to my [work](https://svn.nmap.org/nmap-exp/gyani/). So that's my story.
+I started working on scripts of my own and started putting things on the mailing list. I picked up a few tasks from the issue tracker and started working on them. Here is my a link to my [work](https://svn.nmap.org/nmap-exp/gyani/). So that's my story.
 
 # How to Contribuet to Nmap?
 
@@ -59,7 +59,7 @@ Like any open source project one thing you should immediately do is to connect w
     - nmap-dev on seclists
     - nmap-announce on seclists, a really small mailing list with very few posts
 
-You should also know where the source code lies and you should probably fork a copy. Nmap started out on svn and is now on both git and svn. The GitHub repo of Nmap lies [here](https://github.com/nmap/nmap/). The svn repo lies [here](https://svn.nmap.org). How I understand this works is, that there is a bot that keeps the svn commits even with the GitHub commits. To begin with Nmap you'll probably be creating Pull Requests on GitHub or you will be submitting patches to the mailing list so you don't have to worry about svn for now.
+You should also know where the source code lies and you should probably fork a copy. Nmap started out on svn and is now on both git and svn. The GitHub repository of Nmap lies [here](https://github.com/nmap/nmap/). The svn repo lies [here](https://svn.nmap.org). How I understand this works is, that there is a bot that keeps the svn commits even with the GitHub commits. To begin with Nmap you'll probably be creating Pull Requests on GitHub or you will be submitting patches to the mailing list so you don't have to worry about svn for now.
 
 We have a lot of documentation and information at a lot of places this is  probably confusing for new people.
 
