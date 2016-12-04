@@ -33,15 +33,15 @@ To get started with Nmap, I made my first contribution around January of 2013. I
 
 So my first contribution wasn't code. This is something that one should learn. You don't have to contribute code to contribute to open source. There are many different ways to contribute open source, some of them are.
 
-    - Contribute translations
-    - Improve existing documentation
-    - Submit bug reports when you encounter them
-    - Get involved by responding to RFCs giving your perspective as a user
-    - Contribute Actual Code
-    - Donate if your organization accepts donations
-    - Show the community some love by sharing cool new features that you like
-    - Help other users new to the program on IRC
-    - Submit OS Fingerprints
+- Contribute translations
+- Improve existing documentation
+- Submit bug reports when you encounter them
+- Get involved by responding to RFCs giving your perspective as a user
+- Contribute Actual Code
+- Donate if your organization accepts donations
+- Show the community some love by sharing cool new features that you like
+- Help other users new to the program on IRC
+- Submit OS Fingerprints
 
 Then I started going through the NSE scripts. I figured out that I should go with the easy tasks on the [issue tracker](https://issues.nmap.org). One thing that we as a community can have on Nmap are bugs labeled according to difficulty as *easy*, *medium* or *hard.*. This according to me makes any community more beginner friendly.
 
@@ -55,33 +55,33 @@ I started working on scripts of my own and started putting things on the mailing
 
 Like any open source project one thing you should immediately do is to connect with us. We like to talk, not a lot but we help anyone who needs help. Get connected with other Nmap Developers and Users here.
 
-    - #nmap on FreeNode. If you are new to IRC I suggest IRCCloud
-    - nmap-dev on seclists
-    - nmap-announce on seclists, a really small mailing list with very few posts
+- #nmap on FreeNode. If you are new to IRC I suggest IRCCloud
+- nmap-dev on seclists
+- nmap-announce on seclists, a really small mailing list with very few posts
 
 You should also know where the source code lies and you should probably fork a copy. Nmap started out on svn and is now on both git and svn. The GitHub repository of Nmap lies [here](https://github.com/nmap/nmap/). The svn repo lies [here](https://svn.nmap.org). How I understand this works is, that there is a bot that keeps the svn commits even with the GitHub commits. To begin with Nmap you'll probably be creating Pull Requests on GitHub or you will be submitting patches to the mailing list so you don't have to worry about svn for now.
 
 We have a lot of documentation and information at a lot of places this is  probably confusing for new people.
 
-    - Best possible [NSE documentation](https://nmap.org/nsedoc/index.html)
-    - There is a lot of security and nmap related content on [secwiki.org](https://secwiki.org/w/Special:AllPages).
-    - [Seclists](http://seclists.org/) has a lot of security related mailing lists, useful for anyone in the community.
-    - The original author of Nmap *Fyodor* wrote a book about using the Nmap Security Scanner. Half of it is available online for [free](https://nmap.org/book/).
-    - A link to the official documentation and the [Nmap Reference Guide](https://nmap.org/docs.html).
-    - The [DefCon video](https://www.youtube.com/watch?v=M-Uq7YSfZ4I) that got me to love NSE.
+- Best possible [NSE documentation](https://nmap.org/nsedoc/index.html)
+- There is a lot of security and nmap related content on [secwiki.org](https://secwiki.org/w/Special:AllPages).
+- [Seclists](http://seclists.org/) has a lot of security related mailing lists, useful for anyone in the community.
+- The original author of Nmap *Fyodor* wrote a book about using the Nmap Security Scanner. Half of it is available online for [free](https://nmap.org/book/).
+- A link to the official documentation and the [Nmap Reference Guide](https://nmap.org/docs.html).
+- The [DefCon video](https://www.youtube.com/watch?v=M-Uq7YSfZ4I) that got me to love NSE.
 
 We have something for everyone. The stack is pretty wide. I'll try to list out the various parts of Nmap, different people with different programming knowledge can contribute to.
 
-    - **Python** - Zenmap(Nmaps GUI), Ndiff
-    - **Lua** - Nmap Scripting Engine
-    - **C** - Nsock, Ncat, Nbase, nmap-update
-    - **C++** - Nmap, Nping, libnetutil
-    - **No Programming Knowledge** - Translations, Fingerprints, Documentation
+- **Python** - Zenmap(Nmaps GUI), Ndiff
+- **Lua** - Nmap Scripting Engine
+- **C** - Nsock, Ncat, Nbase, nmap-update
+- **C++** - Nmap, Nping, libnetutil
+- **No Programming Knowledge** - Translations, Fingerprints, Documentation
 
 Some other resources that you could go through
 
-    - Here lies the official [Contributing.md](https://github.com/nmap/nmap/blob/master/CONTRIBUTING.md) file.
-    - An in depth answer to How to Contirbute? answered by Jacek *d33tah* Wielemborek can be found [here](http://seclists.org/nmap-dev/2014/q1/2). I highly recommend this.
-    - The *HACKING* file for new developers. It talks about how to contribtue for upcoming developers. Find it [here](https://github.com/nmap/nmap/blob/master/HACKING).
-    - A file that walks you through the code base and explains what exists and why it exists. Again on [Secwiki](https://secwiki.org/w/Nmap/Code_walkthrough).
-    - As linked earlier the [coding standards page](https://secwiki.org/w/Nmap/Code_Standards).
+- Here lies the official [Contributing.md](https://github.com/nmap/nmap/blob/master/CONTRIBUTING.md) file.
+- An in depth answer to How to Contirbute? answered by Jacek *d33tah* Wielemborek can be found [here](http://seclists.org/nmap-dev/2014/q1/2). I highly recommend this.
+- The *HACKING* file for new developers. It talks about how to contribtue for upcoming developers. Find it [here](https://github.com/nmap/nmap/blob/master/HACKING).
+- A file that walks you through the code base and explains what exists and why it exists. Again on [Secwiki](https://secwiki.org/w/Nmap/Code_walkthrough).
+- As linked earlier the [coding standards page](https://secwiki.org/w/Nmap/Code_Standards).
