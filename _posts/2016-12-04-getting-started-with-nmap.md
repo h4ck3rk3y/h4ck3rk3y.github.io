@@ -33,7 +33,7 @@ I had taken to writing scripts in Python and thought that writing scripts in Lua
 
 I use the word hacking here meaning *gain unauthorized access to data in a system or computer* and not *an appropriate application of ingenuity*. Developing Zenmap requires a lot of thought and skills. As Fyodor says, developing Zenmap requires a mix of good design skills and thinking about the use cases as well as the ability to implement them well in code. Also Zenmap is way more than a GUI, instead it has a lot of complex functionality unlike plain results in a window like some other software.
 
-To get started with Nmap, I made my first contribution around January of 2013. I saw that ZenMap lacked a *Hindi*. I went through the mailing list nmap-dev and saw that someone had claimed the task of writing a *Hindi* translation but left it midway. I contacted the guy and he said that I could proceed with writing the translation. I went through the instructions of creating a translation file and started translating things into Hindi by typing using Quillpad.
+To get started with Nmap, I made my first contribution around January of 2013. I saw that ZenMap lacked *Hindi* language support. I went through the mailing list nmap-dev and saw that someone had claimed the task of writing a *Hindi* translation but left it midway. I contacted the guy and he said that I could proceed with writing the translation. I went through the instructions of creating a translation file and started translating things into Hindi by typing using Quillpad.
 
 So my first contribution wasn't code. This is something that one should learn. You don't have to contribute code to contribute to open source. There are many different ways to contribute open source, some of them are.
 
