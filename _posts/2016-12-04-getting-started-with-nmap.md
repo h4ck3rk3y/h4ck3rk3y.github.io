@@ -22,14 +22,16 @@ I started contributing to Open Source in December of 2014. I tried contributing 
 
 Knowledge of Git, GitHub(the difference between the two), IRC and relevant programming knowledge helps with any organization that you pick. If you know Git which is the most popular version control it shouldn't be tough for you to switch to something like svn or mercurial. Something that I think personally helps is having Linux running on your system. When I started with open source, I used to get awe struck by watching people perform command line magic, it isn't magical it comes with time.
 
-If you are reading this post while thinking of trying for GSoC 2017 remember that GSoC is a beginner-intermediate program and is not for experts. If you are an expert then you are better of being a mentor. So if you are new to open source you shouldn't worry much, you should simply try to contribute.
+If you are reading this post while thinking of trying for GSoC 2017 remember that GSoC is a beginner-intermediate~~program and is not for experts. If you are an expert then you are better of being a mentor~~-expert level program. There is something for everyone. So if you are new to open source you shouldn't worry much, you should simply try to contribute.
 
-Update:
+Fyodor, the original author and maintainer of Nmap rightly points out that the Nmap team prefers to select mentors with significant Nmap Development experience and that being a student provides you an opportunity to do more hands-on engineering plus the compensation only goes to students and not mentors. So if you are someone with expert-skills you are still better of starting as a student at Nmap.
 
 Eventually I lost interest in the project and the community and then I decided to switch to a project that is of interest to me, something that has to do with security. I chose Nmap, something that I had played with a bit earlier and something that probably all of us have seen in the movie The Matrix Reloaded.
 
 I started looking around the various parts of Nmap and decided that core Nmap might be a bit too much for me as it's heavy on networking and runs in C/C++.
 I had taken to writing scripts in Python and thought that writing scripts in Lua wouldn't be that difficult. I wanted to work on the *hacking* and not the *UI* so Zenmap wasn't an option for me.
+
+I use the word hacking here meaning *gain unauthorized access to data in a system or computer* and not *an appropriate application of ingenuity*. Fyodor rightly points out that developing Zenmap requires a mix of good design skills and thinking about the use cases as well as the ability to implement them well in code. Also Zenmap is way more than a GUI, instead it has a lot of complex functionality unlike plain results in a window like some other software.
 
 To get started with Nmap, I made my first contribution around January of 2013. I saw that ZenMap lacked a *Hindi*. I went through the mailing list nmap-dev and saw that someone had claimed the task of writing a *Hindi* translation but left it midway. I contacted the guy and he said that I could proceed with writing the translation. I went through the instructions of creating a translation file and started translating things into Hindi by typing using Quillpad.
 
@@ -87,3 +89,5 @@ Some other resources that you could go through
 - The *HACKING* file for new developers. It talks about how to contribute for upcoming developers. Find it [here](https://github.com/nmap/nmap/blob/master/HACKING).
 - A file that walks you through the code base and explains what exists and why it exists. Again on [Secwiki](https://secwiki.org/w/Nmap/Code_walkthrough).
 - As linked earlier the [coding standards page](https://secwiki.org/w/Nmap/Code_Standards).
+
+**Updated 16th December 2016 20:05**. Thank you Fyodor for your valuable suggestions.
