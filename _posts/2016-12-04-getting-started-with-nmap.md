@@ -24,6 +24,8 @@ Knowledge of Git, GitHub(the difference between the two), IRC and relevant progr
 
 If you are reading this post while thinking of trying for GSoC 2017 remember that GSoC is a beginner-intermediate program and is not for experts. If you are an expert then you are better of being a mentor. So if you are new to open source you shouldn't worry much, you should simply try to contribute.
 
+Update:
+
 Eventually I lost interest in the project and the community and then I decided to switch to a project that is of interest to me, something that has to do with security. I chose Nmap, something that I had played with a bit earlier and something that probably all of us have seen in the movie The Matrix Reloaded.
 
 I started looking around the various parts of Nmap and decided that core Nmap might be a bit too much for me as it's heavy on networking and runs in C/C++.
@@ -56,8 +58,8 @@ I started working on scripts of my own and started putting things on the mailing
 Like any open source project one thing you should immediately do is to connect with us. We like to talk, not a lot but we help anyone who needs help. Get connected with other Nmap Developers and Users here.
 
 - #nmap on FreeNode. If you are new to IRC I suggest IRCCloud
-- nmap-dev on seclists
-- nmap-announce on seclists, a really small mailing list with very few posts
+- nmap-dev on [seclists](http://seclists.org/nmap-dev/)
+- nmap-announce on [seclists](http://seclists.org/nmap-announce/), a really small mailing list with very few posts
 
 You should also know where the source code lies and you should probably fork a copy. Nmap started out on svn and is now on both git and svn. The GitHub repository of Nmap lies [here](https://github.com/nmap/nmap/). The svn repository lies [here](https://svn.nmap.org). How I understand this works is, that there is a bot that keeps the svn commits even with the GitHub commits. To begin with Nmap you'll probably be creating Pull Requests on GitHub or you will be submitting patches to the mailing list so you don't have to worry about svn for now.
 
