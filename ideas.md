@@ -26,6 +26,7 @@ comments: false
 - ReadFeed - Similar to pocket explore, get a feed out of what you have read or what people you follow have read on the Internet.
 - Traction - ProductHunt for ideas or fresh products. An extension that takes you to random landing pages which you can rate.
 - BattleCode - BattleShip for competitive programming. Solve questions and kill enemies by solving test cases.
+- TripSplit - Split cabs, hotel rooms, group bookings etc when going for a trip.
 
 ## Implemented Ideas
 
