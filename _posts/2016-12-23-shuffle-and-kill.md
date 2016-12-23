@@ -6,7 +6,7 @@ tags: [freelancing, travel, programming]
 fb-img: http://gyani.net/img/blog/youtube.png
 ---
 
-![Youtube](/img/blog/m5PIdIZ.jpg)
+![Youtube](/img/blog/youtube.png)
 
 
 ## Problem
@@ -17,4 +17,4 @@ During my days in Pilani(sob), I had a Logitech speaker. I would play a lot of m
 
 Last night I hacked together a chrome extension that would close the tab which had just finished playing and start playing a song on a random tab containing a not yet started YouTube video.
 
-Hence the name Shuffle and Kill. You can get the chrome extension  ![here](https://chrome.google.com/webstore/detail/lpmlbpbaopjjlfilhkpbbkbnlngmdogj/)
+Hence the name Shuffle and Kill. You can get the chrome extension  [here](https://chrome.google.com/webstore/detail/lpmlbpbaopjjlfilhkpbbkbnlngmdogj/).
