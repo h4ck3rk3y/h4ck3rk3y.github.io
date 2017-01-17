@@ -6,7 +6,7 @@ comments: false
 ---
 
 A list of things I have worked on in the recent past, watch out for more!
---- 
+---
 
 ## Software
 
@@ -17,6 +17,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[BroBot](https://github.com/Zephrys/Bro)** - Worked in a team of two to develop a bot that answers queries similar to *Where can I get the best Pizza in Chicago?* or *Where can I get the room with the best view of the Eifel tower? in Paris*. The bot maybe live if you want to try it, look at the [twitter handle](https://twitter.com/broknowsyouknow)
 - **[DinnerDateBot](https://telegram.me/DinnerDateBot)** - Worked in a team of two to develop a bot that sets up dinner dates. Used API.ai to make sense of natural language. The bot first gets you reigstered and then asks about your location and your cuisine preference after which it finds you a match.
+- **[Birbal](https://telegram.me/BirbalBot)** - Worked in a team of two to build a bot that allows customers to buy the perfect phone for them. Several times people ask me what phone should they buy, Birbal helps you with that and talks just like your techie friend does.
 
 ## Websites
 
@@ -30,6 +31,7 @@ A list of things I have worked on in the recent past, watch out for more!
 
 - **[Weblog](https://gyani.net)** - My web presence.
 
+- **DC Search Stats** - Created a website in AngularJs and Flask that would show what is being searched on the campus DC++ network. It had some other features like 'Who searched for X?' and a user list. Received 100,000+ hits in 4 days.
 
 ## Android
 
@@ -40,6 +42,8 @@ A list of things I have worked on in the recent past, watch out for more!
 - **[RevMine](https://bit.ly/revmine)** - Quantifies reviews. Reads text parses important features and provides astonishing insights. [Get the extension at the Google Web Store](https://chrome.google.com/webstore/detail/revmine/inmjjendcicpkopjimcmakbiafkgjddb). The repository lies here, [RevMine at Github](https://github.com/Zephrys/RevMineApp).
 
 - **[TrumpCat](https://chrome.google.com/webstore/detail/trumpcat/hfajcdnolhbfcbcfkjkppgjlmfidpnnd)** - The trumpcat extension works to save your eyes from the images of Donald Trump. It simply replaces images of Donald Trump with cute kittens.
+
+- **[ShuffleAndKill](https://chrome.google.com/webstore/detail/shuffle-kill/lpmlbpbaopjjlfilhkpbbkbnlngmdogj)** A simple chrom extension to play songs on YouTube. Open songs on multiple tabs, the extension would automatically kill the tab done playing music and start playing music on a different tab.
 
 ## Command Line Apps
 
