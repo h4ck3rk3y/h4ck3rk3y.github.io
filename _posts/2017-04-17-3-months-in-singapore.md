@@ -19,7 +19,7 @@ I just came from a talk I gave at the Singapore Python Users Group or PUGS as th
 It was a nice exposure, the group has around 2000 members, the talk was full as all 90 seats were taken on Meetup.com. In a 90 person meetup, 90 people never show up. The talk happened at the Carousell office. Carousell is a popular startup here, it's similar to OLX.
 
 <iframe width="760" height="480"
-src="https://www.youtube.com/watch?v=me9PXsNzxGg">
+src="https://www.youtube.com/embed/me9PXsNzxGg">
 </iframe>
 
 One reason to go to Meetups is free Pizza. Almost every decent Meetup has lot's of them. The second and more important reason is that you learn a lot. The third and the most important reason is that you get to meet with people who are doing things like you.
@@ -159,7 +159,7 @@ I also had the pleasure of visiting the United Kingdom for an interview at Londo
 
 ![Just another day in the city](/img/blog/pink.jpg)
 
-![The Legend was born here](/img/blog/gawkes.jpg)
+![The Legend was born here](/img/blog/fawkes.jpg)
 
 # Work
 
