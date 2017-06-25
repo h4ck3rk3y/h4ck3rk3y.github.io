@@ -5,7 +5,7 @@ subtitle: laurels and accolades
 comments: false
 ---
 
-Some recent achievements in major hackathons, ctfs and quizzes.
+Some recent achievements in major hackathons, ctfs and quizzes. This list hasn't been updated in an year.
 ---
 
 ## Hackathons

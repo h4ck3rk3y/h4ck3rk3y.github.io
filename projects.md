@@ -5,7 +5,7 @@ subtitle: Some code that I have written
 comments: false
 ---
 
-A list of things I have worked on in the recent past, watch out for more!
+I am not actively updating this list anymore though!
 ---
 
 ## Software
