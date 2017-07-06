@@ -3,7 +3,7 @@ layout: post
 title: Internship at Go-Jek!
 subtitle: an extremely brutal boot camp
 tags: [programming, travel, life]
-fb-img: http://gyani.net/img/blog/go-jek.jpg
+fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
 Between my previous internship and my permanent job I had a few months so I decided to make myself useful and do an Internship. I wanted to feel how a start up feels like and **Go-Jek** seemed perfect.
