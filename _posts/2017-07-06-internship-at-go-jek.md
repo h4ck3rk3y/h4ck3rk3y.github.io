@@ -58,7 +58,7 @@ We have been given a list of non-negotiable etiquettes that can't be ignored. If
   + Comments are an excuse for bad code
 - Run time environment and IDE environment should be consistent
 - Use .gitignore
-- Ensure that there is always a Readme.md that helps get new devs up and running.
+- Ensure that there is always a README.md that helps get new devs up and running.
 
 ![rm -rf everything](/img/blog/delete.gif)
 
