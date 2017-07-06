@@ -62,6 +62,8 @@ We have been given a list of non-negotiable etiquettes that can't be ignored. If
 
 ![rm -rf everything](/img/blog/delete.gif)
 
+## Branching is Bad
+
 At the beginning of the session we were told that we will be given a lot of knowledge that might be contrary to the what you might expect, one of them was that **branching** is **bad**. This was mind blowing. This following arguments were given against branching:
 
 - Branching is an excuse for bad code
