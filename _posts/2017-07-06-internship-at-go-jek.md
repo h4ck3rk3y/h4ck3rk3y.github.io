@@ -8,7 +8,7 @@ fb-img: http://gyani.net/img/blog/go-jek.jpg
 
 Between my previous internship and my permanent job I had a few months so I decided to make myself useful and do an Internship. I wanted to feel how a start up feels like and **Go-Jek** seemed perfect.
 
-Go-Jek is Indonesia first Unicorn and provides every service once could think of from movie tickets, cab rides, scooter rides to transportation of goods all through one app. They grew 900x in he past 18 months. The growth is phenomenal.
+Go-Jek is Indonesia's first Unicorn and provides every service once could think of from movie tickets, cab rides, scooter rides to transportation of goods all through one app. They grew 900x in he past 18 months. The growth is phenomenal.
 
 My mentors decided that the boot-camp they were conducting for fresh grads would help me learn the most. After two days of the boot-camp, I agree with them.
 
