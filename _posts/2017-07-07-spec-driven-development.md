@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ~~Test~~ Spec Driven Development
+title: Spec Driven Development
 subtitle: write specifications not tests
 tags: [programming]
 fb-img: https://gyani.net/img/blog/go-jek.png
