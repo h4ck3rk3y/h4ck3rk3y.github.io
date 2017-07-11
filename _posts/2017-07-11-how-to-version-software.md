@@ -16,7 +16,7 @@ This was followed by the question.
 
 Think. If used properly, it has something to do with compatibility.
 
-The major version number(6 in our case) indicates that some code has been depcircated or removed. So if you shift from version 6.x.x to version 7.x.x something might break. That is version 7 might not be backwards compatible. The code might not follow the original contract
+The major version number(6 in our case) indicates that some code has been depreciated or removed. So if you shift from version 6.x.x to version 7.x.x something might break. That is version 7 might not be backwards compatible. The code might not follow the original contract
 
 The middle number indicates addition of features. Your existing code will not break but they have something new that you should look at. The code follows the original contract and does more.
 
