@@ -14,7 +14,7 @@ Clean Code: A Handbook of Agile Software Craftsmanship and The Pragmatic Program
 
 The idea is to be ruthlessly pragmatic. Reminds you of someone, I am sure it does.
 
-![/img/blog/frank.gif](Frank Underwood)
+![Frank Underwood](/img/blog/frank.gif)
 
 I have a lot more books to read, the coach says we should aim at finishing them in the next six months. The entire list is an absolute treasure find it [here](https://blog.gojekengineering.com/the-go-jek-reading-list-1088712ccc14).
 
@@ -39,7 +39,7 @@ Estimate everything not just time required to complete a job but things about th
 
 You can't know how to optimize unless you know what to optimize. So always profile first.
 
-![/img/blog/estimation.gif](Estimates)
+![Estimates](/img/blog/estimation.gif)
 
 Another thing we learned during boot-camp is *norming*. This isn't from the book but it's very much related. After every iteration(ideally an iteration is very small, not more than 2 weeks) see if your team could meet the velocity it had set. If not find out why? Do the standard **5 whys** and find out what changed. Did your velocity just drop because you switched to a different framework or did the developers just fall lazy? Remember, velocity has no meaning across teams.
 
@@ -80,6 +80,6 @@ You can also take it up a notch with ~~T~~ SDD. Follow the TDD Mantra
 
 Read the book *TDD by Example* to understand TDD better. The definition of the poverty line can change with time as we grow as Engineers. *TDD By Example* and *Structured Interpretation of Computer Programs* are included in other definitions of the Go-Jek reading poverty line.
 
-![/img/blog/tests.gif](Works as expected)
+![Tests](/img/blog/tests.gif)
 
 This by no means is an appropriate summary of the Pragmatic Programmer but it's getting late. The Author has too sleep.
