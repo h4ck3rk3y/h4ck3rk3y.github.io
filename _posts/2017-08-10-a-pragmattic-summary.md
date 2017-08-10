@@ -70,7 +70,7 @@ Ruthlessly test everything. I mean everything. Write ~~Unit Tests~~, oh I mean S
 - Usability Testing
     + Ask your users how they feel about what you just created
 
-You can also take it up a notch with ~~T~~ SDD. Follow the TDD Mantra
+You can also take it up a notch with ~~T~~SDD. Follow the TDD Mantra
 
 - Write test code to fail [RED]
 - Write code that passes the test code and not more [GREEN]
@@ -78,8 +78,8 @@ You can also take it up a notch with ~~T~~ SDD. Follow the TDD Mantra
 - Refactor, no refactoring specs though. Run Tests.
 - Commit
 
-Read the book *TDD by Example* to understand TDD better. The definition of the poverty line can change with time as we grow as Engineers. *TDD By Example* and *Structured Interpretation of Computer Programs* are included in other definitions of the Go-Jek reading poverty line.
+Read the book *TDD by Example* to understand TDD better. The definition of the poverty line can change with time as we grow as Engineers. *TDD By Example* and *Structure and Interpretation of Computer Programs* are included in other definitions of the Go-Jek reading poverty line.
 
 ![Tests](/img/blog/tests.gif)
 
-This by no means is an appropriate summary of the Pragmatic Programmer but it's getting late. The Author has too sleep.
+This by no means is an appropriate summary of the Pragmatic Programmer but it's getting late. The Author has to sleep.
