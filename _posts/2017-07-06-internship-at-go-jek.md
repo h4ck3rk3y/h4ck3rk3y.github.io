@@ -40,7 +40,7 @@ Couple of other pointers
 
 A lot has been said in the past 2 days that University Education simply misses.A lot of these things are tough to find if you are learning to program on your own.
 
-Earlier this year I was introduced to the book *Clean Code: A Handbook of Agile Software Craftsmanship* by [Mihaly Zagon](https://www.linkedin.com/in/zagonmihaly/) in the feedback session after an interview. During the boot-camp we are being taught how to follow every word of it and more.
+Earlier this year I was introduced to the book *Clean Code: A Handbook of Agile Software Craftsmanship written by Robert Cecil Martin*, by [Mihaly Zagon](https://www.linkedin.com/in/zagonmihaly/) a programmer at Prezi in a feedback session after an interview. During the boot-camp we are being taught how to follow every word of it and more.
 
 ## Non Negotiable Etiquettes
 
