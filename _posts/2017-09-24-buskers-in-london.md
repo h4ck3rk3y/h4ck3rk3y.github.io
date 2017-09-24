@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Buskers in London and other ideas
+title: Buskers in London
 subtitle: .. week 2 cause we count from 0
 tags: [london, bloomberg, apartment search]
 ---
 
-So I have been living in London for a week.
 
 ## What have I managed to do in the last week?
 
