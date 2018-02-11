@@ -3,7 +3,7 @@ layout: post
 title: Planning travel
 subtitle: .. can it be a little easier?
 tags: [travel, planning, ideas]
-fb-img: https://cdn.pixabay.com/photo/2017/05/09/03/46/alberta-2297204_960_720.jpg
+fb-img: https://gyani.net/img/lake.jpg
 ---
 
 # Past Work
@@ -42,7 +42,7 @@ web is not knowing UX. Back-ends are fun, so are smaller services but for the li
 
 ## O, Canada
 
-![Really looking forwad to Lake Louise](https://cdn.pixabay.com/photo/2017/05/09/03/46/alberta-2297204_960_720.jpg)
+![Really looking forwad to Lake Louise](/img/lake.jpg)
 
 So I have been planning a few trips recently. The most recent one has been my trip to Canada. So my parents wanted to visit me in London
 and also go to Canada for a total of 20-30 days. The above trip can be done in a lot of permutations. Few of them are,
