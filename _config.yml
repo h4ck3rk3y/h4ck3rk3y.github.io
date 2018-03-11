@@ -31,7 +31,7 @@ navbar-links:
   Projects: "projects"
   About: "about"
   Achievements: "achievements"
-  Resume: "//files/resume.pdf"
+  Resume: "https://gyani.net/files/resume.pdf"
 
 # --- Footer options --- #
 
