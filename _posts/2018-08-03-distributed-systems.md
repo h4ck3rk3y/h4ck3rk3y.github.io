@@ -29,7 +29,11 @@ on Distributed Systems and I have found a few good links :
 - [The person who wrote Jespen created a nice outline for a distribtued systems class](https://github.com/aphyr/distsys-class)
 - [MapReduce Paper](https://ai.google/research/pubs/pub62)
 - [System Design Primer - Though this is meant for people interviewing it has good starting points](https://github.com/donnemartin/system-design-primer)
+- [MIT 6.824 - A course on distributed systems](http://nil.csail.mit.edu/6.824/2015/general.html)
 
+
+Videos for the 2015 MIT 6.824 Spring Lectures are online. According to the course website Robert Morris takes the course. He is
+the guy who wrote the first worm on the internet. He is also involved in YC.
 
 The Stanford Course requires a Stanford login for the videos but the syllabus is accessible. They also have a
 great list of [projects](http://www.scs.stanford.edu/17au-cs244b/labs/project.html). All the projects look
