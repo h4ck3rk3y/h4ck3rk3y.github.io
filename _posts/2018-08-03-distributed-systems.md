@@ -6,7 +6,7 @@ tags: [golang, distributed, learning, guitar]
 ---
 
 I've decided to learn about distributed systems. They seem really interesting. I've been looking at the theory
-but in a very hacky way. I'm trying to come up with a more directed plan on learning distribtued systems.
+but in a very hacky way. I'm trying to come up with a more directed plan on learning distributed systems.
 
 I usually learn things by doing. I like to get my hands dirty. When I'm picking up new languages for example
 I try to have a project that I could potentially work on. I then proceed to read some syntax and after I am
@@ -26,7 +26,7 @@ on Distributed Systems and I have found a few good links :
 - [Distributed Systems Theory for Distributed Systems Engineers](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [A book - Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
 - [A Stanford Course on Distributed Systems](http://www.scs.stanford.edu/17au-cs244b/sched/)
-- [The person who wrote Jespen created a nice outline for a distribtued systems class](https://github.com/aphyr/distsys-class)
+- [The person who wrote Jespen created a nice outline for a distributed systems class](https://github.com/aphyr/distsys-class)
 - [MapReduce Paper](https://ai.google/research/pubs/pub62)
 - [System Design Primer - Though this is meant for people interviewing it has good starting points](https://github.com/donnemartin/system-design-primer)
 - [MIT 6.824 - A course on distributed systems](http://nil.csail.mit.edu/6.824/2015/general.html)
@@ -45,13 +45,13 @@ idea that I like.
 
 Someone suggests that I play with my own Kubernetes cluster by deploying one from scratch. I could do that. At work a colleague
 is pushing for the internal platform as a service which builds on top of Kubernetes, so some knowledge of Kubernetes would
-be useufl for work as well.
+be useful for work as well.
 
 ![Martin Smith Guitar](/img/blog/guitar.jpg)
 
-I have started listening to rock again. Thank to AC/DC. I bought a guitar yesterday that just arrived. The plan is the same
-learn some basics and then just start learning ThunderStruck, picking that project was easy as I just can't stop listening to it.
-Upnext would be "Dream On". Yep, I still listen to very cliche tracks.
+I have started listening to rock again. Thanks to AC/DC. I bought a guitar yesterday that just arrived. The plan is the same,
+learn some basics and then just start learning Thunder Struck, picking that project was easy as I just can't stop listening to it.
+Up next would be "Dream On". Yep, I still listen to very cliche tracks.
 
-Well thats my weekend. Distribtued systems and the guitar. Hasn't been super productive so far and now I need to head out
+Well that's my weekend. Distributed systems and the guitar. Hasn't been super productive so far and now I need to head out
 to the London Edition of Bitsians Day.
