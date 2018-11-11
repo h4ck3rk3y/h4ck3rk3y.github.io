@@ -21,7 +21,7 @@ I guess we can't debate point one. About point two :-
 2. You think you are already onto something. Just let me know what you are up.
 2. If you have a sense of dissatisfaction please continue reading.
 
-Why is it that the smartest people I know are doing really average things in life? There's a ![blog](http://www.sebastianmarshall.com/if-you-want-to-get-rich-stop-being-a-fucking-joker?1) I read before the starting of this trip that I'll link that conveys this point.
+Why is it that the smartest people I know are doing really average things in life? There's a [blog](http://www.sebastianmarshall.com/if-you-want-to-get-rich-stop-being-a-fucking-joker?1) I read before the starting of this trip that I'll link that conveys this point.
 
 Doing what most people do is the definition of average.
 
@@ -57,10 +57,12 @@ I want you to be trying things. I want you to be doing things. I want you to do 
 
 There's this tricky spot. So if we quit and meetup and decide to work on something we will definitely work but we might work on things out of desperation. If we continue working where we are we might not ever start. The best thing to do would be to use the free time we have to hack on things and try a lot of things very quickly.
 
+```python
 idea_status = false
 while idea_status != pass
       idea = ideas.pop(0)
       idea_status = idea.test()
+```
 
 Look at the loop again. There isn't a check for the size of the idea queue, you guys are smart. There are a lot of ideas, lot less time.
 
@@ -77,4 +79,5 @@ Those who are working can help the community by funding the idea people dependin
 ![Lets Go Hundred](/img/blog/lets-go-hundred.gif)
 
 Thanks,
+
 Gyani
