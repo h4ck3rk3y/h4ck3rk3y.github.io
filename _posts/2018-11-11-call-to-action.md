@@ -3,6 +3,7 @@ layout: post
 title: Call to Action
 subtitle: .. sharing an email I wrote a while back
 tags: [travel, life, work]
+fb-img: https://gyani.net/img/blog/mars.jpg
 ---
 
 Wrote an email a while back while on a trip to Amsterdam. The gifs were added later.
