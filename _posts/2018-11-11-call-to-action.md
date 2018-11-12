@@ -34,7 +34,7 @@ The worst thing to do is to continue to walk on this path and not take any risk.
 
 Ok moving to the point
 
-For anyone with a sense of nationalism. Here's a way to think about it :- if all the smart people that you know did what they think was their calling then some of them would succeed. Your nation would grow just because somebody wins. Those who failed can go try again or go back to being average, that's okay. They tried, they learnt a lot. Now scale this for humanity. Imagine how fast we could go if all of us were doing what we believed in. A lot of us would fail but it's a numbers game.
+For anyone with a sense of patriotism. Here's a way to think about it :- if all the smart people that you know did what they think was their calling then some of them would succeed. Your nation would grow just because somebody wins. Those who failed can go try again or go back to being average, that's okay. They tried, they learnt a lot. Now scale this for humanity. Imagine how fast we could go if all of us were doing what we believed in. A lot of us would fail but it's a numbers game.
 
 Today I realized that we should be playing to win. We might lose. But if a lot more of us play to win, eventually someone will win. That's the only way forward. We need a million Elon Musk's, we need to do our bit for the world. You don't need to be extremely smart to be successful in this world, just look at the leader of the free world. Or any politician, you just need to have a strong bias towards action. You must not be a joker. You might still fail but that's okay. It's a numbers game. If all of us in this mailing list try, some of us will be millionaires.
 
