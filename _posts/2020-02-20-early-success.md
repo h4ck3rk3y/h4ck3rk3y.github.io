@@ -16,7 +16,7 @@ Remeber this [post](https://gyani.net/blog/february-2020/). Well I do?
 
 3. **Reading** This hasn't been going so well honestly. I'm at the 23% mark. Guess, I haven't been good at reading. I will still try to finish this book. For the next month, if I don't hit reading goals the loss function would be losing access to Seinfeld. I definitely watch more Seinfeld than Netflix.
 
-4. **Side project** There has been more progress on side projects than past months but I'm not sure whether I'll meet the deadline. The back-end is making progress, the front-end is making progress but they don't work together quiet yet. I ~hope to~ ~want to~ will finish the back-end by the end of the weekend (Saturday night). Reminder, the loss function is Netflix ban for a month & £50 to an open source project.
+4. **Side project** There has been more progress on side projects than past months but I'm not sure whether I'll meet the deadline. The back-end is making progress, the front-end is making progress but they don't work together quiet yet. I ~~hope to~~ ~~want to~~ will finish the back-end by the end of the weekend (Saturday night). Reminder, the loss function is Netflix ban for a month & £50 to an open source project.
 
 
 ## Earphones
