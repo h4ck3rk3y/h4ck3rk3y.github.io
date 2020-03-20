@@ -23,7 +23,7 @@ The silver lining was that I could continue working on my fitness.
 
 3. **Reading** The dark forest is finished. I have 11 days to finish 3 more chapters of the intelligent investor. I think this goal will be on my side, that means I get a book. I'm thinking of getting The Algebra of Happiness by Prof Galloway. Almost ✅. I'll start reading the last in the series of the Remembrance of Earths Past series, Deaths End.
 
-4. **Side Project** I'm headed to lose access for Seinfeld. This is sad. I did some work on Indiecasters but the projecrt is far from release, I then worked on another small app and that is far from release. Now I have started working on a Gameboy emulator, but even if I do that diligently it will take too long. Reminder: Win was getting netflix back, last month the win for this and being under 70 kg was a new phone. Loss was losing access to Seinfeld. Life will be very boring with quarantine plus no Netflix/Seinfeld. I better work!
+4. **Side Project** I'm headed to lose access for Seinfeld. This is sad. I did some work on Indiecasters but the project is far from release, I then worked on another small app and that is far from release. Now I have started working on a Gameboy emulator, but even if I do that diligently it will take too long. Reminder: Win was getting Netflix back, last month the win for this and being under 70 kg was a new phone. Loss was losing access to Seinfeld. Life will be very boring with quarantine plus no Netflix/Seinfeld. I better work!
 
 
 ## General
