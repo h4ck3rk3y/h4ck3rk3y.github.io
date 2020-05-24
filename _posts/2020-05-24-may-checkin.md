@@ -57,9 +57,9 @@ I have been writing ideas every time I get them for a month now. I have written 
 This has happened multiple times this month to me. The following examples are what I can remember
 
 1. The run or lose money app, has been implemented by this company called Beeminder. They do a lot more than just running.
-2. While developing the internship project, friend asked "How do we make sure that the job is legit?" I dreamt up a SaaS that allows for moderation. You send the post to us and then we send you a callback once verified. With some machine learning/AI we could filter out the obviously bad ones. We can send the ones that pass the smell test to your moderators
+2. While developing the internship project, friend asked "How do we make sure that the job is legit?" I came up with up a SaaS that allows for moderation. You send the post to us and then we send you a callback once verified. With some machine learning/AI we could filter out the obviously bad ones. We can send the ones that pass the smell test to your moderators
 or our own external moderators. After getting really excited and scaling this idea from a bootstrapped company to a startup in our heads, Sodhi pointed out that there is a company called Besedo that does this and has been in the game from 2003.
-3. Bhavdeep comes with another interseting idea. He says, he has trouble finding information in his existing organization as information can be in Slack, Jira, Email, Wiki, Quip, Github, Internal Websites and his company currently doesn't have something  that does this. A lot of firms end up building this in house, this looks like it could be a  SaaS. I get excited and get some buy in from other folks. Ines points out that this already exists, Amazon released something called Kendra just recently.
+3. Bhavdeep comes with another interesting idea. He says, he has trouble finding information in his existing organization as information can be in Slack, Jira, Email, Wiki, Quip, Github, Internal Websites and his company currently doesn't have something  that does this. A lot of firms end up building this in house, this looks like it could be a  SaaS. I get excited and get some buy in from other folks. Ines points out that this already exists, Amazon released something called Kendra just recently.
 
 ## What do you do when this happens?
 
@@ -67,7 +67,7 @@ Do you take this as validation about a market existing?
 
 I was listening to this podcast by Jason Fried where he was talking about the initial days of 37 signals and how they were just another boutique web consultation company. He mentioned that he had put his opinions on the website, if a customer agreed with his companies opinions then they'd think they'd work well together.
 
-I think there is a market for opinions. Looking at Github market place you'll probably find over ten Continous Integration Platforms. Why do  I use CircleCi? Well I like the
+I think there is a market for opinions. Looking at Github market place you'll probably find over ten Continuous Integration Platforms. Why do  I use CircleCi? Well I like the
 asthetics. All the CI businesses seem to be doing just fine, there are no unicorns though.
 
 Do you just drop this idea and look for another one?
