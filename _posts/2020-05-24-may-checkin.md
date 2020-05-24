@@ -27,7 +27,7 @@ everyday that charges me to do other things.
 ## I went shopping
 
 One of the wins for the month of March was an Apple Watch. I bought one a week or two ago. Its a nice to have, still getting used to it. I don't use/wear it all the time but I haven't been carrying my phone for the last couple of weeks while running. It comes with Apple pay so I have  been saved while not having my credit card while I am at the store.
-Its comparing Apples to oranges but I like the Airpod a bit more 😛
+Its comparing Apples to oranges but I like the Airpods a bit more 😛
 
 ## Reading
 
