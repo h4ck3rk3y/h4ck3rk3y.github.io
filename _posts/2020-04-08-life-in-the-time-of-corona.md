@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life in the time of Corona
-subtitle: .. going of track
+subtitle: .. going off track
 tags: [update, midmonth april, reality check]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
