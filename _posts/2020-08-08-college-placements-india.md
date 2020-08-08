@@ -2,7 +2,7 @@
 layout: post
 title: College placements in India
 subtitle: .. and the false scarcity they create
-tags: [college placements, india, jobs]
+tags: [college placements, india, jobs, internships]
 fb-img: https://gyani.net/img/blog/mumbai-local.jpg
 ---
 
