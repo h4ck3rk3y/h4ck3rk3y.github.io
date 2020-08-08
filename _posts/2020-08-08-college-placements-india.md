@@ -134,4 +134,6 @@ they'd accept my resume. My recruiter referred me and made the process a lot smo
 exist but you aren't sure of applying directly to.
 
 The last paragraph brings me to another point. Apply everywhere. A lot of people try to tick a lot of boxes in job descriptions before applying. The truth is you don't have to. Don't apply for a `Director of Engineering` when only a new graduate but feel free applying to most junior/new graduate job posts. Job descriptions can be arbitrary, they might add words to create buzz. They might add words just to make
-their job post long enough. Now companies are realzing this problem of checking all boxes and mentioning this on their job post more and more, so I guess things are going in the right direction.
+their job post long enough. Now companies are realizing this problem of checking all boxes and mentioning this on their job post more and more, so I guess things are going in the right direction.
+
+Tangential advice. Don't work for free. Not even an internship. Startups run by immediate _seniors_ offering opportunities aren't really offering anything. If they can't pay you in cash, try asking for equity. You could do what they are making you do as a side project or do something more interesting. You could start your own startup even. Almost always ask for money for a job. If you are good at something never do it for free. Getting paid, at  the least makes financial sense and sometime it implies that your work is valued.
