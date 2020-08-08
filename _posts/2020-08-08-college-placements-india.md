@@ -8,7 +8,7 @@ fb-img: https://gyani.net/img/blog/mumbai-local.jpg
 
 **Bottom Line Up Front**: Placement seasons are here in Indian colleges. This is going to be a long rant followed with some advice for those who are going through this.
 
-Skip to [what can be done?](## What can be done?) for advice if you don't want to listen to story.
+Skip to [what can be done?](#what-can-be-done) for advice if you don't want to listen to story.
 
 Note this post is written by a Software Engineer, who has done only Software Engineering jobs and only applied for Software Engineering jobs so far. I went to BITS Pilani, so I may
 be speaking from a position of privilege. Comment, in case this echoes with you or if I am in the wrong. My point here is if the college placements in one of the leading engineering
