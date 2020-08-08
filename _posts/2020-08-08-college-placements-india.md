@@ -24,8 +24,8 @@ and was going to sit for first semester placements that means I was competing wi
 I had a thesis offer from Singapore University of Technology of design. I was supposed to spend my last semester doing research in Singapore. I was a "practice school studnet" instead of a thesis student. So I had
 to get that changed.
 
-**Practice School**: At BITS you do two internships, Practice School 1(PS1) and Practice School 2(PS2). PS1 is after the second year and covers two months of summer holidays. Its a _paid internship_(for the current academic year a student pays Rs 65k for PS1), a student pays
-Pilani for the privilege and almost always makes no money. PS2 is an internship that you do in one of your last two semesters in Pilani. This is also a _paid internship_ but for an entire semester and with good companies, a student pays for this as well but also makes money. Most Software Engineering PS2 students probably break even, or come out positive post Practice School. PS2 also leads to job offers, so its not all bad. They select based on GPA though.
+**Practice School**: At BITS you do two internships, Practice School 1(PS1) and Practice School 2(PS2). PS1 is after the second year and covers two months of summer holidays. Its a _paid internship_, a student pays
+Pilani for the privilege and almost always makes no money. For the current academic year a student pays Rs 65k for PS1. PS2 is an internship that you do in one of your last two semesters in Pilani. This is also a _paid internship_ but for an entire semester and with good companies, a student pays for this as well but also makes money. Most Software Engineering PS2 students probably break even, or come out positive post Practice School. PS2 also leads to job offers, so its not all bad. They select based on GPA though.
 
 ### My Placement Story
 
