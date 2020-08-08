@@ -26,6 +26,8 @@ to get that changed.
 
 ### My Placement Story
 
+![how it feels like](https://gyani.net/img/blog/mumbai-local.jpg)
+
 So I got to college and soon received news of a pre placement offer form Endurance. I was happy, my experience at Endurance was nice. The people were great, the work was interesting. I was facing a dilemma,
 if I chose to accept the Endurance offer then I could only sit for placements with one company that paid more than 1.75 times of what I was set to earn at Endurance. Not knowing who was set to come to University,
 there was great information asymmetry. I chose to risk it and didn't take the Endurance offer. That meant that I was eligible to sit for placements with all the companies that were set to visit Pilani in the first
@@ -102,7 +104,7 @@ interesting opportunities abroad if you are open to the idea. Reach out to senio
 If you don't like algorithmic interviews, you are not alone.[Hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) is a Github list of companies that don't ask
 white board questions. Its an ever growing list of companies. Definitely check this out.
 
-If you have a job offer, negotiate. Read [https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/](this) by Haseeb Qureshi and [https://www.kalzumeus.com/2012/01/23/salary-negotiation/](this) Patrick Mckenzie
+If you have a job offer, negotiate. Read [this](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) by Haseeb Qureshi and [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) Patrick Mckenzie
 to learn how to negotiate. Don't wait for the job offer to read these, some of these things like "job offer stacking" require you to know about them before you start interviewing.
 
 Don't miss a day of placements in University for a golden opportunity. Be assertive, they'll move the interviews if you are assertive enough.
@@ -115,11 +117,11 @@ they'll take forever to catch up.
 Make a good resume while applying for jobs abroad. The standard Pilani resume has your picture, most jobs abroad don't want your picture as pictures can lead to discrimination. Word your resume properly.
 If you don't have a high GPA don't mention it. Most places don't care but someone might see a not high GPA and judge your resume.
 
-Having some online presence and being useful to the internet helps. I am not twitter famous but if I was, I could simply get a bunch of referrals based on a tweet.
+Having some on line presence and being useful to the Internet helps. I am not twitter famous but if I was, I could simply get a bunch of referrals based on a tweet.
 
-Enjoying programming and having side projects helps as well. Even if the company doesn't expilcitly care, you have something to talk about during the interviews and it reflects well. I only got my
+Enjoying programming and having side projects helps as well. Even if the company doesn't explicitly care, you have something to talk about during the interviews and it reflects well. I only got my
 thesis offer in Singapore because of side projects. I only got the job in Singapore(with the startup not the Day 0 Pilani job) because I gave a talk at a meetup.
 
-Network and network some more. The only reason I became aware about applying to Bloomberg in London because a classmate wanted some help planning his trip to London for the interview. He knew that I travelled a lot and that I was approchable.
+Network and network some more. The only reason I became aware about applying to Bloomberg in London because a classmate wanted some help planning his trip to London for the interview. He knew that I traveled a lot and that I was approachable.
 
 Don't seek validation from job interviews. Prepare and hope for the best. A lot of it is luck.
