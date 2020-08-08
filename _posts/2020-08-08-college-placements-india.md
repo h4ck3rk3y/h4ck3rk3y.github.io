@@ -44,16 +44,16 @@ in September. By going in September I would have more time to prepare, and also 
 The pressure was immense. Lot of people had already got jobs. I didn't have a job. People were celebrating, throwing placement parties. I was eating food for free. That was nice I guess. I had a call with a senior from college, friend and quiz partner [Sahil Gupta](https://www.linkedin.com/in/sahgup). He was really nice to talk to, he explained that I shouldn't take the rejections/missed opportunities as self validation
 and I should go into the next round with confidence and that I skilled. Again, grateful for having a good senior reach out.
 
-So Day 2 came and I finally got placed in a startup called Crowdfire. There was a party and I felt that I finally had a job. I wasn't supposed to seek validation but I felt validated.
+So Day 2 came and I finally got placed in a startup in Mumbai. There was a party and I felt that I finally had a job. I wasn't supposed to seek validation but I felt validated.
 
-Parallely the Day 0 company had sent out a coding challenge. One that didn't have to be done instantly, with a room of 100s of students. You could spend your own time implementing it. I did well in this, and I was invited for an onsite interview. Sometime passed and in September I went to interview with them in person. A few days later I was happy to learn that I had a job offer from them. A job offer with a day 0 company, abroad(Singapore) and probably for the highest salary(well things cost more in Singapore) in college for that year. I still hadn't received a proper contract though.
+In parallel the Day 0 company had sent out a coding challenge. One that didn't have to be done instantly, with a room of 100s of students. You could spend your own time implementing it. I did well in this, and I was invited for an onsite interview. Sometime passed and in September I went to interview with them in person. A few days later I was happy to learn that I had a job offer from them. A job offer with a day 0 company, abroad(Singapore) and probably for the highest salary(well things cost more in Singapore) in college for that year. I still hadn't received a proper contract though.
 
 
-In the background the, the placement cell said no to crowdfire on my behalf. I wasn't even asked. As I had a job offer with a Day 0 company that paid higher and made the numbers look better, I was automatically assigned to it. Maybe I wanted to work for a growing startup, maybe I wanted to stay in India but my opinions weren't accounted for and they made the decision for me.
+In the background the, the placement cell said no to the startup in Mumbai on my behalf. I wasn't even asked. As I had a job offer with a Day 0 company that paid higher and made the numbers look better, I was automatically assigned to it. Maybe I wanted to work for a growing startup, maybe I wanted to stay in India but my opinions weren't accounted for and they made the decision for me.
 
 Its worth mentioning that since entering college in late July, I had been visiting the "Practice School Division" almost every week begging them to change my situation so that I could be a thesis student instead of a practice school(corporate internship) student. Due to some weird arcane law apparently I had to tell the Practice School division an year ago that I would want to do a thesis instead of practice school. An year
 ago would have been the second half of my second year in University. How is a student supposed to decide what they'll be doing an year in the future when they have only spent two years in University? I didn't even
-know about this law. To me it felt like hitchikers guide in the galaxy,
+know about this law. To me it felt like hitchhikers guide in the galaxy,
 
 > As you are probably aware, plans for the development of the outlying regions of the galaxy invoke the building of a hyperspace express route through your star system. And your planet is one of those scheduled for  demolition.
 > 
