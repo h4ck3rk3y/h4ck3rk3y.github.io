@@ -8,7 +8,7 @@ fb-img: https://gyani.net/img/blog/mumbai-local.jpg
 
 **Bottom Line Up Front**: Placement seasons are here in Indian colleges. This is going to be a long rant followed with some advice for those who are going through this.
 
-Skip to [what can be done?](#what-can-be-done) for advice if you don't want to listen to the rant.
+Skip to [what can be done?](#what-can-be-done) for advice if you don't want to read through the rant.
 
 Note this post is written by a Software Engineer, who has done only Software Engineering jobs and only applied for Software Engineering jobs so far. I went to BITS Pilani, so I may
 be speaking from a position of privilege. Comment, in case this echoes with you or if I am in the wrong. My point here is if the college placements in one of the leading engineering
@@ -23,7 +23,7 @@ Almost Everything.
 Lets rewind to July 2017. I had just finished an internship with Endurance International Group India(previously Directi Web Technologies) and I was supposed to head back to college for sitting for placements. I had a GPA of about 7.78
 and was going to sit for first semester placements that means I was competing with those with mostly higher GPA than me. I had written the Google Code Jam APAC test and my rank was in the low hundreds, I believe 108 and was expecting an onsite round from Google. I had previously done a Google Summer of Code with Nmap and spent a summer doing web development for the Indian Redcross Society.
 
-I had a thesis offer from Singapore University of Technology of design. I was supposed to spend my last semester doing research in Singapore. I was a "practice school studnet" instead of a thesis student. So I had
+I had a thesis offer from Singapore University of Technology and Design. I was supposed to spend my last semester doing research in Singapore. I was a "practice school student" instead of a thesis student. So I had
 to get that changed.
 
 **Practice School**: At BITS you do two internships, Practice School 1(PS1) and Practice School 2(PS2). PS1 is after the second year and covers two months of summer holidays. Its a _paid internship_, a student pays
@@ -71,7 +71,7 @@ know about this law. To me it felt like hitchhikers guide in the galaxy,
 > There's no point acting all surprised about it; the plans and demolition orders have been on display at your local planning department in Alpha Centauri for fifty of your earth years. If you can't be bothered to take an interest in local affairs, that's your own lookout.
 
 On the 24th of October after lobbying for months along with other students who were in a similar position they finally accepted our plea. I am guessing someones parents got involved, I don't know how they changed their minds. I was hiking in Nepal, came back for the college fest and I received the good news. My professor in Singapore was grateful enough to be patient for months for me to accept the job offer. The admin
-at Singapore was quick and they processed a visa rather quickly. I was set to fly to Singapore on the first of June and begin my thesis in Singapore University of Technology and Design. Thanks, [Siddant Srivastava](https://www.linkedin.com/in/sidcode/?originalSubdomain=sg) for the referral and [Professor Aditya Mathur](https://www.linkedin.com/in/aditya-mathur-4960419/) for the opportunity. The only reason Sid knew of me was because I took part in Hackathons and would post stuff on Github and my blog, having a small online presence helps. Keep note of this readers.
+at Singapore was quick and they processed a visa rather quickly. I was set to fly to Singapore on the first of June and begin my thesis in Singapore University of Technology and Design. Thanks, [Siddhant Shrivastava](https://www.linkedin.com/in/sidcode/?originalSubdomain=sg) for the referral and [Professor Aditya Mathur](https://www.linkedin.com/in/aditya-mathur-4960419/) for the opportunity. The only reason Sid knew of me was because I took part in Hackathons and would post stuff on Github and my blog, having a small online presence helps. Keep note of this readers.
 
 So I am in Singapore, still haven't received a contract or a start date from the day 0 international company. Its March already and I am anxious. The placement unit is not helpful at all. They say that they understand the concern. I don't think they care, they have already released metrics for that Semester.
 
