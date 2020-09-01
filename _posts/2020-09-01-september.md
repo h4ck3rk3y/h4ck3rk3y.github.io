@@ -2,7 +2,7 @@
 layout: post
 title: September
 subtitle: .. less than a quarter left
-tags: [accountability, august, july]
+tags: [accountability, august, september]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
