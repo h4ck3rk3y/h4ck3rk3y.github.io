@@ -21,6 +21,8 @@ August was rocky! Ran 28 out of 31 days. Writing on the 1st as yesterday was a b
 
 5. **Nike Training Club**: This went well, I am done with 12 Chapters. ✅
 
+![Charity](/img/blog/wfp-september.png)
+
 
 ## Month Planning
 
