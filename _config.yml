@@ -30,7 +30,6 @@ navbar-links:
   Home: ""
   Projects: "projects"
   About: "about"
-  Achievements: "achievements"
   Resume: "files/resume.pdf"
 
 # --- Footer options --- #
