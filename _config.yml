@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Projects: "projects"
   About: "about"
-  Resume: "files/resume.pdf"
+  Resume(Outdated 2018): "files/resume.pdf"
 
 # --- Footer options --- #
 
