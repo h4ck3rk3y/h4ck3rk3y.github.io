@@ -3,7 +3,6 @@ layout: post
 title: College placements in India
 subtitle: .. and the false scarcity they create
 tags: [college placements, india, jobs, internships]
-fb-img: https://gyani.net/img/blog/mumbai-local.jpg
 ---
 
 **Bottom Line Up Front**: Placement seasons are here in Indian colleges. This is going to be a long rant followed with some advice for those who are going through this.
@@ -33,7 +32,6 @@ Pilani for the privilege and almost always makes no money. For the current acade
 
 ### My Placement Story
 
-![how it feels like](https://gyani.net/img/blog/mumbai-local.jpg)
 
 So I got to college and soon received news of a pre placement offer form Endurance. I was happy, my experience at Endurance was nice. The people were great, the work was interesting. I was facing a dilemma,
 if I chose to accept the Endurance offer then I could only sit for placements with one company that paid more than 1.75 times of what I was set to earn at Endurance. Not knowing who was set to come to University,
