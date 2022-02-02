@@ -26,4 +26,7 @@ Being the right weight not only regulates blood pressure and keeps things like d
 There was a time I'd be religious about 1500 calories a day and exercise. I was losing weight. Calorie counting & exercise does work. Intermittent fasting does work. I am bringing back religiousness around Calorie Counting and limiting myself to under 1500 calories for at least 6 days a week. I will also be religious about not having sugary drinks like milkshakes & coca cola.
 
 
+I'll be religious about logging my weight daily as well assuming I have access to a weighing machine.
+
+
 Today I ended up having around 1200 calories spread over a couple of tacos, dumplings and an Apple pie. I should have resisted the Apple pie but it was for free at the office, no more of that!
