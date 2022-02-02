@@ -6,7 +6,7 @@ tags: [fat, fit]
 fb-img: https://gyani.net/img/milkshake.jpg
 ---
 
-Yesterday involved almost no exercise, a trip to Chick Fil A to get a Spicy Chicken Sandwich Meal with large Fries and a Lemonade, three high calorie drinks, 10 pieces of dumplings and another trip to Chick Fil A to get the Chicken Sandwich with medium fries and Milkshake.
+Yesterday involved almost no exercise, a trip to Chick Fil A to get a Spicy Chicken Sandwich Meal with large Fries and a Lemonade, three high calorie drinks, 10 pieces of dumplings and another trip to Chick Fil A to get the Chicken Sandwich with medium fries and a chocolate milkshake.
 
 ![Milkshake](https://gyani.net/img/milkshake.jpg)
 
