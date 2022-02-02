@@ -8,6 +8,8 @@ fb-img: https://gyani.net/img/milkshake.jpg
 
 Yesterday involved almost no exercise, a trip to Chick Fil A to get a Spicy Chicken Sandwich Meal with large Fries and a Lemonade, three high calorie drinks, 10 pieces of dumplings and another trip to Chick Fil A to get the Chicken Sandwich with medium fries and Milkshake.
 
+![Milkshake](https://gyani.net/img/milkshake.jpg)
+
 That's a total of 2730 Calories from Chick Fil A, 420 Calories from dumplings and 518 calories from the high calorie drinks. That's 3668 calories. Meanwhile Apple tells me that I just spent 380 active calories moving. This doesn't work. No wonder I weighed in at 68.2 kgs this morning.
 
 The second trip to Chick Fil A wasn't even necessary, I was on my way back from an Open Mic and I saw it on the way, had some cash in my pocket and told myself "if its paid for via cash and not card it doesn't count" and got the meal. I ate out of boredom. This is the pre 2020 me and to be fair a good part of 2021 me as well.
