@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm getting fat again
-subtitle: .. time to be brutally honest
+subtitle: .. the fattening
 tags: [fat, fit]
 fb-img: https://gyani.net/img/milkshake.jpg
 ---
@@ -14,6 +14,9 @@ The second trip to Chick Fil A wasn't even necessary, I was on my way back from 
 
 
 For long time readers of the blog, you might remember that in 2020 I went down from 76 to 59.75, I was proud, healthy and loving it. Since January 2021 I have been gaining weight but they way I have been thinking of it has been "I lost a little over 16 kilos but gained X and X is < 16". The difference between 16 and X continues to decrease, which sucks. Also anchoring on the 16 kilo lost is not helping. You are only as good as your last month and for the past 13 months I have been gaining weight sometimes slowly sometimes quickly. That means I have been degrading. I'm trying to think of this as being 68 and getting down to 60.
+
+
+All this is coupled with a lack of exercise and barely running 50kms in the month of January. My excuse for that has been the cold. I need to either sign up for a gym or just go out and run. Maybe its time to start playing Jocko & Goggins on loop again.
 
 
 Being the right weight not only regulates blood pressure and keeps things like diabetes & heart disease away it also helps with life on the daily. One looks better, running becomes easier, surfing becomes easier and overall the quality of life becomes better.
