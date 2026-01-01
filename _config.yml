@@ -64,7 +64,7 @@ url-pretty: "gyani.net"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "gyani"
+# disqus: "gyani"  # Disabled - too much tracking bloat
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-60799114-1"  # Your Google Analytics ID
@@ -80,7 +80,7 @@ defaults:
       type: "posts"
     values:
       comments: true  # add comments to all blog posts
-      show-share: true # add sharing buttons to all blog posts
+      show-share: false # disabled - no one uses these
   -
     scope:
       path: "" # all files
