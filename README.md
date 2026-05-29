@@ -1,3 +1,3 @@
-# my github pages
+# 我的 GitHub 页面
 
-based on beautiful-jekyll by dean attali
+基于 Dean Attali 的 Beautiful Jekyll 主题
