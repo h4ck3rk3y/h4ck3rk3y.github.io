@@ -1,30 +1,30 @@
 ---
 layout: post
-title: At IndiaHacks @Bangalore
-subtitle: or how it felt like being in the pilot of Silicon Valley
+title: 在 Bangalore 参加 IndiaHacks
+subtitle: 或者说感觉像置身于 Silicon Valley 的试播集
 tags: [indiahacks, bangalore, conference, general]
 ---
 
 
-So we arrived at the Bengaluru airport at 8.40 pm on the 18th of March. We took an over expensive Uber to Taj Viavanta in Yeshwantpur. Luckily Sodhi had a Rs. 250 coupon and that got us some relief. We arrived at Taj by 9.30. Got registered. I ran for the Buffet. Murg Methi, Fish in Garlic Sauce and a lot of Naan filled my plate. I probably ate thrice of what Shubhankar and Sodhi ate together. That was a very nice meal. From there we headed to the room where the Hackathon was happening.
+3 月 18 日晚上 8:40，我们抵达 Bengaluru 机场。我们坐了一辆贵得离谱的 Uber 去 Yeshwantpur 的 Taj Viavanta。幸运的是 Sodhi 有一张 Rs. 250 的优惠券，让我们稍微松了口气。我们 9:30 到达 Taj，完成注册。我直接冲向自助餐。Murg Methi、Fish in Garlic Sauce 和大量 Naan 填满了我的盘子。我吃的量大概是 Shubhankar 和 Sodhi 加起来的三倍。那顿饭非常不错。之后我们前往 Hackathon 举办的房间。
 
-![Our ID](/img/blog/tag.jpg)
+![我们的 ID](/img/blog/tag.jpg)
 
-The room was full of programmers. Laptops everywhere. Unlimited Red Bull, Coffee, Kesar Milk, more soda and chips. We started hacking. Met these dudes who had worked at Microsoft earlier and were working on a FinTech hack. Talking to them was fun, they basically were bored of regular jobs and were starting up. We continued hacking the entire night. We managed to piss of a judge due to some misunderstanding who punished us by judging us at the very end of the first round. By the time the judgment was over we had been up for 26 hours.
+房间里满是程序员。到处都是笔记本电脑。无限供应的 Red Bull、咖啡、Kesar Milk、更多汽水和薯片。我们开始写 hack。遇到几个之前在 Microsoft 工作、正在做 FinTech hack 的家伙。和他们聊天很有意思，他们基本上是厌倦了常规工作，正在创业。我们整晚都在继续 hacking。因为一些误会，我们成功惹恼了一位评委，他惩罚我们的方式是在第一轮最后才评审我们。评审结束时，我们已经醒了 26 个小时。
 
-The conference started. CXO's of established companies, new companies, non existing companies and international companies were everywhere. As written in the title we felt like we were in the first episode of the HBO series Silicon Valley.
+会议开始了。成熟公司、新公司、不存在的公司以及国际公司的 CXO 到处都是。就像标题里写的，我们感觉自己像置身于 HBO 剧集 Silicon Valley 的第一集。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Silicon Valley](/img/blog/valley.png)
 
-It was like Disneyland but for techies. We went to the booths of Walmart, Altimetrik, Verizon, SAP, Sabre and others. We attended a talk by Snapdeals CPO then another by Altimetriks CTO followed by one from the CEO of Arya.ai. Then a panel discussion which consisted of Goibibo's CEO, BigBaskets CEO and was moderated by the CEO of HackerEarth.
+这就像技术人的 Disneyland。我们去了 Walmart、Altimetrik、Verizon、SAP、Sabre 等公司的展位。我们听了 Snapdeal 的 CPO 演讲，接着听了 Altimetrik 的 CTO 演讲，然后是 Arya.ai 的 CEO 演讲。之后是一场小组讨论，嘉宾包括 Goibibo 的 CEO、BigBasket 的 CEO，由 HackerEarth 的 CEO 主持。
 
-Around 2 PM results were announced. Both our projects [RevMine](https://bit.ly/RevMine) and [RouteRush](http://routerush.me) were in the Top 5. We had to present our project now. We started preparing for the presentation. Before our presentation people from the IOT and Game Development Track were to present.
+下午 2 点左右，结果公布了。我们的两个项目 [RevMine](https://bit.ly/RevMine) 和 [RouteRush](http://routerush.me) 都进入了 Top 5。现在我们必须展示项目。我们开始准备演示。在我们展示之前，IOT 和 Game Development Track 的人要先展示。
 
-People loved RevMine. A guy from SAP came up to us after our presentation and handed over a recruiter's card. The director of Sabre India was impressed by RouteRush and handed his card. The people at Walmart and Altimetrik loved RevMine as well. RevMine was a hit. We thought we would easily make it to the top 3. I guess luck wasn't with us.
+大家很喜欢 RevMine。我们演示结束后，一个 SAP 的人走过来递给我们一张招聘人员的名片。Sabre India 的总监对 RouteRush 印象深刻，也递了他的名片。Walmart 和 Altimetrik 的人也很喜欢 RevMine。RevMine 很受欢迎。我们以为自己很容易进入前三。看来运气不在我们这边。
 
-After the presentation we attended a stand up show by Sanjay Manaktala. He joked about Techies in India and the World. This was followed by the results. We didn't figure in the top 3 but the trip was still epic. Founders and aspiring founders everywhere. This was much needed exposure. Some 15 year old programmers won in one of the tracks. This event was inspiring and amazing. I hope to make it there next year as well. I'll be uploading a vlog soon.
+演示结束后，我们看了 Sanjay Manaktala 的单口喜剧表演。他调侃了印度和世界各地的技术人。之后公布了结果。我们没有进入前三，但这趟行程仍然很精彩。到处都是创始人和有志成为创始人的人。这是非常必要的一次见识。有些 15 岁的程序员赢下了其中一个赛道。这个活动鼓舞人心，也非常棒。我希望明年也能去。我很快会上传一个 vlog。
 
-**Edit**: The vlog is here
+**编辑**：vlog 在这里
 
 <iframe width="760" height="480"
 src="http://www.youtube.com/embed/Cb4HfhoCpII">

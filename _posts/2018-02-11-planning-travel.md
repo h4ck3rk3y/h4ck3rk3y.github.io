@@ -1,51 +1,50 @@
 ---
 layout: post
-title: Planning travel
-subtitle: .. can it be a little easier?
+title: 规划旅行
+subtitle: .. 能不能更容易一点？
 tags: [travel, planning, ideas]
 fb-img: https://gyani.net/img/lake.jpg
 ---
 
-# Past Work
+# 过去的工作
 
-In 2016 Prabhjyot and I had built this tool that we called RouteRush, it's sole job was to come up with an itinerary. The app was simple
-enter some amount of money and it would find out where you are and will come up with a trip that takes you somewhere.
+2016 年，Prabhjyot 和我做了一个工具，我们称它为 RouteRush。它唯一的任务就是生成一份行程。这个应用很简单，
+输入一笔钱，它会找出你在哪里，然后给你安排一次能带你去某个地方的旅行。
 
-Say you entered $1000, it would find out the cheapest flights for you by picking cities at random and seeing if you can go there and come back with
-40% of your flight budget ($400) giving you 60% of your budget for hotels and such. If the random cities didn't work it would find the closest
-city to you and take you there anyway.
+比如你输入 $1000，它会通过随机选择城市并查看你是否能用机票预算的 40%（$400）去那里并返回，
+从而为你找到最便宜的航班，把预算的 60% 留给酒店之类的开销。如果随机城市不可行，它会找到离你最近的
+城市，并无论如何带你去那里。
 
-We used some data from Numbeo to figure out how much it costs to live in a place. So if you entered $1000, $400 went into the flight
-tickets, it would start budgeting how much time to spend in the city. As it was for a hackathon we decided to filter out high rated
-tourist places in your city of choice and came up with an arbitrary limit of 4 activities a day. So if the random city that was
-picked for you had 10 things in the filtered Google maps result, we would keep you there for 3 days. We had a random limit of 5 days in
-a city if I remember correctly.
+我们使用了 Numbeo 的一些数据来估算在一个地方生活要花多少钱。所以如果你输入 $1000，$400 会进入机票
+预算，然后它会开始计算在这座城市停留多久。因为这是为 hackathon 做的，我们决定过滤出你所选城市中评分较高的
+旅游地点，并随意设定每天 4 个活动的限制。所以如果为你随机选中的城市在过滤后的 Google maps 结果中有 10 个地方，
+我们就会让你在那里停留 3 天。如果我没记错，我们还随意设定了一座城市最多停留 5 天的限制。
 
-After you were done with a city it would take you to the closest tourist city while ensuring you had enough money to comeback.
+当你逛完一座城市后，它会带你去最近的旅游城市，同时确保你有足够的钱回来。
 
-A little later in 2017 in another Hackathon, I added another feature to it allowing users to pick countries/continents that they wanted to visit.
-I made the route finder more stable and tweaked the algorithm a little to produce multiple itineraries. Using my limited
-UI skills I even made the route finder look a little better.
+稍晚一点，在 2017 年的另一次 Hackathon 中，我给它添加了另一个功能，允许用户选择他们想去的国家/大陆。
+我让路线查找器更稳定，并稍微调整了算法，让它可以生成多条行程。凭借我有限的
+UI 技能，我甚至让路线查找器看起来更好了一点。
 
-After the above changes. I decided to create an extension. If you were at a page talking about a city that you liked, if you clicked on
-the said extension the city would be added to the your trip. It would try to parse what about the city is being talked about and
-would add it as a note. The idea was that people like to travel cause they like to explore, and coming up with places is a part
-of the exploration. One site can't have it all and you'd probably go around the Internet to find out where to visit.
+完成上述改动后，我决定创建一个扩展。如果你在一个谈论你喜欢的城市的页面上，点击
+这个扩展后，这座城市就会被添加到你的旅程中。它会尝试解析页面在谈论这座城市的什么内容，
+并把它添加为一条笔记。这个想法是，人们喜欢旅行是因为他们喜欢探索，而想出要去哪些地方也是
+探索的一部分。一个网站不可能拥有全部内容，你很可能会在互联网上四处寻找要去哪里。
 
-The above idea was long forgotten. The free AWS instance that was running the above application has been dead for long after running a few
-more apps and landing pages.
+上面的想法早就被遗忘了。运行上述应用的免费 AWS 实例，在又跑了几个
+应用和落地页之后，已经死掉很久了。
 
-I would have possibly taken the idea forward had I known anyone good with UI/UX. My main problem with creating a product for the 
-web is not knowing UX. Back-ends are fun, so are smaller services but for the life of me I can't handle UI/UX.
+如果我认识任何擅长 UI/UX 的人，我可能会把这个想法继续推进。我为 web 创建产品时的主要问题，
+就是不懂 UX。后端很有趣，小型服务也一样，但要了我的命我也处理不了 UI/UX。
 
 # 2018
 
 ## O, Canada
 
-![Really looking forward to Lake Louise](/img/lake.jpg)
+![真的很期待 Lake Louise](/img/lake.jpg)
 
-So I have been planning a few trips recently. The most recent one has been my trip to Canada. So my parents wanted to visit me in London
-and also go to Canada for a total of 20-30 days. The above trip can be done in a lot of permutations. Few of them are,
+所以我最近一直在规划几次旅行。最近的一次是我的 Canada 之行。我的父母想来 London 看我，
+也想去 Canada，总共 20-30 天。上面的旅行可以有很多排列组合。其中几个是：
 
 - Home -> Kolkata -> London -> Cities in Canada -> New Delhi -> Home
 - Home -> Kolkata -> London -> Cities in Canada -> Kolkata -> Home
@@ -53,23 +52,22 @@ and also go to Canada for a total of 20-30 days. The above trip can be done in a
 - Home -> New Delhi -> Cities in Canada -> London -> New Delhi -> Home
 - Home -> New Delhi -> London -> Cities in Canada -> London -> New Delhi -> Home
 
-As we were pretty flexible with the dates we could choose any of them given it met our budget and had decently priced comfortable flights. I wish
-there was an interface that gave me the best results and even better let me choose between them.
+由于我们的日期相当灵活，只要满足预算，并且有价格合理、舒适的航班，我们可以选择其中任何一种。我希望
+有一个界面能给我最好的结果，更好的是还能让我在它们之间选择。
 
-Something interesting that can possibly included is the idea of a recommended layover
+一个可能很有意思的功能，是推荐中转停留的想法。
 
 - Home -> New Delhi -> Tokyo -> Cities in Canada -> London -> Dubai -> Home
 
-If there are flights with really long layovers that can possibly be broken up into two flights without much extra cost
-my parents would be able to visit new cities during their layover. Maybe the interface could ask us where we were from and even
-recommend layovers for which we don't need visas or can easily get visas.
+如果有些航班中转时间很长，而且可能在不增加太多额外成本的情况下拆成两段航班，
+我的父母就能在中转期间参观新的城市。也许这个界面可以问我们来自哪里，甚至
+推荐一些我们不需要签证或可以轻松获得签证的中转地。
 
-Maybe I should also be able to search holidays by Beach, Mountains, Night Life, Theater, History or any other categories.
+也许我还应该能够按 Beach、Mountains、Night Life、Theater、History 或其他类别搜索假期。
 
-## Smaller European Trips
+## 更小的欧洲旅行
 
-My friends at work love exploring different cities around Europe turns out you can go to Germany and come back for 20 pounds. Sky Scanner
-shows this. I'd like to search for flights that leave after my work day ends and come back before my work day starts. On SkyScanner
-you go through the multiple results provided only to find out that they interfere with work. They could use such a feature.
-
+我工作中的朋友喜欢探索欧洲各地不同城市，结果发现你可以花 20 英镑去 Germany 再回来。Sky Scanner
+显示了这一点。我想搜索那些在我工作日结束后起飞、在我工作日开始前返回的航班。在 SkyScanner 上，
+你要浏览它提供的多个结果，最后却发现它们会影响工作。他们可以用上这样的功能。
 

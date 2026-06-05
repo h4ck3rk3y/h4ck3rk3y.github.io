@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Shuffle And Kill
-subtitle: ...a tiny but useful extension
+title: 随机播放并关闭
+subtitle: ...一个小巧但有用的扩展
 tags: [freelancing, travel, programming]
 fb-img: http://gyani.net/img/blog/youtube.png
 ---
@@ -9,12 +9,12 @@ fb-img: http://gyani.net/img/blog/youtube.png
 ![Youtube](/img/blog/youtube.png)
 
 
-## Problem
+## 问题
 
-During my days in Pilani(sob), I had a Logitech speaker. I would play a lot of music on it. The songs were mostly played from YouTube. I would open a lot of songs in different tabs and just visit one tab to start playing a song. After the song had ended it had to be closed and a new tab had to be selected. Tiring right?
+在我在皮拉尼的日子里（唉），我有一个 Logitech 音箱。我会用它播放很多音乐。歌曲大多来自 YouTube。我会在不同标签页里打开很多歌，然后只去某一个标签页开始播放一首歌。歌曲结束后，就得关闭它，再选择一个新的标签页。很累，对吧？
 
-## Solution
+## 解决方案
 
-Last night I hacked together a chrome extension that would close the tab which had just finished playing and start playing a song on a random tab containing a not yet started YouTube video.
+昨晚我快速拼了一个 Chrome 扩展，它会关闭刚刚播放完的标签页，并在一个包含尚未开始播放的 YouTube 视频的随机标签页上开始播放歌曲。
 
-Hence the name Shuffle and Kill. You can get the chrome extension  [here](https://chrome.google.com/webstore/detail/lpmlbpbaopjjlfilhkpbbkbnlngmdogj/).
+因此名字就叫 Shuffle and Kill。你可以在[这里](https://chrome.google.com/webstore/detail/lpmlbpbaopjjlfilhkpbbkbnlngmdogj/)获取这个 Chrome 扩展。

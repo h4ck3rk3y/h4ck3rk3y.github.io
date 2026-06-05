@@ -1,73 +1,73 @@
 ---
 layout: post
-title: Down 10
-subtitle: .. Up 423
+title: 下降 10
+subtitle: .. 上升 423
 tags: [checkin, mid month, may]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-## I'm down ten kilos
+## 我减了十公斤
 
-Since I strated the monthly goal and accountability blog posts in the beginning of February, I have lost 10 kilos. I have learned that its about getting there
-and not getting there now. I have tried to get there now, that has never worked. Patience and continuous incremental progress towards the goal seems to work.
-To be honest I have been more motivated now than ever about fitness. I have been making use of the COVID-19 epidemic as I am generally not eating out,
-partying or flying. Helps me stick to a fitness schedule!
+自从二月初开始写月度目标和问责博客文章以来，我已经减了 10 公斤。我学到的是，重点是到达那里，
+而不是现在立刻到达。我试过现在就到达，但从来没奏效。耐心，以及朝目标持续渐进地前进，似乎才有效。
+老实说，我现在对健身的动力比以往任何时候都强。我一直在利用 COVID-19 疫情，因为我通常不外出吃饭、
+聚会或飞行。这帮助我坚持健身计划！
 
-I clocked 65.95 day before yesterday. I had been telling myself for a week and a half that I'd have a burger as soon as I hit 66.00. I ordered some from shake shack,
-it was nice. I am back to 66.30 this morning but I think I should stabilize under 66 by the end of the month so this goal is tracking well.
+前天我测到 65.95。过去一周半我一直告诉自己，只要达到 66.00 就吃汉堡。我从 shake shack 点了一些，
+味道不错。今天早上我回到了 66.30，但我觉得月底前应该能稳定在 66 以下，所以这个目标进展良好。
 
-I was in the super market the other day and I realized how my buying habits have changed. I didn't rush for jam, cornflakes or Dorritos. I have been buying healthier
-and snacking on fruits. It will be so until I hit 60. Though cereal comes back at 64. The carrot and stick model seems to be working for now. I'll talk about longer goals in detail in the end of month /  beginning of next month post on the 31st.
+前几天我在超市，意识到自己的购买习惯发生了多大变化。我没有冲向果酱、玉米片或 Dorritos。我一直在买更健康的东西，
+并用水果当零食。在达到 60 之前都会这样。不过到 64 时麦片会回来。胡萝卜加大棒的模式目前似乎有效。我会在 31 日的月底/下月初文章里详细谈长期目标。
 
-## I am up 423 km
+## 我增加了 423 km
 
-I have run 423 km so far. I have been tracking towards the goal of a 1000 kilometers at the end of the year pretty well so far. It has slowed down a bit since COVID and the summer heat but its getting there. I'm feeling confident that I'll be able to meeth is goal. Really proud here, running gets me going! Its the one thing that I have control on and can do
-everyday that charges me to do other things.
+到目前为止我已经跑了 423 km。我一直很好地朝年底 1000 公里的目标推进。COVID 和夏季高温之后速度慢了一点，但仍在前进。我有信心能达到这个目标。这里真的很自豪，跑步让我动起来！这是我能控制并且可以
+每天做的一件事，它给我能量去做其他事情。
 
-## I went shopping
+## 我去购物了
 
-One of the wins for the month of March was an Apple Watch. I bought one a week or two ago. Its a nice to have, still getting used to it. I don't use/wear it all the time but I haven't been carrying my phone for the last couple of weeks while running. It comes with Apple pay so I have  been saved while not having my credit card while I am at the store.
-Its comparing Apples to oranges but I like the Airpods a bit more 😛
+三月的奖励之一是 Apple Watch。我一两周前买了一块。它是个锦上添花的东西，还在适应。我并不是一直使用/佩戴它，但过去几周跑步时我没有带手机。它带 Apple pay，所以在商店没带信用卡时救过我。
+这有点像拿苹果和橙子比，但我更喜欢 Airpods 一点 😛
 
-## Reading
+## 阅读
 
-Reading is tracking well, I am done wit hall the reading tasks for this month except for finishing *Liars Poker*. I am 80% done there, I think I'll get done with the book in a few days. So feeling good on this front.
+阅读进展良好，除了读完 *Liars Poker* 之外，我已经完成了本月所有阅读任务。那本书我读到 80%，我想几天内就能读完。所以这方面感觉不错。
 
 ## May Sky Challenge
 
-This has been a failure. I ended up looking at my phones alarm the very first day. I immediately put the phone down and started looking at the Sky, applying the five second rule. The next couple of days after waking up I'd look at the sky for a second and then start looking at my phone. Need some work on this one!
+这个失败了。第一天我就看了手机闹钟。我立刻把手机放下，开始看天空，应用五秒法则。接下来几天醒来后，我会看天空一秒，然后开始看手机。这个还需要努力！
 
 ## NTC
 
-I split the 13 NTC workouts into jump rope and NTC. I am done with 8 sessions, I feel confident about finishing the remaining 5 in the remaining days of the month.
+我把 13 次 NTC 训练拆成跳绳和 NTC。我已经完成了 8 次，有信心在本月剩余几天完成剩下 5 次。
 
-## Side Projects
+## 副项目
 
-I somehow managed to talk about this at the end of this blogpost. This has been a failure so far. As you know I set out with making an netlify clone. I eventually changed the goal to make a more selective version of `Internshalla` that allows you to login with your university email address. I ended up pivoting to a running app where you set a goal and you pay if you don't meet the goal. While getting half way through I found a website that does the same thing. Is that a reason to quit? If you see my Github you can see that I hardly put in any work, I have been procrastinating. I have spent a bunch of time playing Call of Duty, watching Billions and scrolling Reddit when not working. I guess I should follow Bobby Axelrod from billions and get to work, he did say *In the great expanse of time we are already dead*.
+不知怎么的，我把这件事放到了这篇博客的最后才讲。到目前为止这是失败的。你们知道，我一开始想做一个 netlify 克隆。后来我把目标改成做一个更精选版的 `Internshalla`，允许你用大学邮箱登录。最后我又转向一个跑步应用，你设定目标，如果没达成就付钱。做到一半时，我发现有个网站做了同样的事。这是放弃的理由吗？如果你看我的 Github，就会发现我几乎没投入什么工作，一直在拖延。工作之外我花了很多时间玩 Call of Duty、看 Billions、刷 Reddit。我想我应该效仿 Billions 里的 Bobby Axelrod 去干活，他确实说过 *In the great expanse of time we are already dead*。
 
-## How many times have you run into this?
+## 你遇到过多少次这种事？
 
-I have been writing ideas every time I get them for a month now. I have written down ideas in the past as well. How often has this happened to you?
+过去一个月里，每次有想法我都会写下来。以前我也写过想法。下面这种事在你身上发生过多少次？
 
-1. You think of an idea
-2. You think of its utility, implementation and market
-3. You get really excited
-4. Either you find out or someone tells you that the idea already exists
+1. 你想到一个点子
+2. 你思考它的用途、实现和市场
+3. 你变得非常兴奋
+4. 要么你自己发现，要么有人告诉你，这个点子已经存在了
 
-This has happened multiple times this month to me. The following examples are what I can remember
+这个月这种事在我身上发生了多次。下面是我能记住的例子
 
-1. The run or lose money app, has been implemented by this company called Beeminder. They do a lot more than just running.
-2. While developing the internship project, friend asked "How do we make sure that the job is legit?" I came up with up a SaaS that allows for moderation. You send the post to us and then we send you a callback once verified. With some machine learning/AI we could filter out the obviously bad ones. We can send the ones that pass the smell test to your moderators
-or our own external moderators. After getting really excited and scaling this idea from a bootstrapped company to a startup in our heads, Sodhi pointed out that there is a company called Besedo that does this and has been in the game from 2003.
-3. Bhavdeep comes with another interesting idea. He says, he has trouble finding information in his existing organization as information can be in Slack, Jira, Email, Wiki, Quip, Github, Internal Websites and his company currently doesn't have something  that does this. A lot of firms end up building this in house, this looks like it could be a  SaaS. I get excited and get some buy in from other folks. Ines points out that this already exists, Amazon released something called Kendra just recently.
+1. 跑步否则输钱的应用，已经被一家叫 Beeminder 的公司实现了。他们做的远不止跑步。
+2. 在开发实习项目时，朋友问“我们怎么确保这份工作是真的？”我想出了一个支持审核的 SaaS。你把帖子发给我们，验证后我们给你回调。借助一些机器学习/AI，我们可以过滤掉明显糟糕的内容。我们可以把通过初筛的内容发给你的审核员，
+或我们自己的外部审核员。我们非常兴奋，并在脑海中把这个想法从自力更生的小公司扩展成创业公司后，Sodhi 指出有一家叫 Besedo 的公司已经在做这件事，并且从 2003 年就入局了。
+3. Bhavdeep 提出了另一个有趣想法。他说，他在现有组织里很难找信息，因为信息可能在 Slack、Jira、Email、Wiki、Quip、Github、内部网站里，而他的公司目前没有这样的东西。很多公司最后会在内部构建这个，这看起来像是一个 SaaS。我很兴奋，也让其他人有些认同。Ines 指出这已经存在了，Amazon 最近刚发布了一个叫 Kendra 的东西。
 
-## What do you do when this happens?
+## 这种事发生时你该怎么办？
 
-Do you take this as validation about a market existing?
+你会把这当作市场存在的验证吗？
 
-I was listening to this podcast by Jason Fried where he was talking about the initial days of 37 signals and how they were just another boutique web consultation company. He mentioned that he had put his opinions on the website, if a customer agreed with his companies opinions then they'd think they'd work well together.
+我在听 Jason Fried 的一个播客，他谈到 37 signals 的早期，以及他们如何只是另一家精品 Web 咨询公司。他提到自己把观点放在网站上，如果客户认同他公司的观点，他们就会认为彼此能很好合作。
 
-I think there is a market for opinions. Looking at Github market place you'll probably find over ten Continuous Integration Platforms. Why do  I use CircleCi? Well I like the
-asthetics. All the CI businesses seem to be doing just fine, there are no unicorns though.
+我认为观点是有市场的。看看 Github market place，你大概会找到十多个 Continuous Integration Platforms。为什么我用 CircleCi？因为我喜欢它的
+审美。所有 CI 公司看起来都做得还行，不过没有独角兽。
 
-Do you just drop this idea and look for another one?
+你会直接放弃这个想法，然后去找下一个吗？

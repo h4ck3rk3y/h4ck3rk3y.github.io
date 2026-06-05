@@ -1,92 +1,90 @@
 ---
 layout: post
-title: Once Upon a Time in Vietnam
-subtitle: or the night that we thought we were done for
+title: 越南往事
+subtitle: 或者说那个我们以为完蛋了的夜晚
 tags: [personal, travel, vietnam, bike]
 fb-img: http://gyani.net/img/big-imgs/nhatrang.jpg
 ---
 
-This is a first in a series of posts about the thousand dollar challenge. The thousand dollar challenge was a challenge that I and Edwin gave ourselves. The challenge was to travel south east asia for a month in under $1000. The amount includes flights, visas, insurance, stay, food and every other trip cost.
+这是关于 thousand dollar challenge 系列文章的第一篇。thousand dollar challenge 是我和 Edwin 给自己的一个挑战。挑战是在 $1000 以内游历东南亚一个月。这个金额包括机票、签证、保险、住宿、食物以及其他所有旅行费用。
 
-We did it under $900 but that's a different story.
+我们最终花费不到 $900，不过那是另一个故事。
 
-So after chilling out in Cambodia, visiting ancient temples and going down the sisowath quay enjoying the **Mekong Delta** we decided to do something crazy. This is where **Chingari** and **Mr Hung Phi** come in.
+在 Cambodia 放松、参观古老寺庙、沿着 sisowath quay 游览并欣赏 **Mekong Delta** 之后，我们决定做点疯狂的事。这就是 **Chingari** 和 **Mr Hung Phi** 登场的地方。
 
-From **Phnom Penh, Cambodia** after running around bargaining at different travel agents we finally found a $9 bus to **Ho Chi Minh, Vietnam**.
+从 **Cambodia 的 Phnom Penh** 出发，在不同旅行社之间来回砍价后，我们终于找到了一辆去 **Vietnam 的 Ho Chi Minh** 的 $9 巴士。
 
-We arrived in Ho Chi Minh, on the 22nd of December. Edwin was hell bent on buying a bike and I being the force of reason decided against it and booked a $7 bus to Mui Ne from an agency called the sinh tourist. We did go bike shopping together though. Met a cool Jamaican guy who had been living in Nha Trang for around half an year shooting water films. Saw a decent $270 bike but decided against buying it. The next day we were taken to this motorcycle dealer called Hung Phi, who ensured that a sister shop would buy the bike for around $200 in **Hanoi**. He somehow convinced us to buy a not so great rat bike for $300. We call her Chingari.
+我们在 12 月 22 日到达 Ho Chi Minh。Edwin 铁了心要买摩托车，而我作为理性的力量，决定反对这件事，并从一家叫 the sinh tourist 的旅行社订了一张去 Mui Ne 的 $7 巴士票。不过我们确实一起去看了摩托车。遇到一个很酷的 Jamaican 人，他在 Nha Trang 住了大约半年，拍摄水上影片。看到一辆还不错的 $270 摩托车，但最后决定不买。第二天，有人带我们去了一个叫 Hung Phi 的摩托车经销商那里，他保证 **Hanoi** 的一家姐妹店会以大约 $200 买回这辆车。不知道怎么的，他说服我们用 $300 买了一辆不太好的破车。我们叫她 Chingari。
 
 ![Chingari](/img/big-imgs/nhatrang.jpg)
 
 
-After buying the bike I decided to stick with Edwin no matter what happens, ditched the bus and we started riding towards **Mui Ne**. The land of $10 beach houses.
+买下摩托车后，我决定无论发生什么都和 Edwin 一起，放弃巴士，开始骑向 **Mui Ne**。那里是 $10 海边小屋的土地。
 
-![Mui Ne Beach House](/img/blog/muine.jpg)
+![Mui Ne 海边小屋](/img/blog/muine.jpg)
 
-The bike did around 200 kms on day 1 in about 6 hours. The next day, on our way to **Dalat** or *Paris of Vietnam* it did another 175 kms but the luggage stand broke. We got it repaired, nothing major had happened. The women selling gas scammed us.
+第一天，这辆摩托车在大约 6 小时里跑了 200 kms。第二天，在前往 **Dalat**，也就是 *Vietnam 的 Paris* 的路上，它又跑了 175 kms，但行李架坏了。我们把它修好了，没发生什么大事。卖汽油的女人骗了我们。
 
-> *Pro Tip: Never ask the gas pump employees to fill your gas tank. Always
-> show them how much you will be paying and keep your eye on the meter*
+> *专业提示：永远不要让加油站员工替你加满油箱。一定要
+> 给他们看你要付多少钱，并盯紧油表*
 
-This is when we met Rocky. In the last 10 days in South East Asia we had met plenty of middle men trying to sell us anything and everything under the sun.
-Rocky was different, Rocky met us around 45 Kilometers before Dalat and rode with us for the next few hours so as to insure that we stayed at his hostel, *Easy Rider Hostel* recently rechristened to *Dalat Intercontinental Hostel* for $4.5 a night. Rocky is a nice guy, his hostel was good and the breakfast he got us was brilliant. The only thing Rocky did was wrong was to suggest us to remove the **broken chain guard** as it didn't matter. That was probably the beginning of the end of *Chingari*. We spent Christmas eve at Dalat, it was beautiful
+这时我们遇到了 Rocky。在东南亚的前 10 天里，我们遇到过很多中间人，他们试图把天底下什么东西都卖给我们。
+Rocky 不一样。Rocky 在离 Dalat 大约 45 Kilometers 的地方遇到我们，并在接下来的几个小时里和我们一起骑行，以确保我们住进他的旅舍，*Easy Rider Hostel*，最近改名为 *Dalat Intercontinental Hostel*，每晚 $4.5。Rocky 是个好人，他的旅舍不错，他给我们准备的早餐也很棒。Rocky 唯一做错的事，就是建议我们拆掉 **broken chain guard**，因为他说那无关紧要。那大概就是 *Chingari* 走向终结的开始。我们在 Dalat 度过了圣诞夜，很美。
 
-![Just Below Rockys Hostel](/img/blog/belowrockys.jpg)
+![就在 Rocky 旅舍下方](/img/blog/belowrockys.jpg)
 
 ![Dalat to Nha Trang](/img/blog/da_lat_nha_trang.jpg)
 
-The next day we started riding down to **Nha Trang**. The ride to Nha Trang was almost error free though our oil was leaking so was gas. Nha Trang was probably one of the best places we visited. We met Richard, Odin, Catherine,OJ, Omar and others in Nha Trang. More about Nha Trang later. We stayed at the **Backpackers Hostel** run by Tintin. Tintin served us Vietnamese Curry with bread for breakfast which was perfect.
+第二天，我们开始骑车前往 **Nha Trang**。去 Nha Trang 的路几乎没有问题，虽然我们的机油在漏，汽油也在漏。Nha Trang 可能是我们去过的最好的地方之一。我们在 Nha Trang 遇到了 Richard、Odin、Catherine、OJ、Omar 等人。之后会再写 Nha Trang。我们住在 Tintin 经营的 **Backpackers Hostel**。Tintin 给我们早餐端上了越南咖喱配面包，非常完美。
 
-From Nha Trang we rode to **Da Nang**. We had to cover around 525 kms, and we did it in around 13 hours. Pretty good for a rat bike carrying two people weighing around 80 kilos each and 20 kilos of luggage. We reached Da Nang pretty late, around 11 pm in the night, even though we had decided to not drive in the night. On our ride to Da Nang we had our chain fixed as it was coming out frequently and even tried to get the leaking oil to stop leaking.
+从 Nha Trang 出发，我们骑到 **Da Nang**。我们要覆盖大约 525 kms，最后大约 13 小时完成。对于一辆载着两个各约 80 公斤的人和 20 公斤行李的破车来说，这已经很不错了。我们到达 Da Nang 时很晚，大约晚上 11 点，尽管我们原本决定不在夜里骑车。去 Da Nang 的路上，我们修了链条，因为它经常脱落，还试图让漏油停下来。
 
-## This is where the actual story starts
+## 真正的故事从这里开始
 
-We stayed a day in Da Nang. The hostel was called **Funtastic Beach Hostel**. At $7/night it was the most expensive place we stayed at, for the entire duration of our trip. It had a playstation 4, a reading room, a foosball table, lots of computers to check mail on, great breakfast, great wifi and great hygiene. Despite all these facilities we liked Tintins **Backpackers Hostel** at Nha Trang the best. On the 29th of December 2015 we were to leave for **Dong Hoi** to visit the **Phong Nha Ke Bang National Park**.
+我们在 Da Nang 待了一天。旅舍叫 **Funtastic Beach Hostel**。每晚 $7，是我们整趟旅行中住过最贵的地方。它有 playstation 4、阅读室、foosball 桌、很多可以查邮件的电脑、很棒的早餐、很棒的 wifi 和很好的卫生条件。尽管有这些设施，我们最喜欢的还是 Nha Trang 的 Tintin 那家 **Backpackers Hostel**。2015 年 12 月 29 日，我们要出发去 **Dong Hoi**，参观 **Phong Nha Ke Bang National Park**。
 
 ![Dragon Bridge, Da Nang](/img/blog/dragon.jpg)
 
-It was a 350km journey, so we had decided to leave our hostel at 9.30 am max. We were only able to leave it at around 11. On our way down, we decided to get our engine repaired because of the fumes. The mechanic took 2 hours to get it done, we had lunch at **Lotteria** and left for Dong Hoi. In hindsight this was the first time we ate at  Lotteria. **Lotteria** is basically the Mcdonalds of Vietnam. The rates are lower than Burger King or Mcdonalds and the food is okay. The best thing about Lotteria is **Kem Cone Socola** or chocolate ice cream which they sell for around 5000 Dongs.
+这是一段 350km 的路程，所以我们决定最晚早上 9:30 离开旅舍。结果我们大约 11 点才出发。路上，因为冒烟，我们决定修一下发动机。修理工花了 2 小时修好，我们在 **Lotteria** 吃了午饭，然后出发去 Dong Hoi。回头看，这是我们第一次在 Lotteria 吃饭。**Lotteria** 基本上就是 Vietnam 的 Mcdonalds。价格比 Burger King 或 Mcdonalds 低，食物也还可以。Lotteria 最好的东西是 **Kem Cone Socola**，也就是巧克力冰淇淋，售价大约 5000 Dongs。
 
-Coming back to the point and the reason I decided to write this blog post. It was 2PM and our lunch at Lotteria was over. We finally started driving out of the city. We had to get our chains tightened again. At around 6 we decided to hit the coastal roads thinking they would be as good as **AH1** or a continuation of AH1. We were **wrong**.
+回到正题，也就是我决定写这篇博客的原因。当时是下午 2 点，我们在 Lotteria 的午饭已经结束。我们终于开始驶出城市。我们不得不再次把链条拧紧。大约 6 点，我们决定走沿海公路，以为它们会和 **AH1** 一样好，或者就是 AH1 的延续。我们**错了**。
 
 
-> *Pro Tip: Never Leave AH1 for a road you are not sure about. Google is not your friend.*
+> *专业提示：永远不要为了不确定的道路离开 AH1。Google 不是你的朋友。*
 
-The next two hours were spent on a road wide enough to fit one Sedan. The road wasn't really a road, it had no lighting, it was passing through farms or what we thought were farms and no one except us seemed to be driving on the road. It was pitch dark and we couldn't see anything. The only source of light was *Chingaris* headlight, which itself seemed to be bent upwards instead of focussing on the road. For some reason I was reminded of the Vietnam Wars and began thinking about the possibility of these roads being pre war roads and us driving over unexploded ordinance and dying and this wasn't even the worst part of the day.The worst part of the day is yet to come. We passed the next two hours telling each other stories from **r/nosleep** and **r/letsnotmeet**.
+接下来的两个小时，我们都在一条宽度只够一辆 Sedan 通过的路上。那条路其实不像路，没有照明，穿过农田，或者我们以为是农田的地方，而且除了我们，似乎没有任何人在那条路上开车。四周一片漆黑，我们什么也看不见。唯一的光源是 *Chingari* 的车头灯，而它本身似乎还向上歪着，没有照向路面。不知为什么，我想起了 Vietnam Wars，开始想到这些路可能是战前道路，我们可能会驶过未爆弹药然后死掉，而这甚至还不是当天最糟糕的部分。当天最糟糕的部分还在后面。接下来的两个小时，我们互相讲 **r/nosleep** 和 **r/letsnotmeet** 上的故事。
 
-Around 8 PM we were able to join AH1. The entire day I was thankful to my Friend Chaitanya for giving me his power bank. The day sadly wasn't over and we were still pretty far away from our destination, Dong Hoi.
+晚上 8 点左右，我们终于回到 AH1。那一整天，我都很感谢朋友 Chaitanya 把他的充电宝给了我。遗憾的是这一天还没有结束，而我们距离目的地 Dong Hoi 仍然很远。
 
-The ride continues, its around 11.30 in the night and we are around 30 Kilometers from Dong Hoi, sand on both sides. Nothing visible  except the road ahead of us. No signs of civilization except the cars passing by. We are trying to pass time by listening to songs and singing them loudly. I remember this is when *Khwaja Mere Khwaja* from the movie *Jodha Akbar* starts playing. Something happens to our chain. We ride for another ten minutes, it starts raining. A few minutes later our chain makes weird noises, it comes out and we get down to fix it only to find that the cog that holds the chain is broken. We shouldn't have ever taken Rocky's advice. There is no way to fix it. We have no tools. It's around 12 am in Vietnam a country in which foreigners aren't allowed to drive anything even if they have an International License. This is a country where people don't speak English, leave alone Hindi. A country in which people somehow love the show *Balika Vadhu* and especially *Anandi*. I guess that isn't relevant to the story. So basically we were done. Edwin started dragging Chingari forward, and I was trying to stop busses/trucks and whatever.
+旅程继续。大约晚上 11:30，我们离 Dong Hoi 大约 30 Kilometers，两侧都是沙地。除了前方道路，什么也看不见。除了经过的汽车，看不到任何文明迹象。我们试着听歌并大声唱歌来打发时间。我记得这时电影 *Jodha Akbar* 里的 *Khwaja Mere Khwaja* 开始播放。我们的链条出了问题。我们又骑了十分钟，开始下雨。几分钟后，链条发出奇怪的声音，脱落了。我们下车去修，才发现固定链条的齿轮坏了。我们当初真不该听 Rocky 的建议。没有办法修。我们没有工具。那时大约是 Vietnam 凌晨 12 点，而在这个国家，外国人即使有 International License 也不允许驾驶任何东西。这里的人不说英语，更别提 Hindi。这个国家的人不知为什么喜欢电视剧 *Balika Vadhu*，尤其是 *Anandi*。我猜这和故事无关。所以基本上，我们完蛋了。Edwin 开始拖着 Chingari 往前走，我则试图拦巴士/卡车或任何车辆。
 
-> *Pro Tip: Don't trust Rocky.*
+> *专业提示：不要相信 Rocky。*
 
-30 minutes passed and none of them stopped.
+30 分钟过去了，没有一辆车停下。
 
-Finally a truck stopped. Trucks in Vietnam are highly developed and beautiful. The truck driver and the co driver came out. They didn't speak English and we didn't speak Vietnamese. The only Vietnamese we knew was *Pho Bo* or *Beef Noodle Soup* and *Com Ga* or *Fried Chicken Rice*. Now one of us had the bright idea to talk to them using Google Translate.
+终于，一辆卡车停了下来。Vietnam 的卡车非常先进，也很漂亮。卡车司机和副驾驶下来了。他们不会说英语，我们不会说 Vietnamese。我们唯一知道的 Vietnamese 是 *Pho Bo*，也就是 *Beef Noodle Soup*，以及 *Com Ga*，也就是 *Fried Chicken Rice*。这时我们中的一个人想出了聪明主意：用 Google Translate 和他们交流。
 
-> *Pro Tip: Google may be your friend. Google Maps certainly isn't. Always
-> have some data to talk to people via translate, if you are doing something
-> crazy in a Foreign Country*
+> *专业提示：Google 可能是你的朋友。Google Maps 肯定不是。如果你在外国做疯狂的事，
+> 一定要留一些流量，方便通过翻译和别人交流*
 
-We explained who we were and what had happened. This guy went back to his truck and got us a water bottle and offered us his rain coat. We said no to the rain coat. He even bought his tool kit and tried to fix the bike. The other guy lit up a cigarette as it was very cold and rainy, and just like any other Vietnamese guy offered us smokes. I politely refused as I don't smoke. The repair guy spent some 20 minutes trying to repair the bike before finally giving up.
+我们解释了自己是谁，以及发生了什么。那个人回到卡车上，给我们拿了一瓶水，还把他的雨衣给我们。我们谢绝了雨衣。他甚至拿出工具箱，试着修摩托车。另一个人点了一支烟，因为天气又冷又下雨，并且像其他 Vietnamese 人一样，递烟给我们。我礼貌地拒绝了，因为我不抽烟。负责修车的人花了大约 20 分钟试图修好摩托车，最后还是放弃了。
 
-The story continues, it's around 12.30. Around 45 minutes have been spent waiting for someone to stop, some finally stopping and them trying to repair the bike. It's been raining. We don't have umbrellas or raincoats.
+故事继续，这时大约 12:30。大约 45 分钟已经花在等待有人停车、终于有人停下并试图修车上了。一直在下雨。我们没有伞，也没有雨衣。
 
-The driver and the co driver of the truck tell us that they don't have space in their trucks for the bike. Maybe they can take us, but we would have to leave the bike and collect it next morning if we wanted to. We had spent $300, that is $150 each out of a budget of $1000 for a month and we did expect around $200 after selling the bike. After thinking a bit and telling ourselves that the bike was a bad idea and we shouldn't have done it in the first place we slowly started considering the option of leaving the bike. In the meantime we and the driver/co driver tried to stop more trucks and busses, so that we may go with them and take our bikes with us.
+卡车司机和副驾驶告诉我们，他们的卡车没有空间放摩托车。也许他们可以带我们走，但我们必须把车留下，如果愿意，第二天早上再来取。我们花了 $300，也就是一个月 $1000 预算里每人 $150，而且我们原本还指望卖车后能拿回大约 $200。想了一会儿，并告诉自己买摩托车本来就是个坏主意、一开始就不该这么做之后，我们慢慢开始考虑把车留下。与此同时，我们和司机/副驾驶一起试着拦更多卡车和巴士，希望能和他们一起走，并把摩托车也带上。
 
-Very few of them stopped, those who did stop said no and made some excuses. No one agreed to take the bike with them. Almost an hour and ten minutes had passed since the  had chain broke. The driver and the co driver had spent at least 50 minutes trying to help us. They were finally able to convince one of their mechanic friends who lived 15 minutes away to come, pick us up and repair the bike for us. Google helped us understand what they said. They told us that the guy would be there in 15 minutes.
+很少有车停下，停下的也都拒绝了，并找了些借口。没有人同意带上摩托车。从链条坏掉开始，已经过去将近一小时十分钟。司机和副驾驶至少花了 50 分钟试图帮助我们。他们终于说服了一个住在 15 分钟车程外的修理工朋友，让他过来接我们，并帮我们修车。Google 帮我们理解了他们说的话。他们告诉我们，那个人 15 分钟后到。
 
-Even though they had been trying to help us for the past hour, we were somewhere in our hearts doubtful if the *friend* would ever show up. Is there even a *friend*. Is it safe for us to wait? Why didn't we ditch the bike and go with the truckers instead? How stupid are we? Why didn't I ditch Edwin in the first place and take the bus to Mui Ne?
+尽管过去一小时他们一直在帮我们，我们心里某处还是怀疑那个 *朋友* 到底会不会出现。真的有这个 *朋友* 吗？我们在这里等安全吗？为什么不干脆丢下摩托车，跟卡车司机走？我们到底有多蠢？为什么我一开始没有甩下 Edwin，坐巴士去 Mui Ne？
 
-The guy luckily came and realized the vehicle wasn't big enough for both of us and the bike. Went back and came in a pickup truck.
+幸运的是，那个人来了，并意识到他的车不够大，装不下我们两个人和摩托车。于是他回去，开了一辆 pickup truck 过来。
 
-He drove for the next 15 minutes and took us to a mechanic near his home. He wasn't the mechanic. He was just a guy with a big vehicle. This guy could speak some english. I think Edwin is friends with the guy on Facebook. I hope he reads this. Thank you again Man!
+接下来的 15 分钟，他开车把我们带到他家附近的一个修理工那里。他并不是修理工。他只是一个有大车的人。这个人会说一点英语。我想 Edwin 在 Facebook 上和他是朋友。希望他能读到这篇。再次谢谢你，伙计！
 
-Continuing with the story. We reach a mechanic's house. He pulls up the shutter and starts shop. His wife is also up and can be seen making something. We are trying to dry ourselves. The mechanic starts working on the bike and takes around 20 minutes to repair it. After the repairs are done he asks for around 450,000 Vietnamese Dongs or $20. Edwin and I just had $13 to spare. We started showing him our empty wallets. This guy called the guy who brought us here. Somehow he made the mechanic agree and we got a discount of $7. This is when the mechanic's wife brought hot tea for us. All for us sat down and had tea. He served another round of tea and then we finally left for Dong Hoi. Somehow we were all quite and didn't talk at all for the next 30 Kilometers as if we had done something wrong and we were ashamed.
+继续说故事。我们到达一个修理工家。他拉起卷帘门，开始营业。他的妻子也醒着，可以看到她在做什么东西。我们试着把自己弄干。修理工开始修摩托车，花了大约 20 分钟修好。修完后，他要大约 450,000 Vietnamese Dongs，也就是 $20。Edwin 和我只剩 $13 可用。我们开始给他看空钱包。这个人打电话给带我们来的人。不知怎么的，他让修理工同意了，我们得到了 $7 的折扣。这时修理工的妻子给我们端来了热茶。我们所有人坐下来喝茶。他又倒了一轮茶，然后我们终于出发去 Dong Hoi。不知为什么，接下来的 30 Kilometers 里我们都很安静，完全没有说话，好像我们做错了什么，并为此感到羞愧。
 
-We reached Dong Hoi at about 3 AM and decided to stay at the **Buffalo Backpackers Hostel and Bar**. Good place, great food. The next day we left for **Phong Nha**, which was around 15 Kms from Dong Hoi on Chingari, riding as if nothing had happened last night. **Phong Nha** was beautiful.
+我们大约凌晨 3 点到达 Dong Hoi，决定住在 **Buffalo Backpackers Hostel and Bar**。地方不错，食物很棒。第二天，我们骑着 Chingari 出发去 **Phong Nha**，那里距离 Dong Hoi 大约 15 Kms，就像前一晚什么也没发生过一样。**Phong Nha** 很美。
 
 
 ![Phong Nha ke Bang](/img/big-imgs/phongnha.jpg)
-
 

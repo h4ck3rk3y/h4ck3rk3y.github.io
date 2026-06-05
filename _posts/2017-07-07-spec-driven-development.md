@@ -1,59 +1,59 @@
 ---
 layout: post
-title: Spec Driven Development
-subtitle: write specifications not tests
+title: 规格驱动开发
+subtitle: 写规格说明，而不是测试
 tags: [programming]
 fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
-Day 3 of the boot-camp concluded today. We had our first exercise on ~~Test~~ Spec Driven Development. At Go-Jek we don't write tests, we write specifications.
+boot-camp 的第 3 天今天结束了。我们进行了第一次关于 ~~Test~~ Spec Driven Development 的练习。在 Go-Jek，我们不写 tests，我们写 specifications。
 
-So we spent close to 7 hours today working on a very simple problem. Why did we take so long? We were trying and failing to do Spec Driven Development.
+所以今天我们花了将近 7 个小时做一个非常简单的问题。为什么会花这么久？因为我们试图做 Spec Driven Development，却不断失败。
 
-In our first show case my pair violaed a lot of ettiquettes mentioned in the previous list. Had horrible code. Horrible code can't be excused.
+在我们的第一次 show case 中，我的搭档违反了前一份列表里提到的很多礼仪。代码很糟糕。糟糕的代码不能被原谅。
 
-You say you shipped horrible code because you have a deadline. Well who told you to that horrible code was expressible.
+你说你提交了糟糕的代码，因为你有 deadline。好吧，谁告诉你那种糟糕代码是可以接受的？
 
-## What is a specification?
+## 什么是 specification？
 
-A specification defines what your code should do while not caring about how it does it.
+Specification 定义你的代码应该做什么，而不关心它如何做到。
 
-## What is an assertion?
+## 什么是 assertion？
 
-An assertion in your *test* is a contract that should be followed by the code that you write.
+你 *test* 中的 assertion 是一份契约，你写的代码应该遵守它。
 
-## So I write code and then I write specifications, right?
+## 所以我先写代码，然后再写 specifications，对吗？
 
-No. You write specifications first. You need to know what your code should do before you decide how it does it. If you have read yesterdays post, then you must realize that writing specifications first allows you to transfer some of the work that your brain does to the computer. Writing tests allows you to think clearly.
+不。你先写 specifications。在决定代码如何实现之前，你需要知道你的代码应该做什么。如果你读过昨天的文章，那你一定会意识到，先写 specifications 可以让你把大脑做的一部分工作转移给计算机。写 tests 能让你思考得更清楚。
 
-Even today when we were writing specs first, we were at fault as we had already written the code of the function that passes the test in our mind. The idea is that you should think in terms of specifications.
+即使今天我们先写 specs，我们也仍然有问题，因为我们脑中已经写好了那个能通过测试的函数代码。核心思想是，你应该用 specifications 的方式思考。
 
-## Ohkay, how do I write specs?
+## Ohkay，那我怎么写 specs？
 
-- Create a blank test function
-- Write an assertion that fails
-- Initialize whatever variables that your assertion requires
-- Name the test according to what your assertion does
+- 创建一个空的 test function
+- 写一个会失败的 assertion
+- 初始化你的 assertion 所需的任何变量
+- 根据你的 assertion 做的事情来命名这个 test
 
-## So, how much code should I write now?
+## 那么，我现在应该写多少代码？
 
-**Just enough** to make your specifications pass. And not more. This allows you to break your program into discrete steps. Writing the smallest possible amount of functionalities allows you to have a broad set of specifications.
+**刚好足够**让你的 specifications 通过。不要更多。这能让你把程序拆成离散步骤。编写尽可能少的功能，可以让你拥有一组广泛的 specifications。
 
-## Can you sum it up for me?
+## 能帮我总结一下吗？
 
-- Write specifications that fail, it might even be a compilation failure. That's fine.
-- Write enough code that passes the test
+- 写会失败的 specifications，甚至可能是编译失败。没关系。
+- 写足够通过 test 的代码
 - Commit
 - Refactor and Commit
 - Repeat
 
-## Sounds good, does it scale?
+## 听起来不错，它能扩展吗？
 
-I don't know. I have read a lot of discussion against TDD on hackernews. Developers argue that TDD doesn't scale.
+我不知道。我在 hackernews 上读过很多反对 TDD 的讨论。开发者争论说 TDD 不能扩展。
 
-- [A recent post](https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/) on Microsfot Developers Network by Eric Gunnerson
-- [Discussion on Hacker News about why TDD fails for them](https://news.ycombinator.com/item?id=12924173)
+- Eric Gunnerson 在 Microsfot Developers Network 上的[一篇近期文章](https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/)
+- [Hacker News 上关于为什么 TDD 对他们失败的讨论](https://news.ycombinator.com/item?id=12924173)
 
-People are on different spectrums. Some say that unit testing works fine, it doesn't matter if you write the test before or after. Some argue that TDD didn't fail because of engineering reasons but economic reasons. It's too slow to develop code they say. Well for the next few days we are working on very small projects, why not follow TDD?
+人们处在不同的光谱上。有些人说 unit testing 本身没问题，不管你是在之前还是之后写 test。有人认为 TDD 失败不是因为工程原因，而是经济原因。他们说开发代码太慢了。好吧，接下来几天我们都在做非常小的项目，为什么不遵循 TDD 呢？
 
-The coach gives examples of how they built one of the first cloud storage systems for Rack Space which only crashed about twice in production and all this was possible only because of TDD.
+教练举例说，他们曾为 Rack Space 构建最早的云存储系统之一，生产环境中只崩溃过大约两次，而这一切只有靠 TDD 才可能实现。

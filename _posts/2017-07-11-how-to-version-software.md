@@ -1,36 +1,36 @@
 ---
 layout: post
-title: How to Version Software
-subtitle: .. what are those numbers?
+title: 如何给软件做版本管理
+subtitle: .. 那些数字是什么意思？
 tags: [programming]
 fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
-Today in class, we had a small discussion on how to version software. The discussion started while we were going through someones ruby Gemspec file. The coach asked:
+今天课堂上，我们简短讨论了如何给软件做版本管理。讨论是在我们查看某人的 ruby Gemspec 文件时开始的。教练问：
 
->What is the ~> symbol?
+>~> 符号是什么？
 
-This was followed by the question.
+随后又问了一个问题。
 
->What does version 6.5.1 even mean?
+>版本 6.5.1 到底是什么意思？
 
-Think. If used properly, it has something to do with compatibility.
+想一想。如果使用得当，它和兼容性有关。
 
-The major version number(6 in our case) indicates that some code has been depreciated or removed. So if you shift from version 6.x.x to version 7.x.x something might break. That is version 7 might not be backwards compatible. The code might not follow the original contract
+主版本号（在我们的例子里是 6）表示某些代码已经被弃用或移除。所以如果你从版本 6.x.x 切换到版本 7.x.x，某些东西可能会坏掉。也就是说版本 7 可能不向后兼容。代码可能不再遵循原来的契约。
 
-The middle number indicates addition of features. Your existing code will not break but they have something new that you should look at. The code follows the original contract and does more.
+中间的数字表示新增功能。你现有的代码不会坏，但它们有一些新东西值得你看看。代码遵循原来的契约，并做得更多。
 
-The minor version number or the least significant one indicates that there has been a bug fix or a change in implementation while the contract remains the same and untouched.
+次版本号，或者说最低有效位，表示发生了 bug 修复或实现上的变化，而契约保持不变、未被触碰。
 
-The operator ~> indicates that it can be any version greater than the given number as long as the major version number is the same.
+运算符 ~> 表示它可以是大于给定数字的任何版本，只要主版本号相同。
 
-A lot of projects use arbitrary numbers, I guess if we all follow a convention a lot less things might break.
+很多项目使用随意的数字。我想如果我们都遵循一个约定，坏掉的东西会少很多。
 
-# An external software might break the contract that it initially followed, am I doomed?
+# 外部软件可能破坏它最初遵循的契约，我完了吗？
 
 
 ![Boom](/img/blog/boom.gif)
 
-No silly. Write tests for the interface to the external application. Ensure that your contract never breaks.
+不会啦，傻瓜。为外部应用的接口编写测试。确保你的契约永远不会被破坏。
 
 ![Drop Mic](/img/blog/obama.gif)

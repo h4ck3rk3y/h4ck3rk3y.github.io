@@ -1,29 +1,29 @@
 ---
 layout: post
-title: September
-subtitle: .. another month
+title: 九月
+subtitle: .. 又一个月
 tags: [september]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-Ok, September is here. 4 more months left. I know I am writing this on the 5th of the month. The last few days have been busy!
+好吧，九月来了。还剩 4 个月。我知道我是在这个月的 5 号写这篇。过去几天一直很忙！
 
-## Retrospective
+## 回顾
 
-1. **Running**: I wanted to run 180k, I ran  182k. ✅
+1. **跑步**: 我想跑 180k，实际跑了 182k。✅
 
-2. **Reading**: I wanted to read "Red Mars", I ended up reading "Attack of the Blockchain" ✅
+2. **阅读**: 我想读《Red Mars》，结果读了《Attack of the Blockchain》✅
 
-3. **Weight:**: I wanted to weigh 63. I weigh 65.5. Clearly not a win. ❌
+3. **体重:**: 我希望体重到 63。我现在 65.5。显然不算赢。❌
 
-I made a 50GBP donation to the University of Toronto for missing the weight goal.
+因为没达成体重目标，我向多伦多大学捐了 50GBP。
 
 
-## September
+## 九月
 
-1. **Running**: I want to be at 1496km by the end of the month. That is at least 140 more kilometers in the next 25 days. So about 5.6 a day. Lets round this up to
-6 a day, for a total of 150 in the next 25 days as the ideal goal.
+1. **跑步**: 我希望到月底达到 1496km。也就是接下来 25 天至少还要跑 140 公里。所以大约每天 5.6。我们把它凑整到
+每天 6，也就是接下来 25 天总共 150，作为理想目标。
 
-2. **Reading**: I want to finish "Subtle art of not giving a fck" by Mark Manson.
+2. **阅读**: 我想读完 Mark Manson 的《Subtle art of not giving a fck》。
 
-3. **Weight**: I weighed 65.90 this morning. Not proud. 3 days of eating and no exercise. 63 would be ideal.
+3. **体重**: 今早我称了 65.90。不太自豪。3 天一直吃，也没运动。63 会比较理想。

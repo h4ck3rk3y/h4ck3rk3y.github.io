@@ -1,82 +1,82 @@
 ---
 layout: post
-title: DC Search Stats, The Great Nepalese Expedition and More
-subtitle: or how we invaded the privacy of 1300 DC++ Users and other things.
+title: DC 搜索统计、伟大的尼泊尔远征以及更多
+subtitle: 或者说我们如何侵犯了 1300 名 DC++ 用户的隐私以及其他事情。
 tags: [programming, web, angular, sideproject, life, travel]
 fb-img: https://gyani.net/img/blog/nepal/fewatal.jpg
 ---
 
-It feels great to be writing a post about a side project after a long while. The last post I made on the blog was about my trip to Dharamshala back in August. The last post I made about programming was probably about Birbal that too in the beginning of August.
+隔了很久之后，再写一篇关于副项目的文章感觉很棒。我在博客上的上一篇文章是 8 月去达兰萨拉旅行的内容。上一篇关于编程的文章大概是关于 Birbal 的，而且也是 8 月初的事。
 
-The last 3 months have been weird. Really weird. August was about placements followed by a trip to Dharamshala. September was about a lot of things not related to programming or travel. A few friends and I started making videos and we called it pSentiSem productions. October was about The Great Nepalese expedition. November wasn't really about anything mostly just wrote the crawler for the DC Search Stats that didn't take a lot of time. I learned Android for a project in which we had to create an app that was basically a conversational medical diagnosis bot.
+过去 3 个月很奇怪。真的很奇怪。8 月是关于校招，随后是去达兰萨拉的旅行。9 月发生了很多和编程或旅行无关的事情。我和几个朋友开始做视频，并把它叫做 pSentiSem productions。10 月是关于伟大的尼泊尔远征。11 月其实没什么特别的，主要只是写了 DC Search Stats 的爬虫，也没花太多时间。我为一个项目学习了 Android，我们要创建一个基本上是对话式医疗诊断机器人的 app。
 
-# Videos
+# 视频
 
-One of the most famous videos that we made in the last few months was about the Shikanji Challenge. Prabhjyot, Shubhankar and I visited all rehdis(food stalls) on campus and tried the Shikanji there. Bhagirath Rehdi won, surprisingly. Here is the video.
+过去几个月里我们做的最有名的视频之一是关于 Shikanji Challenge 的。Prabhjyot、Shubhankar 和我走访了校园里所有 rehdis（食品摊），并尝试了那里的 Shikanji。令人意外的是，Bhagirath Rehdi 赢了。这是视频。
 
 <iframe width="760" height="480"
 src="https://www.youtube.com/embed/DHd67FtmkdE">
 </iframe>
 
-We also made a video that talked about our upcoming trip to Nepal. Kathmandu, Pokhara and the Annapurna region. We never ended up going to Kathmandu. In this video we experimented with making a stop motion video. Here it is.
+我们还做了一个视频，讲我们即将进行的尼泊尔之旅。加德满都、博卡拉和安纳普尔纳地区。我们最终从未去成加德满都。在这个视频里，我们尝试制作定格动画视频。就是这个。
 
 <iframe width="760" height="480"
 src="https://www.youtube.com/embed/jEQqMpY7B0M">
 </iframe>
 
-We even made a video about our trek. I'll talk about the trek later but here is the video. This video is just beautiful.
+我们甚至还做了一个关于徒步的视频。我稍后会谈这次徒步，但这里先放视频。这个视频真的很美。
 
 <iframe width="760" height="480"
 src="https://www.youtube.com/embed/YpzV3cymauk">
 </iframe>
 
-Edwin made a great video about our trip to South East Asia. This wasn't under the banner of pSentiSem productions but it's worth a watch.
+Edwin 做了一个很棒的视频，讲我们去东南亚的旅行。它不在 pSentiSem productions 的名义下，但值得一看。
 
 <iframe width="760" height="480"
 src="https://www.youtube.com/embed/D80i5TUAbyA">
 </iframe>
 
-There is also an upcoming video, that I shot during the Directors Tea Party(closest to a farewell a Bitsian gets). I went around asking people to say a few sentimental words. I'll embed that here soon.
+还有一个即将发布的视频，是我在 Directors Tea Party（最接近 Bitsian 告别会的活动）期间拍的。我到处请人说几句感性的话。我很快会把它嵌到这里。
 
-So what did I learn from the videos? Marketing. Creativity. Editing videos isn't easy. To get a simple shot you have to record multiple shots. The audience often matters more than the content. Your best creation won't necessarily get the most views.
+那么我从这些视频里学到了什么？营销。创意。剪视频并不容易。为了得到一个简单镜头，你必须录很多镜头。观众往往比内容更重要。你最好的作品不一定会获得最多观看量。
 
-# The Great Nepalese Expedition
+# 伟大的尼泊尔远征
 
-I and Shubhankar went to Nepal in the middle of October. We went post mid sems and came back on the second day of Oasis.
+我和 Shubhankar 在 10 月中旬去了尼泊尔。我们在期中考试后出发，在 Oasis 的第二天回来。
 
-The trip started on the 8th of October. We took a UPSRTC bus to Lucknow. The bus was late by 2 hours. We visited my family in Lucknow and in the evening headed out to Tundays Kababi. It was dirt cheap and tasty.
+旅行从 10 月 8 日开始。我们坐 UPSRTC 巴士去勒克瑙。巴士晚点了 2 小时。我们在勒克瑙看望了我的家人，晚上去了 Tundays Kababi。它便宜得离谱，而且很好吃。
 
-From Lucknow we took a night bus to Sonauli(border city) via Gorakhpur. From Sonauli we crossed to the Nepali town of Bhairahawa. No checking at the borders. No one cared. The bus from Bhairahwa to Pokhara took 7 hours for a 210 Km journey.
+从勒克瑙，我们经由戈勒克布尔坐夜班巴士到 Sonauli（边境城市）。从 Sonauli，我们跨到尼泊尔小镇 Bhairahawa。边境没有检查。没人关心。从 Bhairahwa 到博卡拉的巴士，用 7 小时走完了 210 Km 的路程。
 
-We arrived in Pokhara on 10th of October in the evening. We learned about how Nepal has a 3 day holiday during Dusshehra. We couldn't head go for the trek as the permit office was closed on the 11th. We went around Pokhara and visited the Lake Side and Sarangkot. Lake Side really felt like we were abroad somewhere. It was full of Cafes. The Fewa Tal was simply beautiful.
+我们在 10 月 10 日傍晚到达博卡拉。我们得知尼泊尔在 Dusshehra 期间有 3 天假期。因为许可办公室在 11 日关闭，我们无法出发去徒步。我们在博卡拉四处逛，去了 Lake Side 和 Sarangkot。Lake Side 真的让人感觉像是在国外某个地方。那里到处都是咖啡馆。Fewa Tal 简直太美了。
 
 ![Fewa Tal](/img/blog/nepal/fewatal.jpg)
 
-During our trip we explored a lot of top rated restaurants on WikiTravel and some new places that we thought looked worth visiting. We tried Neptalia, The Everest Steak House, Bamboostan Cafe, Almonds Cafe, Busy Bee Cafe, Asian Tea House, White Rabbits Coffee, Chicken N Falafel and Rice Bowl and a place by the Lake, the name of which I don't remember. Asian Tea house was the best for food and the most economical. White Rabbit makes amazing Coffee and Shakes and deserves to be on the top of whatever list on WikiTravel. Busy Bee was very lively and lived up to it's reputation. Rice Bowl was simply sad, do not go there. The Falafel stall was great too. People at Everest Steak House seemed to be enjoying but I guess it was too bland for two Indian dudes.
+旅途中，我们探索了很多 WikiTravel 上评分很高的餐厅，也去了些我们觉得看起来值得一去的新地方。我们尝试了 Neptalia、The Everest Steak House、Bamboostan Cafe、Almonds Cafe、Busy Bee Cafe、Asian Tea House、White Rabbits Coffee、Chicken N Falafel and Rice Bowl，还有湖边一个我不记得名字的地方。Asian Tea house 的食物最好，也最经济。White Rabbit 的咖啡和奶昔很棒，应该排在 WikiTravel 任何榜单的前列。Busy Bee 非常热闹，不负盛名。Rice Bowl 简直令人难过，不要去那里。Falafel 摊也很棒。Everest Steak House 的人似乎吃得很开心，但我猜对两个印度哥们来说味道太淡了。
 
 ![White Rabbit](/img/blog/nepal/whiterabbit.jpg)
-![Plate of Momos](/img/blog/nepal/momo.jpg)
+![一盘 Momos](/img/blog/nepal/momo.jpg)
 
-The next day we got our permits and headed out for Nayapul the starting point of the trek. Our initial route was bit ambitious and we were set back by one checkpoint on the second day as I wasn't feeling so well.
+第二天，我们拿到了许可，前往徒步起点 Nayapul。我们最初的路线有点雄心勃勃，第二天因为我感觉不太舒服，我们被迫在前一个检查站停下。
 
-The trek was long and tiring. We could do it in the 7 days as we had decided as on the 5th day we did around 44 Kilometers in around 12 hours. Our final route was Nayapul-Ghandruk on Day 1, Ghandruk-Chomrong on Day 2, Chomrong to Himalaya on Day 3, Himalaya to Machapuchre Base Camp (MBC) on Day 4, MBC to Annapurna Base Camp back to MBC and then down to Bamboo on Day 5, Bamboo-Jhinu on Day 6 and Jhinu-Siwai-Pokhara on Day 7. Something I didn't expect was too see Western food available on every leg of the trek. From Risottos to Lasagne, everything was there.
+徒步漫长而疲惫。我们能按原定 7 天完成，是因为第 5 天我们在大约 12 小时里走了约 44 Kilometers。我们的最终路线是第 1 天 Nayapul-Ghandruk，第 2 天 Ghandruk-Chomrong，第 3 天 Chomrong 到 Himalaya，第 4 天 Himalaya 到 Machapuchre Base Camp (MBC)，第 5 天 MBC 到 Annapurna Base Camp 再回 MBC，然后下到 Bamboo，第 6 天 Bamboo-Jhinu，第 7 天 Jhinu-Siwai-Pokhara。我没想到的是，在徒步的每一段都能吃到西餐。从 Risottos 到 Lasagne，什么都有。
 
-![Good Picture of the Peak](/img/blog/nepal/bestabcpeak.jpg)
+![山峰的好照片](/img/blog/nepal/bestabcpeak.jpg)
 
-![Top of Annapurna Base Camp](/img/blog/nepal/abc.jpg)
+![Annapurna Base Camp 顶部](/img/blog/nepal/abc.jpg)
 
-Overall it was a good trip. We made friends with a lot of people during the trek mostly because I was walking too slowly at times and people talked to me out of sympathy. We met a Polish couple randomly a lot of times during the trip.
+总体来说，这是一次不错的旅行。徒步期间我们结识了很多人，主要是因为我有时走得太慢，人们出于同情来和我聊天。旅途中我们还随机很多次遇到一对波兰夫妇。
 
-What did I learn from the trek and Nepal? The struggle is real. Struggle takes you to base camps, skill with struggle takes you to summits. Without struggle you get no where.
+我从徒步和尼泊尔学到了什么？挣扎是真实存在的。挣扎能把你带到大本营，带着技能的挣扎能把你带到峰顶。没有挣扎，你哪儿也到不了。
 
 # DC Search Stats
 
-In November we had the idea of listening on DC++ for search queries. For those of who aren't aware of how DC++ works, here is a primer. There are two types of users Active and Passive users. The Hub acts as an interface for Passive users to connect with Active Users. Whenever a user searches for something, all users get the query and there client returns whether a matching item is available. This part isn't shown in most clients and is hidden.
+11 月，我们有了在 DC++ 上监听搜索查询的想法。对那些不了解 DC++ 如何工作的人，这里有一个入门说明。用户有两种类型：Active 和 Passive 用户。Hub 充当接口，让 Passive 用户连接到 Active 用户。每当用户搜索某样东西时，所有用户都会收到查询，他们的客户端会返回是否有匹配项目。这个部分在大多数客户端中不会显示，是隐藏的。
 
-We had decided to do static analysis of the data collected during the week in which the crawler ran. Nothing happened for a while. I decided to finally learn AngularJS and I made a sideproject that used angular to show what was being searched on DC++ live among other things.
+我们曾决定对爬虫运行那一周收集的数据做静态分析。有一阵子什么都没发生。我决定终于学习 AngularJS，于是做了一个副项目，用 angular 展示 DC++ 上正在被实时搜索的内容以及其他东西。
 
-![Screen Shot](/img/blog/screen.png)
+![截图](/img/blog/screen.png)
 
-I finally feel like making things again. Up next is a website that is basically an year book or a better, faster and more stable version of RouteRush.
+我终于又有了做东西的感觉。接下来是一个网站，基本上是一本年鉴，或者说是一个更好、更快、更稳定的 RouteRush 版本。
 
-I'm looking forward to 2017. It starts with around 6 months of research in the field of Cyber Physical Security at the iTrust labs in Singapore University of Technology and Design, Singapore. I plan to learn a lot of things about security and full stack application development next year. I want to be able to build beautiful scalable apps instead of the small hacks that I make currently. I also want to finally get started with Bug Bounties. Farewell till the next post.
+我很期待 2017。它将从在新加坡科技设计大学 iTrust 实验室进行大约 6 个月的 Cyber Physical Security 领域研究开始。明年我计划学习很多关于安全和全栈应用开发的东西。我想能够构建漂亮、可扩展的应用，而不是我目前做的那些小 hack。我还想终于开始做 Bug Bounties。下篇文章再见。

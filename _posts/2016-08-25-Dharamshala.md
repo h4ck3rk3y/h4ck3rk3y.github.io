@@ -1,37 +1,37 @@
 ---
 layout: post
-title: Dharamshala
-subtitle: the actual post placement getaway
+title: 达兰萨拉
+subtitle: 真正的入职后出游
 tags: [Dharamshala, travel, asia, mountains, McLleodGanj]
 ---
 
 
-I just returned from my second trip to Dharamshala. The first trip was in 2014 with my school friends, this time I went with my friends at my University.
+我刚刚从第二次达兰萨拉之旅回来。第一次是 2014 年和我的学校朋友一起去的，这次我和大学里的朋友一起去。
 
-An earlier blog post talked about how **Kathamndu** not **Dharamshala** was supposed to be the post placement getaway. We had to settle for **Dharamshala** as we didn't have enough time for Kathmandu. Numerous deadlines like application for Startup-Chile, SequoiaHacks, interviews stopped us from going to **Kathmandu**. That will probably happen later.
+之前一篇博客提到，入职后出游原本应该去的是**加德满都**，而不是**达兰萨拉**。因为我们没有足够的时间去加德满都，所以不得不选择**达兰萨拉**。申请 Startup-Chile、SequoiaHacks、面试等大量截止日期阻止了我们去**加德满都**。那大概以后会发生。
 
-So our trip started in New Delhi on the **20th of August, 2016**. I had been in Delhi for a day as I had my interviews with Works Applications, which went great. Prabhjyot, Shubhankar and Ishan had arrived in the morning by the night train and had been going around Delhi.
+所以我们的旅行从 **2016 年 8 月 20 日**的新德里开始。我已经在德里待了一天，因为我参加了 Works Applications 的面试，面试很顺利。Prabhjyot、Shubhankar 和 Ishan 早上坐夜班火车到达，之后一直在德里四处逛。
 
-I met Ishan and Shubhankar at **Karims** near **Jama Masjid**, Old Delhi. Prabhjyot couldn't join us as he was working on his *GSoC* project. We ordered a dish called *Chicken Bura*, a bowl of *Chicken Jalfrezi* and some *Roti*. The staff wasn't polite. The manager wouldn't let me sit till these guys arrived. They took forever to take our order, despite us telling them that we had to catch a bus soon. After ordering the food came very quickly, as if it was already made and they just brought it to us. The *Chicken Bura* was good, but the Jalfrezi was too oily and lacked taste. This was similar to my experience at **Al Jawahar** near **Jama Masjid** just after my previous trip to Dharamshala. A lot of hype, very less substance. I had visited **Rajender Da Dhabba** a week earlier with my sister and it lived up to the hype, the chicken there was amazing.
+我在旧德里 **Jama Masjid** 附近的 **Karims** 见到了 Ishan 和 Shubhankar。Prabhjyot 不能和我们一起，因为他在做他的 *GSoC* 项目。我们点了一道叫 *Chicken Bura* 的菜、一碗 *Chicken Jalfrezi* 和一些 *Roti*。工作人员并不礼貌。经理不让我坐下，直到这些人到达。他们花了很久才给我们点单，尽管我们告诉他们很快要赶巴士。点完餐后食物很快就来了，仿佛早就做好了，只是端给我们而已。*Chicken Bura* 不错，但 Jalfrezi 太油，而且没什么味道。这和我上次达兰萨拉之旅后在 **Jama Masjid** 附近的 **Al Jawahar** 的经历很像。名气很大，实质很少。我一周前和姐姐去过 **Rajender Da Dhabba**，它没有辜负名气，那里的鸡肉太棒了。
 
-After our meal we headed to ISBT Kashmere gate. Shubhankar and Ishan had already purchased the ticket, we just had to wait for the bus. Prabjyot joined us at the Bus station and our trip to Dharamshala had started.
+吃完饭后，我们前往 ISBT Kashmere gate。Shubhankar 和 Ishan 已经买好了票，我们只需要等巴士。Prabjyot 在巴士站和我们会合，我们的达兰萨拉之旅就开始了。
 
-We reached Dharamshala around 8.30 am on the **21st of August**. Based on previous experience I knew there wasn't much to do at Dharamshala and the group agreed and we left for McLeod Ganj. We had food at **Moonpeak Cafe** after unsuccessful attempts to find **Tibetian Momo Cafe** and **Tibetian Mandala Cafe**. We had ordered Iced Coffee and some breakfast. The food was **good** but towards the end all three of us who had ordered some form of Coffee found hair in the glass. The person running the Cafe was polite and offered to replace the drinks. After some research we decided to visit the Bhagsu Falls. We started looking for the **Silver Moon House**, a budget hotel near the falls. We checked in, the room was great and costed us just Rs 700. We washed our faces, rested and then headed for lunch. There were multiple *German Bakeries* near our hotel we decided to try one of them. The **Chicken Sizzler** was great, so was everything else they served. Soon we headed to the falls, the falls were beautiful. We decided to be a little adventurous and tried to climb as high up in the falls as we could. It was fun. The only wrong decision was not to take my Go Pro clone, the Xiaomi Yi. For dinner we went to this place called **Singh's corner**, hoping Prabhjyot gets a discount. The atmosphere was amzing, felt like what we thought a Japanese restaurant should feel like but the food was sad. Probably the worst butter chicken ever. After that we headed to the *Oak View Restaurant* looking for cake, as Prabhjyot was obsessed with cakes, ordered some coffee, which was brilliant then went straight to bed.
+我们在 **8 月 21 日**上午 8.30 左右到达达兰萨拉。根据以往经验，我知道达兰萨拉没太多可做的事，大家也同意，于是我们动身去 McLeod Ganj。我们在 **Moonpeak Cafe** 吃了东西，此前没能找到 **Tibetian Momo Cafe** 和 **Tibetian Mandala Cafe**。我们点了冰咖啡和一些早餐。食物**不错**，但快结束时，我们三个点了某种咖啡的人都在杯子里发现了头发。经营咖啡馆的人很礼貌，并提出更换饮品。经过一番研究，我们决定去 Bhagsu Falls。我们开始寻找 **Silver Moon House**，一家位于瀑布附近的经济型酒店。我们办理入住，房间很棒，只花了 Rs 700。我们洗了脸，休息了一下，然后去吃午饭。酒店附近有几家 *German Bakeries*，我们决定尝试其中一家。**Chicken Sizzler** 很棒，他们提供的其他东西也都不错。很快我们前往瀑布，瀑布很美。我们决定稍微冒险一点，尽可能往瀑布高处爬。很好玩。唯一错误的决定是没有带上我的 Go Pro 克隆品，Xiaomi Yi。晚餐我们去了一个叫 **Singh's corner** 的地方，希望 Prabhjyot 能拿到折扣。氛围很棒，感觉就像我们想象中日本餐厅应该有的样子，但食物很差。大概是有史以来最糟糕的黄油鸡。之后我们去了 *Oak View Restaurant* 找蛋糕，因为 Prabhjyot 对蛋糕很着迷，点了些咖啡，咖啡很棒，然后直接去睡觉。
 
-![Hotel Near Bhagsu](/img/blog/dharamsala/hotel.jpg)
+![Bhagsu 附近的酒店](/img/blog/dharamsala/hotel.jpg)
 
 
 ![Singh's Corner](/img/blog/dharamsala/singhs.jpg)
 
 
-In the morning of the **22nd of August**, Shubhankar decided to go back to the falls to film it. Don't worry, Vlogs are coming soon. He cameback, I was already ready so we went for breakfast while Ishan and Prabhjyot took their own sweet time. Soon we decided to go to the Dalai Lama's monastery in McLeod Ganj. It was amazing. After that we headed to the **Tiebtian Kitchen**, the place stood up to the hype. Amazing food, amazing prices and great staff. I'll definitely give it a *5/5* rating.
+**8 月 22 日**早上，Shubhankar 决定回到瀑布去拍摄。别担心，Vlogs 很快就会来。他回来后，我已经准备好了，所以我们去吃早餐，而 Ishan 和 Prabhjyot 则慢悠悠地花了自己的时间。很快我们决定去 McLeod Ganj 的达赖喇嘛寺院。那里很棒。之后我们前往 **Tiebtian Kitchen**，这个地方没有辜负名气。食物很棒，价格很棒，员工也很好。我一定会给它 *5/5* 的评分。
 
-At 2 PM our trek started. We decided to record every stopage and called it a check point. At every checkpoint we filmed a 20 second video and took pictures.Compared to the four hours we took last time this time we just took 2 hours and 45 minutes for the trek. The hill was amazing. We saw two double rainbows on the top and made a few friends. We took a four person tent and played bluff. I won four times in a row. In the morning I woke up early and observed the sunrise. It was beautiful. Will be adding a video soon.
+下午 2 点，我们的徒步开始了。我们决定记录每一个停靠点，并把它叫做检查点。在每个检查点，我们都拍一段 20 秒的视频并拍照。和上次花了四小时相比，这次徒步我们只用了 2 小时 45 分钟。那座山很棒。我们在山顶看到了两道双彩虹，还交了几个朋友。我们租了一个四人帐篷，玩了 bluff。我连续赢了四次。早上我很早醒来，看了日出。它很美。很快会添加视频。
 
-![Rainbow](/img/blog/dharamsala/rainbow.jpg)
+![彩虹](/img/blog/dharamsala/rainbow.jpg)
 
-Our downwards journey started at 9 am on the **23rd of August** and ended at 11.10 am. This trip barely had 5 checkpoints! After that we headed to the **Woeser Bakery**, it was tough to find the fabled place but it was completely worth it. Good music, great coffe. After that we went to Dharamshala, had lunch at the good old(had been here last time) **Sher E Punjab Dhaba** before taking the Rs 3 bus to **HPCA Cricket Stadium**. The stadium was small, batsmen must find the ground easy to score big runs. In the evening we took an over expensive bus to New Delhi and saw *Bhagi* and *Ghayal: Once Again*, while the bus was speeding on the hills. It was not the best journey but it was fun. Overall, great trip!
+我们的下山旅程在 **8 月 23 日**上午 9 点开始，11.10 结束。这次旅行竟然只有 5 个检查点！之后我们前往 **Woeser Bakery**，很难找到这个传说中的地方，但完全值得。好音乐，很棒的咖啡。之后我们去了达兰萨拉，在熟悉的老地方（上次来过）**Sher E Punjab Dhaba** 吃午饭，然后坐 Rs 3 的巴士去 **HPCA Cricket Stadium**。球场很小，击球手一定觉得这块场地很容易打出高分。晚上我们坐了一辆贵得过分的巴士回新德里，巴士在山路上飞驰时，我们看了 *Bhagi* 和 *Ghayal: Once Again*。这不是最好的旅程，但很有趣。总体来说，很棒的旅行！
 
-*Side Note*
+*旁注*
 
-This post is probably not as good as some of the other posts. The post about Kathmandu wasn't that great either. I have been having *Writers Block* recently, it has affected my blog and my programming. My 185 or so day long Github streak broke and I haven't been able to make small side projects. I'm trying to get past that. I have a few articles in my draft section which I haven't been able to post. Writers block sucks and is the worst thing that can happen to a creative person. I just wanted to finish this post hoping that this helps me get past it.
+这篇文章可能没有其他一些文章写得好。关于加德满都的那篇也不太好。最近我一直有*写作瓶颈*，它影响了我的博客和编程。我大约 185 天的 Github 连续提交中断了，也没能做小副项目。我正在努力跨过去。我的草稿区里有几篇文章，但一直没能发布。写作瓶颈很糟糕，是创作者可能遇到的最糟糕的事。我只是想完成这篇文章，希望它能帮助我走过去。

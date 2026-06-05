@@ -1,56 +1,56 @@
 ---
 layout: post
-title: Weight Loss, Weight Gain
-subtitle: .. a story
+title: 减重，增重
+subtitle: .. 一个故事
 tags: [weight, life, emotions]
 fb-img: https://gyani.net/img/blog/2021.png
 ---
 
-I have to write this blog post. I have strayed off the path. I want to get back on the path
-by the time I am done writing this post and create some accountability.
+我必须写这篇博客文章。我已经偏离了道路。我希望在写完这篇文章的时候，
+能回到正轨，并建立一些责任感。
 
 
-### The Problem
+### 问题
 
-If you have been following this blog in the last year you must have seen monthly
-pots about weight, running and reading. Last year I lost a lot of weight, when I started I was 75.95 kilos and at my lowest I was 59.33 kilos. The lowest weight
-was on the 24th of October. The last measurement for 2020, was on the 10th of December, the day I flew to America for a trip. I was 60.73 kilos on that day. I was back home to Abu Dhabi
-on the 14th of January and I measured 62.95 kilos on that day, thats about 2 kilos gained while in America.
+如果你过去一年一直关注这个博客，你一定看过每月关于体重、跑步和阅读的
+帖子。去年我减了很多体重，开始时我是 75.95 公斤，最低时是 59.33 公斤。最低体重
+出现在 10 月 24 日。2020 年最后一次测量是在 12 月 10 日，也就是我飞去美国旅行的那天。那天我是 60.73 公斤。1 月 14 日我回到阿布扎比的家，
+当天测得 62.95 公斤，也就是说在美国期间大约增加了 2 公斤。
 
 
-This morning I weighed in at 64.90 kilos. The lowest I have weighed this year has been 61.75 and the highest I have weighed has been 65.65. I am slowly but steadily erasing
-the progress that I made last year. Here are a couple of graphs that illustrate the problem.
+今天早上我称了 64.90 公斤。今年我最低称过 61.75，最高称过 65.65。我正在缓慢但稳定地抹去
+去年取得的进展。这里有几张图可以说明这个问题。
 
 
 ![2020](/img/blog/2020.png)
 
-This graph is from last year! See how consistently I have been weighing myself being mindful about my weight.
+这张图来自去年！看看我多么持续地称重，并且认真关注自己的体重。
 
 ![2021](/img/blog/2021.png)
 
-This graph is from this year. It continuously breaks. The measurement starts on the 1st of February because
-I had data for January in a different chart. Weights going up.
+这张图来自今年。它不断中断。测量从 2 月 1 日开始，因为
+我把 1 月的数据放在了另一张图里。体重在上升。
 
 
-### What has changed?
+### 发生了什么变化？
 
-I have been running more than I did last year. Last year I set out to run 1000k and ended up running around 1550k. This year I have set a goal
-of 2000k and I am tracking well. For most of the year that was my exercise. In February & March I was boxing and in October and November
-I was going to F45 but for the bulk of the year I was going for a run. Which I am still doing.
+我今年跑得比去年更多。去年我设定目标跑 1000k，最后跑了大约 1550k。今年我设定了
+2000k 的目标，而且进度不错。今年大多数时候这就是我的运动。2 月和 3 月我在练拳击，10 月和 11 月
+我去 F45，但一年中的大部分时间我都在跑步。现在依然如此。
 
-My eating habit has changed. When I was traveling in America I stopped intermittent fasting and stopped counting calories as well. I came back
-and spent around 12 days in a hotel in Dubai. While I was at the Hotel I was still ordering from outside and that slowly became a habit.
+我的饮食习惯变了。在美国旅行时，我停止了间歇性禁食，也停止了计算卡路里。我回来后，
+在迪拜的一家酒店住了大约 12 天。在酒店期间我仍然从外面点餐，这慢慢变成了一种习惯。
 
-Ordering food online is really easy. Extremely easy. I order food and then I end up ordering desert. I order when I am not hungry.
-I order when I am bored. I do "emotional eating". I have not been able to  enforce the sugar bans, the food ordering bans or
-intermittent fasting.
+在线点餐真的很容易。极其容易。我点了餐，然后最后还会点甜点。我不饿的时候也会点。
+无聊的时候也会点。我会“情绪化进食”。我一直没能执行禁糖、禁止点餐，或者
+间歇性禁食。
 
 
-### What do I do?
+### 我该怎么办？
 
-I need to get back on track. I need to stop straying from the way. I'll be religious about logging my weight in the morning. I'll be
-religious about intermittent fasting. I'll not eat if I am not hungry. If this month turns out bad, I'll start counting calories
-religiously again.
+我需要回到正轨。我需要停止偏离道路。我会像宗教般认真地在早上记录体重。我会
+像宗教般认真地执行间歇性禁食。如果不饿，我就不吃。如果这个月结果很糟，我会重新开始
+像宗教般认真地计算卡路里。
 
-Holding the eating binge, being disciplined feels good. Gratifying myself with food feels good for a few minutes and mid-way during
-the eating it feels like crap. I should focus on being more disciplined, and the reward that comes from holding the line.
+克制暴食、保持纪律的感觉很好。用食物取悦自己会让人舒服几分钟，但吃到一半时
+感觉就会很糟。我应该更专注于更有纪律，以及守住底线所带来的奖励。

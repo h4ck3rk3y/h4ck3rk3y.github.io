@@ -1,36 +1,36 @@
 ---
 layout: post
-title: Keeping the Blog alive
-subtitle: .. got to keep posting
+title: 让博客继续活着
+subtitle: .. 得继续发文
 tags: [update, weekend, musings]
 ---
 
-Its been a month since the last post. I thought I'll write something.
+距离上一篇文章已经一个月了。我想我该写点东西。
 
-In the past month I moved into my own place. It's a nice small room really close to work and have fabulous flat mates.
+过去一个月里，我搬进了自己的住处。这是一个不错的小房间，离工作地点很近，室友也很棒。
 
-I took part in a hackathon to save wildlife. We built a system that would alert poachers based on the sensor data we called it `ARAS` short for Automatic Ranger Alert System.
+我参加了一个拯救野生动物的黑客松。我们做了一个系统，会根据传感器数据向护林员发出偷猎者警报；我们把它叫作 `ARAS`，是 Automatic Ranger Alert System 的缩写。
 
-It was a fun hackathon organized by ZSL, the zoological society of London and I got to explore the London zoo after and before hours.
+这是一次很有趣的黑客松，由伦敦动物学会 ZSL 组织，我还得以在开放时间前后探索伦敦动物园。
 
-Bloomberg was a sponsor of the hackathon and as it was for a good cause my time spent at the hackathon counted for *Dollars for your hours* scheme. If you accumulate 50 hours you get to donate $5000 to a cause you support. That's really cool, Bloomberg donates almost all it profits to non-profits across the world.
+Bloomberg 是这次黑客松的赞助方，而且因为它是为了公益，我在黑客松投入的时间也计入了 *Dollars for your hours* 计划。如果累计 50 小时，就可以向你支持的事业捐赠 $5000。这真的很酷，Bloomberg 几乎把所有利润都捐给了世界各地的非营利组织。
 
-![A Tiger at the Zoo](/img/blog/tiger.jpg)
+![动物园里的一只老虎](/img/blog/tiger.jpg)
 
-It was a really eventful month. I met a few family friends in Wolverhampton, the last time I had met them was 15 years ago in Glasgow. Had Diwali, Halloween, Guy Fawkes Day and London really lights up on these days. I also had a friend from University visit London in the last week. So I've been busy.
+这个月真的发生了很多事。我在 Wolverhampton 见了几个家族朋友，上一次见他们还是 15 年前在 Glasgow。经历了排灯节、万圣节、Guy Fawkes Day，伦敦在这些日子里真的会亮起来。上周还有一位大学朋友来伦敦看我。所以我一直很忙。
 
-I've been productive at work but not much outside it. Haven't got any side projects running at the moment but I hope to start soon.
+工作上我挺高效，但工作之外没做太多。现在没有在做任何副项目，不过希望很快开始。
 
-I joined a gym recently, `Fitness First`. I regain all the calories I lose as I visit takeaways for dinner. This has inspired me to work on a project to search food on the Internet by Calories.
+我最近加入了一家健身房，`Fitness First`。不过我晚餐常去外卖店，把消耗掉的卡路里又都补回来了。这启发我想做一个项目，可以按卡路里在互联网上搜索食物。
 
-- Enter your post code
-- You'll see dishes with their calorie and nutritional information
-- Browse away in all your glory
+- 输入你的邮编
+- 你会看到菜品及其卡路里和营养信息
+- 尽情浏览吧
 
-Coming Thursday I visit India for my cousins marriage. Trip starts in Bangalore, always Bangalore. Meet a few friends then fly to Ranchi for the marriage. Go to Lucknow and Patna to visit more family and finally go to Delhi before I take my flight back to London.
+这个周四我会去印度参加表亲的婚礼。旅程从 Bangalore 开始，永远是 Bangalore。见几个朋友，然后飞去 Ranchi 参加婚礼。再去 Lucknow 和 Patna 拜访更多家人，最后去 Delhi，然后搭飞机回伦敦。
 
-After I am back I'll have about a week to finish whatever I have been working on with my team as my training starts from the fourth of December.
+回来之后，我大概会有一周时间完成我和团队一直在做的事情，因为我的培训会从十二月四日开始。
 
-I've been reflecting on the [Bring it On 2017](https://gyani.net/blog/bring-it-on-2017/) post that I wrote earlier this year. I hate to admit, it isn't going according to plan. More on that later!
+我一直在回顾今年早些时候写的 [Bring it On 2017](https://gyani.net/blog/bring-it-on-2017/) 那篇文章。我不愿承认，但它并没有按计划进行。之后再细说！
 
-Kudos to [Aditya Vijaykumar](https://adivijaykumar.github.io/) for motivating me to write a post on my Blog again. See you on soon brother.
+感谢 [Aditya Vijaykumar](https://adivijaykumar.github.io/) 激励我再次在博客上写文章。兄弟，很快再见。

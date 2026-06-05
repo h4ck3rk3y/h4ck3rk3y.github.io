@@ -1,37 +1,37 @@
 ---
 layout: post
-title: September
-subtitle: .. less than a quarter left
+title: 九月
+subtitle: .. 剩下不到一个季度
 tags: [accountability, august, september]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-## Retrospective
+## 回顾
 
-August was rocky! Ran 28 out of 31 days. Writing on the 1st as yesterday was a bit busy.
+八月有些起伏！31 天里跑了 28 天。因为昨天有点忙，所以 1 号才写。
 
 
-1. **Running**: I wanted to run 90.34 km with a stretch goal of 200km. I finished 200km! I win a boxing bag, I'll probably get a gym subscription instead. ✅
+1. **跑步**：我原本想跑 90.34 km，冲刺目标是 200km。我完成了 200km！我赢得一个拳击沙袋，不过可能会改成办健身房会员。✅
 
-2. **Weight**: This was funny. I so lows of 59.70 and highs of 63. I finished at 59.80 kg, so I hit the goal. I get an iPhone 12 when it comes out. ✅
+2. **体重**：这件事挺有意思。我看到过低点 59.70，也看到过高点 63。最后以 59.80 kg 结束，所以达成目标。iPhone 12 出来时我可以买一台。✅
 
-3. **Reading**: I'm done with the innovators dilemma, 5 chapters of the SRE Handbook and AD. I don't win anything here. ✅
+3. **阅读**：我读完了 The Innovator's Dilemma、SRE Handbook 的 5 章和 AD。这里没有奖励。✅
 
-4. **Side Project**: This is almost done, decided to put in some fixes at the end. Will be donating to charity, will update this post when done. ❌
+4. **副项目**：这基本完成了，最后决定再修一些问题。会捐款给慈善机构，完成后更新这篇文章。❌
 
-5. **Nike Training Club**: This went well, I am done with 12 Chapters. ✅
+5. **Nike Training Club**：进展顺利，我完成了 12 次。✅
 
 ![Charity](/img/blog/wfp-september.png)
 
 
-## Month Planning
+## 月度计划
 
-1. **Running**: I have 93.6 km left for a 1000 km. Thats the goal now. Loss: £50 charity
+1. **跑步**：距离 1000 km 还差 93.6 km。这就是现在的目标。失败：£50 慈善捐款
 
-2. **Weight**: Though I ended August at 59.8, I started September at 61.3, essentially wasting the entire month. Hopefully if it came back on the last day, it should go away quickly soon. So plan is to get down back to under 60 and then to 59. If I get to under 60 by the 13th of September I get a GoPro. If I don't get to 59 by the end of the month I have to donate £50 to charity.
+2. **体重**：虽然我八月底是 59.8，但九月开始时是 61.3，基本等于浪费了整个月。希望如果它是在最后一天回来的，也能很快掉下去。所以计划是先回到 60 以下，然后到 59。如果我在 9 月 13 日前低于 60，就得到一台 GoPro。如果月底没到 59，就必须向慈善机构捐 £50。
 
-3. **Reading**: I want to read Godel Escher Bach, I understand its a large book and a tough read. Happy finishing half of it. I'll be away for two weeks, so this month I'll be happy reading 2 chapters of Google SRE Handbook and watch two AD videos.
+3. **阅读**：我想读 Godel Escher Bach，我知道这是一本大部头而且很难读。读完一半就满意了。我会离开两周，所以这个月能读完 Google SRE Handbook 的 2 章并看 2 个 AD 视频就很满意。
 
-4. **Side Project**: The goal is to release the product this week and get a hundred sign ups. Loss is donating £50 to a charity.
+4. **副项目**：目标是本周发布产品，并获得一百个注册。失败就是向慈善机构捐 £50。
 
-5. **Nike Training Club**: Do 12 workout sessions, like last month. The 7 minute detox doesn't count. Anything below 15 minutes doesn't count. Loss: £50 for charity.
+5. **Nike Training Club**：像上个月一样完成 12 次训练。7 分钟排毒不算。低于 15 分钟的都不算。失败：£50 慈善捐款。

@@ -1,32 +1,32 @@
 ---
 layout: post
-title: I'm getting fat again
-subtitle: .. the fattening
+title: 我又开始变胖了
+subtitle: .. 变胖进行时
 tags: [fat, fit]
 fb-img: https://gyani.net/img/milkshake.jpg
 ---
 
-Yesterday involved almost no exercise, a trip to Chick Fil A to get a Spicy Chicken Sandwich Meal with large Fries and a Lemonade, three high calorie drinks, 10 pieces of dumplings and another trip to Chick Fil A to get the Chicken Sandwich with medium fries and a chocolate milkshake.
+昨天几乎没有运动，去了一趟Chick Fil A，买了Spicy Chicken Sandwich Meal，配大份Fries和Lemonade，喝了三杯高热量饮料，吃了10个饺子，又去了一趟Chick Fil A，买了Chicken Sandwich配中份薯条和巧克力奶昔。
 
 ![Milkshake](https://gyani.net/img/milkshake.jpg)
 
-That's a total of 2730 Calories from Chick Fil A, 420 Calories from dumplings and 518 calories from the high calorie drinks. That's 3668 calories. Meanwhile Apple tells me that I just spent 380 active calories moving. This doesn't work. No wonder I weighed in at 68.2 kgs this morning.
+这总共是Chick Fil A的2730 Calories，饺子的420 Calories，以及高热量饮料的518 calories。总计3668 calories。与此同时，Apple告诉我，我活动消耗的热量只有380 active calories。这行不通。难怪我今天早上称到了68.2 kgs。
 
-The second trip to Chick Fil A wasn't even necessary, I was on my way back from an Open Mic and I saw it on the way, had some cash in my pocket and told myself "if its paid for via cash and not card it doesn't count" and got the meal. I ate out of boredom. This is the pre 2020 me and to be fair a good part of 2021 me as well.
-
-
-For long time readers of the blog, you might remember that in 2020 I went down from 76 to 59.75, I was proud, healthy and loving it. Since January 2021 I have been gaining weight but they way I have been thinking of it has been "I lost a little over 16 kilos but gained X and X is < 16". The difference between 16 and X continues to decrease, which sucks. Also anchoring on the 16 kilo lost is not helping. You are only as good as your last month and for the past 13 months I have been gaining weight sometimes slowly sometimes quickly. That means I have been degrading. I'm trying to think of this as being 68 and getting down to 60.
+第二次去Chick Fil A甚至不是必要的。我当时从Open Mic回来，在路上看到了它，口袋里有些现金，然后告诉自己“如果是用现金而不是卡付的，就不算”，于是买了那顿。我是因为无聊才吃的。这是2020年前的我，公平地说，也有很大一部分是2021年的我。
 
 
-All this is coupled with a lack of exercise and barely running 50kms in the month of January. My excuse for that has been the cold. I need to either sign up for a gym or just go out and run. Maybe its time to start playing Jocko & Goggins on loop again.
+对这个博客的长期读者来说，你们可能记得2020年我从76降到59.75，我很自豪，很健康，也很享受。从2021年1月开始，我一直在增重，但我思考这件事的方式一直是“我减了略多于16公斤，但又增加了X，而X < 16”。16和X之间的差距持续缩小，这很糟糕。而且锚定那减掉的16公斤也没有帮助。你只能和上个月的自己相比，而过去13个月里，我一直在增重，有时慢，有时快。这意味着我一直在退化。我正在尝试把这看作现在是68，要降到60。
 
 
-Being the right weight not only regulates blood pressure and keeps things like diabetes & heart disease away it also helps with life on the daily. One looks better, running becomes easier, surfing becomes easier and overall the quality of life becomes better.
-
-There was a time I'd be religious about 1500 calories a day and exercise. I was losing weight. Calorie counting & exercise does work. Intermittent fasting does work. I am bringing back religiousness around Calorie Counting and limiting myself to under 1500 calories for at least 6 days a week. I will also be religious about not having sugary drinks like milkshakes & coca cola.
+这一切还伴随着缺乏运动，以及一月份勉强跑了50kms。我的借口一直是天冷。我需要要么报名健身房，要么直接出门跑步。也许是时候重新循环播放Jocko和Goggins了。
 
 
-I'll be religious about logging my weight daily as well assuming I have access to a weighing machine.
+合适的体重不仅能调节血压，远离糖尿病和心脏病之类的问题，也能帮助日常生活。人会看起来更好，跑步会更容易，冲浪会更容易，整体生活质量会更好。
+
+曾经有一段时间，我对每天1500 calories和运动非常虔诚。我在减重。计算Calorie和运动确实有效。间歇性禁食确实有效。我要重新带回对Calorie Counting的虔诚，并把自己限制在每周至少6天低于1500 calories。我也会认真避免含糖饮料，比如奶昔和coca cola。
 
 
-Today I ended up having around 1200 calories spread over a couple of tacos, dumplings and an Apple pie. I should have resisted the Apple pie but it was for free at the office, no more of that!
+如果我能用到体重秤，我也会认真每天记录体重。
+
+
+今天我最后大约吃了1200 calories，分布在几个tacos、饺子和一个Apple pie上。我本该忍住Apple pie，但那是办公室免费的，不会再这样了！

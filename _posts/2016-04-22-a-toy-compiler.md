@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Making a toy compiler
-subtitle: and improving my C and Assembly skills
+title: 制作一个玩具编译器
+subtitle: 并提升我的 C 和汇编技能
 tags: [compiler, project, C]
 ---
 
-**6000** lines of codes later we are finally done with our compiler project. This was perhaps the most intense course project that I have done as a Computer Science Undergrad in BITS Pilani.
+写了 **6000** 行代码之后，我们终于完成了编译器项目。这大概是我在 BITS Pilani 读计算机本科期间做过的强度最高的课程项目。
 
-Over two months or rather 2 intense weeks, each before the 2 submission deadlines we built a lexer, parser, abstract syntax tree creator, type checker, semantic analyzer and code generator.
+在两个月里，或者更准确地说，在两个提交截止日期前各自紧张的 2 周里，我们构建了词法分析器、语法分析器、抽象语法树生成器、类型检查器、语义分析器和代码生成器。
 
-My C concepts related to pointers, strings, memory allocation and deallocation; Assembly knowledge; and data structures knowledge has greatly improved via the project. This was truly an enriching project. Can't believe so much work goes into writing a toy compiler for a small language. Can't imagine the work they put into GCC.
+通过这个项目，我在 C 语言中关于指针、字符串、内存分配与释放的概念，汇编知识，以及数据结构知识都有了很大提升。这确实是一个收获很大的项目。很难相信为一门小语言写一个玩具编译器竟然需要这么多工作。无法想象他们在 GCC 上投入了多少工作。
 
-Through the project my respect for language designers like Dennis Ritchie greatly increased. Just found [Dennis's first C compiler](https://github.com/mortdeus/legacy-cc).
+通过这个项目，我对 Dennis Ritchie 这样的语言设计者更加敬佩。刚刚发现了 [Dennis 的第一个 C 编译器](https://github.com/mortdeus/legacy-cc)。
 
-I remember reading articles that went like 'If there was no Dennis Ritchie, there would have been no Steve Jobs', it was something that I really didn't believe until today. Scientists bring innovations to entrepreneurs who make it affordable and usable by the general public. Without real scientists we won't have anything new. Reminds me of the Peter Thiel quote.
+我记得读过一些文章，里面说“如果没有 Dennis Ritchie，就不会有 Steve Jobs”，直到今天我才真正相信这句话。科学家把创新带给企业家，而企业家让它变得普通大众负担得起、用得上。没有真正的科学家，我们就不会有任何新东西。这让我想起 Peter Thiel 的那句话。
 
->We wanted flying cars, instead we got 140 characters.
+>我们想要飞行汽车，结果得到的却是 140 个字符。
 
-Only real scientists can get us flying cars.
+只有真正的科学家才能给我们带来飞行汽车。
 
-I can't share the code yet but I'll definitely add a link to the repository as soon as the evaluations are done.
+我现在还不能分享代码，但评估一结束，我一定会加上仓库链接。
 
-**Update**: The program is open source now. The semester just got over. Find the code [here](https://github.com/psdh/CSF363).
+**更新**：这个程序现在开源了。这个学期刚刚结束。代码在[这里](https://github.com/psdh/CSF363)。

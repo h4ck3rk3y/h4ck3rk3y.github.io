@@ -1,73 +1,71 @@
 ---
 layout: post
-title: October
-subtitle: .. why September was a failure
+title: 十月
+subtitle: .. 为什么九月是一次失败
 tags: [september, failure, what-happened]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-## Retrospective
+## 回顾
 
-September was fun but it wasn't good for my weight. I went out to eat with friends multiple times. I had my birthday on the 15th and turned 25. In that week
-I was ordering and eating out pretty often. Even went for brunch. I haven't been very carefully recording on MyFitnessPal and my weight
-has been a sine wave between 59.6 and 62.65. I just made a sheet of the times I ordered in food, normally I'd order in food at the end of the month
-as a reward but this month I ordered 20 times. These aren't 20 separate days, some of these are meals followed by deserts. That's how I got to my all
-time high weight initially. Not proud but I ordered Nutella Waffles 9 times this month.  I ordered Indian Chinese food 7 times. I ordered burgers once. 
-The remaining 3 orders are from relatively healthy places, Albahaca and DRVN. I have also eaten out 5 times, 4 of which can be excused as they
-were birthday related.
+九月很有趣，但对我的体重不好。我和朋友多次出去吃饭。15 日是我的生日，我满 25 岁。那一周
+我经常点外卖和外出吃饭。甚至还去吃了早午餐。我没有很认真地在 MyFitnessPal 上记录，而我的体重
+一直像正弦波一样在 59.6 和 62.65 之间波动。我刚做了一个表，记录自己点外卖的次数；通常我会在月底
+把点外卖当作奖励，但这个月我点了 20 次。这并不是 20 个不同的日子，其中一些是正餐后又点了甜点。这就是我最初达到历史
+最高体重的方式。不自豪，但这个月我点了 9 次 Nutella Waffles。我点了 7 次印度中餐。点了一次汉堡。
+剩下 3 单来自相对健康的地方，Albahaca 和 DRVN。我还外出吃了 5 次，其中 4 次可以用
+生日相关来解释。
 
-I had identified this problem a few weeks ago. A week ago I started taking it seriously but I have fallen back to ordering. If the weight wasn't going down
-as expected I'd order, because what's the point of being nice anyway. If the weight would drop, I'd order because it's going down so I deserve it. This is wrong.
-I need to focus on daily losses and just moving in the right direction, which is down. I'm hoping that writing all of this puts some sense into me
-and I start working towards the goal again. The best way to exercise self-control is not to exercise it at all.
+几周前我就发现了这个问题。一周前我开始认真对待，但又退回到点外卖。如果体重没有按预期下降，
+我就会点，因为反正好好表现有什么意义。如果体重下降了，我也会点，因为它在下降，所以我应得。这是错的。
+我需要专注于每天的下降，只朝正确方向移动，也就是向下。我希望写下这一切能让我清醒一点，
+然后重新朝目标努力。锻炼自控力的最佳方式，就是根本不要让它上场。
 
-1. **Running**: I wanted to run 93.6 km, I am done with 111.6 km. So this is done! I am past my 1000k goal. I get Hokas. ✅
+1. **跑步**：我原本想跑 93.6 km，已经完成 111.6 km。所以这完成了！我超过了 1000k 目标。我得到 Hokas。✅
 
-2. **Weight**: The rant before explains that I have failed this goal. It's the 26th today and I weighed 62.65 this morning. I don't
-think I can fix it by the end of the month. I wanted to weigh 59, so this is a loss. ❌
+2. **体重**：前面的吐槽解释了我为什么失败了。今天是 26 日，早上体重 62.65。我不
+认为月底前能修正它。我原本想达到 59，所以这是失败。❌
 
-3. **Reading**: Done with 2 AD videos and 2 Chapters of Google SRE Handbook. Read 160 pages of Godel Escher Bach and then decided to read
-That Will Never Work, a book about Netflix by Marc Randolph, one of the founders. No prize was associated with this. ✅
+3. **阅读**：完成了 2 个 AD 视频和 Google SRE Handbook 的 2 章。读了 Godel Escher Bach 的 160 页，然后决定读
+That Will Never Work，一本由 Netflix 创始人之一 Marc Randolph 写的关于 Netflix 的书。这里没有关联奖励。✅
 
-4. **Side Project**: Wanted to reach a hundred users but then decided to pivot and focus on businesses instead. Got about 50 signups. ❌
+4. **副项目**：原本想达到一百个用户，但后来决定转向，改为关注企业。获得大约 50 个注册。❌
 
-5. **Nike Training Club**: I got done with 12 exercises using a combination of f45, skipping and NTC. ✅
+5. **Nike Training Club**：我结合 f45、跳绳和 NTC，完成了 12 次训练。✅
 
-That's £100 for charity for whose counting. The dollar equivalent was $127. If you have a charity that you feel closely about, leave a comment.
+如果有人在数的话，这就是 £100 慈善捐款。美元等值是 $127。如果你有一个自己很在意的慈善机构，请留言。
 
 ![Charity](/img/blog/prerana-september.png)
 
-Hopefully Give India is legit and so is this foundation. One can only hope I guess.
+希望 Give India 是靠谱的，这个基金会也是。大概只能希望如此。
 
-## Month Planning
+## 月度计划
 
-The top goal is to get the weight in control. I have realized that running every day allows me to not give into my food urges. So here's the plan
+首要目标是控制体重。我意识到每天跑步能让我不向食欲屈服。所以计划如下
 
-1. **Running**: I'll run 5km daily for a total of 155km at the end of the month. There is no win here. If I don't reach 93km at the end of October
-I get the usual £50 penalty.
+1. **跑步**：我会每天跑 5km，月底总计 155km。这里没有奖励。如果十月底没有达到 93km，
+我会受到惯例的 £50 惩罚。
 
-2. **Weight**: With the September Fiasco I am essentially at the same position I was at the beginning of August. This is bad. I weighed in at 62.65
-this morning. So the goal here is to get back to under 60, and then finally under 59 and the end of the month. I think it should be doable, as I am
-starting early I have more days and also I have been at that lower weight. Till I get down to under 60, I can't get the iPhone as that was associated with
-being under 60. Till I don't get under 59, I can't order in food. I can go out for a meal assuming its with someone, so needs to be a social and lets
-cap that to at most 4 in the month. The PS5 is coming out in November and I want a weight goal associated with it too, I put that at under 57. I don't think
-I'll weigh 57 at the end of the month but one can wish. Win: At under 60 become eligible for iPhone again, at under 59 become eligible for a cheat meal, at under 57
-become eligible for a PS5. Loss: £50 charity if I am not under 59 at the end of the month, also iPhone and food ordering remains blocked.
+2. **体重**：经历九月惨案后，我基本回到了八月初的位置。这很糟糕。今天早上我称重 62.65。
+所以这里的目标是先回到 60 以下，然后在月底最终低于 59。我觉得应该可行，因为我
+开始得早，有更多天数，而且我也曾达到过那个较低体重。在降到 60 以下之前，我不能买 iPhone，因为那和
+低于 60 相关。在没低于 59 之前，我不能点外卖。我可以外出吃饭，前提是和别人一起，所以必须是社交，并且
+把这个限制在本月最多 4 次。PS5 会在十一月发布，我也想给它关联一个体重目标，我把它设为低于 57。我不认为
+月底我会达到 57，但人总可以许愿。奖励：低于 60 重新获得 iPhone 资格，低于 59 获得一顿放纵餐资格，低于 57
+获得 PS5 资格。失败：如果月底没有低于 59，就向慈善机构捐 £50，同时 iPhone 和点外卖继续被禁止。
 
-3. **Reading**: Shahriar from Metaview was kind enough to send a few books my way this month. I want to finish INSPIRED by the end of the month.
-It's a book about creating products that customers love. I also want to finish Chromosome 6, a medical thriller that my sister sent. No wins here. Loss: £50 if I don't
-finish either of the books.
+3. **阅读**：Metaview 的 Shahriar 这个月很友好地给我寄了几本书。我想在月底前读完 INSPIRED。
+这是一本关于打造客户喜爱产品的书。我还想读完 Chromosome 6，那是我妹妹寄来的医学惊悚小说。这里没有奖励。失败：如果没有
+读完其中任意一本，就损失 £50。
 
-4. **Exercise**: I'll take up f45 for the month of October. A trainer at f45 suggested that I do strength sessions. That's the plan, to do 4 sessions at f45 each week. There's
-a good possibility I end up sore after a few sessions. So setting reasonable win and loss goals. Win: If I do more than 12 sessions I get another month of f45. Loss: £50
-to charity if I don't do 10 sessions.
+4. **锻炼**：十月我会开始 f45。f45 的一位教练建议我做力量课程。计划就是每周在 f45 做 4 次课程。很有可能
+几次之后我会酸痛。所以设置合理的奖励和失败目标。奖励：如果超过 12 次课程，就再买一个月 f45。失败：如果没做 10 次课程，就给慈善机构捐 £50。
 
-5. **Side Project**: I don't want to put any numbers here but I'd be happy if I achieve what I set out to achieve every sprint. No wins or losses here. I'll report with
-results.
+5. **副项目**：我不想在这里放任何数字，但如果每个 sprint 都能完成自己设定的事情，我就会开心。这里没有奖励或惩罚。我会带着
+结果回来汇报。
 
-6. **Meditation**: I bought Waking up By Sam Harris on the 3rd of August thinking I'd meditate again but I have only done 15 classes in the last 54 days. That's bad.
-I want to bring a morning routine where I get up at most by 8 o clock, and meditate. I have created a [sheet](https://docs.google.com/spreadsheets/d/1F9tNhLqFucJYI8k_E6RKWnmQGYYbL7yzykx9oZAOV5c/edit?usp=sharing) to track sleep, meditation and f45. No wins or losses here. If the results are terrible I'll have something
-next month.
+6. **冥想**：我在 8 月 3 日买了 Sam Harris 的 Waking Up，以为自己会重新冥想，但过去 54 天只做了 15 节课。这很糟糕。
+我想建立一个早晨例程，最晚 8 点起床并冥想。我创建了一个[表格](https://docs.google.com/spreadsheets/d/1F9tNhLqFucJYI8k_E6RKWnmQGYYbL7yzykx9oZAOV5c/edit?usp=sharing)来追踪睡眠、冥想和 f45。这里没有奖励或惩罚。如果结果很糟糕，下个月我会设置些什么。
 
-I'll also track my calorie intake in MyFitnessPal religiously! I have already moved my target from 63 to 56! It thinks my current weight is 59.7, I better correct that now.
-Stay tuned.
+我还会认真地在 MyFitnessPal 追踪卡路里摄入！我已经把目标从 63 调到 56！它认为我当前体重是 59.7，我最好现在纠正一下。
+敬请期待。

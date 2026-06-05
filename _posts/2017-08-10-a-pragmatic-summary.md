@@ -1,30 +1,30 @@
 ---
 layout: post
-title: A pragmatic summary
-subtitle: .. of the pragmatic programmer.
+title: 一份务实的总结
+subtitle: .. 关于《程序员修炼之道》。
 tags: [programming, go-jek]
 fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
-So I finally finished reading the Pragmatic Programmer after owning it for almost two years now. I was introduced to the book during my Google Summer of Code at Nmap by my mentor [Daniel Miller](http://bonsaiviking.com/).
+所以，在拥有《程序员修炼之道》差不多两年之后，我终于读完了它。我是在 Nmap 参加 Google Summer of Code 时，由我的导师 [Daniel Miller](http://bonsaiviking.com/) 介绍认识这本书的。
 
-Clean Code: A Handbook of Agile Software Craftsmanship and The Pragmatic Programmer are the absolute minimum that a programmer should read at Go-Jek. It defines the poverty line. The fresh hires were sent copies of the two books a month before they started. Let's define pragmatism.
+Clean Code: A Handbook of Agile Software Craftsmanship 和 The Pragmatic Programmer 是 Go-Jek 程序员应该读的绝对最低标准。它定义了贫困线。新入职员工在开始前一个月就收到了这两本书。我们来定义一下务实主义。
 
->adjective: pragmatic dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+>形容词：pragmatic，以明智和现实的方式处理事情，基于实际而不是理论上的考量。
 
-The idea is to be ruthlessly pragmatic. Reminds you of someone, I am sure it does.
+核心理念是要极其务实。我相信这会让你想起某个人。
 
 ![Frank Underwood](/img/blog/frank.gif)
 
-I have a lot more books to read, the coach says we should aim at finishing them in the next six months. The entire list is an absolute treasure find it [here](https://blog.gojekengineering.com/the-go-jek-reading-list-1088712ccc14).
+我还有很多书要读，教练说我们应该争取在接下来六个月里读完。完整书单绝对是宝藏，可以在[这里](https://blog.gojekengineering.com/the-go-jek-reading-list-1088712ccc14)找到。
 
-I'll probably break the estimate or the *deadline* left, right and center but I hope I am able to read it in the next 600 days if not 6 months. That's one thing that the pragmatic programmer teaches you.
+我很可能会把估算或 *deadline* 彻底搞砸，但我希望即使不是 6 个月，也能在接下来的 600 天里读完。这也是务实程序员教给你的一件事。
 
-# Estimations are hard
+# 估算很难
 
-The authors suggest that a part of being a nice programmer and especially a pragmatic one is that they make accurate or close enough estimates. This art of estimation comes with time. The authors suggest to at least twice your estimate and add 10% more of the total or even better make your estimate 4 times of the original estimate that you made.
+作者们认为，成为一个优秀程序员，尤其是一个务实程序员的一部分，就是要做出准确或足够接近的估算。估算这门艺术需要时间积累。作者建议至少把你的估算翻倍，再加上总量的 10%，或者更好的是，把你最初做出的估算乘以 4。
 
-Estimate everything not just time required to complete a job but things about the job like the time complexity, memory complexity and other related things. Only if you can estimate how long a routine takes, you will know what to optimize. As we are now talking about optimizations I would like to introduce you to the ten rules of optimization.
+估算一切，不只是完成一项工作所需的时间，还包括这项工作的其他方面，比如时间复杂度、空间复杂度以及其他相关内容。只有当你能估算一个例程需要多久时，你才知道该优化什么。既然我们现在在谈优化，我想向你介绍优化的十条规则。
 
 - Profile
 - Profile
@@ -37,49 +37,49 @@ Estimate everything not just time required to complete a job but things about th
 - Profile
 - Profile
 
-You can't know how to optimize unless you know what to optimize. So always profile first.
+除非你知道要优化什么，否则你不可能知道如何优化。所以永远先 profile。
 
 ![Estimates](/img/blog/estimation.gif)
 
-Another thing we learned during boot-camp is *norming*. This isn't from the book but it's very much related. After every iteration(ideally an iteration is very small, not more than 2 weeks) see if your team could meet the velocity it had set. If not find out why? Do the standard **5 whys** and find out what changed. Did your velocity just drop because you switched to a different framework or did the developers just fall lazy? Remember, velocity has no meaning across teams.
+我们在 boot-camp 中学到的另一件事是 *norming*。这不是书里的内容，但非常相关。每次迭代之后（理想情况下，一次迭代应该很短，不超过 2 周），看看你的团队是否达到了设定的速度。如果没有，找出原因。做标准的 **5 whys**，弄清楚发生了什么变化。你的速度下降是因为切换到了不同的框架，还是开发者只是变懒了？记住，速度在不同团队之间没有意义。
 
-## Why should an iteration be small?
+## 为什么迭代应该短？
 
-Good question. Small iterations provide quick feedback. We as humans are pretty bad at making estimates and setting goals. On top of it we are very impatient. Small iterations allow constant and quick feedback. You can actually measure the change as it happens. Using feedback you can take necessary actions to improve as a team. Imagine having physical exercise goals set for a month, will you follow? Or, will you procrastinate? If you don't see the weighing scale soon you might lose the energy.
+好问题。小迭代能提供快速反馈。作为人类，我们很不擅长估算和设定目标。在此之上，我们还非常没有耐心。小迭代允许持续而快速的反馈。你可以在变化发生时真实地衡量它。借助反馈，你可以采取必要行动，让团队变得更好。想象一下，如果把身体锻炼目标设定为一个月，你会遵守吗？还是会拖延？如果你很快看不到体重秤的变化，你可能会失去动力。
 
-# Tests
+# 测试
 
->Coding Ain't Done 'Til All the Tests Run
+>代码没到所有测试跑完就不算完成
 
-Ruthlessly test everything. I mean everything. Write ~~Unit Tests~~, oh I mean Specs. The book is a little old though, it's yet to catch up with our lingo. The book suggests the following specs should be present in any program.
+极其严格地测试一切。我是说一切。写 ~~Unit Tests~~，哦，我是说 Specs。不过这本书有点老，还没跟上我们的术语。书中建议任何程序都应该具备以下规格说明。
 
 - Unit Tests
-    + A Unit Test is A Test that tests a given Module
-    + You can't proceed for other tests like integration tests without first knowing that the module you just wrote works as expected
+    + Unit Test 是一种测试给定 Module 的 Test
+    + 在还不知道你刚写的模块是否按预期工作之前，你不能继续进行 integration tests 之类的其他测试
 - Integration Tests
-    + An Integration Test tests whether two or more modules work together as expected
+    + Integration Test 测试两个或更多模块是否能按预期协同工作
 - Validation and Verification
-    + The user told you what they wanted, is what you made the same as what they need? It can be bug free and wrong too.
+    + 用户告诉了你他们想要什么，你做出来的东西和他们需要的一样吗？它可能没有 bug，但仍然是错的。
 - Resource Exhaustion Errors And Recovery
-    + There are limits in the real world
-    + Does your application work in real work conditions?
-    + Ideally your testing environment should be at the scale of the production environment with similarly large data.
+    + 现实世界中存在限制
+    + 你的应用能在真实工作条件下运行吗？
+    + 理想情况下，你的测试环境应该达到生产环境的规模，并使用类似的大数据量。
 - Performance Testing
-    + It works, but is it fast enough?
-    + Can it be scaled?
+    + 它能工作，但够快吗？
+    + 它可以扩展吗？
 - Usability Testing
-    + Ask your users how they feel about what you just created
+    + 问问你的用户对你刚创造出来的东西有什么感受
 
-You can also take it up a notch with ~~T~~SDD. Follow the TDD Mantra
+你也可以用 ~~T~~SDD 把它提高一个层次。遵循 TDD Mantra：
 
-- Write test code to fail [RED]
-- Write code that passes the test code and not more [GREEN]
+- 编写会失败的测试代码 [RED]
+- 编写刚好能通过测试代码的代码，不多写 [GREEN]
 - Commit and Push
-- Refactor, no refactoring specs though. Run Tests.
+- Refactor，没有重构 specs。运行 Tests。
 - Commit
 
-Read the book *TDD by Example* to understand TDD better. The definition of the poverty line can change with time as we grow as Engineers. *TDD By Example* and *Structure and Interpretation of Computer Programs* are included in other definitions of the Go-Jek reading poverty line.
+阅读 *TDD by Example* 来更好地理解 TDD。随着我们作为工程师成长，贫困线的定义也会随时间改变。*TDD By Example* 和 *Structure and Interpretation of Computer Programs* 也包含在 Go-Jek 阅读贫困线的其他定义中。
 
 ![Tests](/img/blog/tests.gif)
 
-This by no means is an appropriate summary of the Pragmatic Programmer but it's getting late. The Author has to sleep.
+这绝不是对《程序员修炼之道》合适的总结，但已经很晚了。作者得睡觉了。

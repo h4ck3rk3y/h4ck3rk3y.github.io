@@ -1,19 +1,19 @@
 ---
 layout: post
-title: And another weekend goes by
-subtitle: .. from your limited 1500 weekends
+title: 又一个周末过去了
+subtitle: .. 从你有限的 1500 个周末里
 tags: [time, go-jek, life]
 fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
-This has been a long weekend. 4 days of holidays. The weekend ends tomorrow but it already feels really stretched and wasted.
+这个周末很长。有 4 天假期。周末明天才结束，但已经感觉被拉得很长，也被浪费掉了。
 
-Last Friday we had a talk by the CTO of Go-Jek in the evening. One thing that stuck after the talk
+上周五晚上，我们听了 Go-Jek CTO 的一次分享。分享之后有一句话留在了我脑子里：
 
->You only have 1500 weekends in your life
+>你一生只有 1500 个周末
 
-Now how should we be using these weekends? This is 30 years of weekends. Our actions should match our ambitions. One could waste all 1500 weekends that they get or actually work towards that goal they have always had.
+那么我们应该如何利用这些周末？这相当于 30 年的周末。我们的行动应该匹配我们的抱负。一个人可以浪费掉自己拥有的全部 1500 个周末，也可以真正朝着那个一直以来的目标努力。
 
-If you really like music you could jam the entire weekend. If you are an adrenaline junkie and like to drive bikes at really high speeds then you could pursue that every weekend. If you want to contribute to Open Source then you should spend that time contributing.
+如果你真的喜欢音乐，你可以整个周末都 jam。如果你是肾上腺素爱好者，喜欢骑摩托车以非常高的速度飞驰，那你可以每个周末都去追求它。如果你想为开源做贡献，那你就应该把这些时间花在贡献上。
 
-Well what I am trying to say is do something productive, learn and work towards that goal that you have always had.
+好吧，我想说的是，做点有产出的事，学习，并朝着你一直以来的那个目标努力。

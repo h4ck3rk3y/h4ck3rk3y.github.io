@@ -1,33 +1,33 @@
 ---
 layout: post
 title: DinnerDateBot
-subtitle: a telegram Bot that gets you Dinner Dates
+subtitle: 一个帮你找到晚餐约会对象的 telegram Bot
 tags: [bots, programming, ai]
 fb-img: http://gyani.net/img/blog/dinnerbot1.png
 ---
 
-For the past few months I and [Shubhankar](https://github.com/shubh24) have been reading, thinking and discussing bots and conversational interfaces. We have been wanting to build a bot of our own. This is our first attempt at making a conversational Bot.
+过去几个月里，我和 [Shubhankar](https://github.com/shubh24) 一直在阅读、思考并讨论机器人和对话式界面。我们一直想构建一个属于自己的 bot。这是我们制作对话式 Bot 的第一次尝试。
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Registration](/img/blog/dinnerbot0.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![注册](/img/blog/dinnerbot0.png)
 
-The *idea* is that no one wants to eat alone. After registering on our Bot, it asks you a few simple questions regarding **where you are** and **what cuisine** you prefer.
+这个*想法*是：没有人想独自吃饭。在我们的 Bot 上注册后，它会问你几个简单问题，关于**你在哪里**以及你偏好**什么菜系**。
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Querying your Location](/img/blog/dinnerbot1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![查询你的位置](/img/blog/dinnerbot1.png)
 
-Based on the input it finds you a dinner date in a **ten mile** radius, the restaurant is a random top rated restaurant on **Zomato**. The restaurant is located somewhere between you and your *dinner date*.
+根据输入，它会在**十英里**半径内为你找到一个晚餐约会对象，餐厅则是 **Zomato** 上随机挑选的高评分餐厅。餐厅位于你和你的*晚餐约会对象*之间的某个地方。
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Match!](/img/blog/dinnerbot2.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![匹配！](/img/blog/dinnerbot2.png)
 
-The Bot sets up a link so that you guys can talk to each other and discuss things like when you would be reaching the location. You can share contact details with them if you like. From now on all messages sent to the Bot will be relayed to your *dinner date*. You can always break the relay link by sending the */exit* command.
+Bot 会设置一个链接，让你们可以互相聊天，讨论比如你们什么时候到达地点之类的事情。如果愿意，你可以和对方分享联系方式。从现在起，所有发送给 Bot 的消息都会被转发给你的*晚餐约会对象*。你随时可以通过发送 */exit* 命令断开转发链接。
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Reveal](/img/blog/dinnerbot3.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![揭晓](/img/blog/dinnerbot3.png)
 
-The bot tells you that on reaching the location you should send your coordinates. On sending your coordinates you are revealed your *dinner dates* picture while your *dinner date* is sent an alert that you have reached the restaurant.
+bot 会告诉你，到达地点后应该发送你的坐标。发送坐标后，你会看到你的*晚餐约会对象*的照片，而你的*晚餐约会对象*会收到一条提醒，告知你已经到达餐厅。
 
 <iframe width="760" height="480"
 src="http://www.youtube.com/embed/8-BTZRsUG6o">
 </iframe>
 
-Try DinnerDateBot on [telegram](https://bit.ly/DateBot).
+在 [telegram](https://bit.ly/DateBot) 上试试 DinnerDateBot。
 
-**Update**: The AI is working weirdly, this issue is being actively tackled.
+**更新**：AI 的运行有些奇怪，这个问题正在被积极处理。

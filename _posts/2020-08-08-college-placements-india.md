@@ -1,153 +1,153 @@
 ---
 layout: post
-title: College placements in India
-subtitle: .. and the false scarcity they create
+title: 印度的大学校招
+subtitle: .. 以及它们制造的虚假稀缺
 tags: [college placements, india, jobs, internships]
 ---
 
-**Bottom Line Up Front**: Placement seasons are here in Indian colleges. This is going to be a long rant followed with some advice for those who are going through this.
+**先说结论**：印度大学的校招季来了。这会是一篇很长的吐槽，后面会给正在经历这一切的人一些建议。
 
-Skip to [what can be done?](#what-can-be-done) for advice if you don't want to read through the rant.
+如果你不想读完整段吐槽，可以直接跳到[能做些什么？](#what-can-be-done)看建议。
 
-Note this post is written by a Software Engineer, who has done only Software Engineering jobs and only applied for Software Engineering jobs so far. I went to BITS Pilani, so I may
-be speaking from a position of privilege. Comment, in case this echoes with you or if I am in the wrong. My point here is if the college placements in one of the leading engineering
-colleges in India is so badly done, I can only imagine what goes on in other places. This doesn't account for the post pandemic job market.
+请注意，这篇文章由一名软件工程师所写，到目前为止我只做过软件工程工作，也只申请过软件工程工作。我上的是 BITS Pilani，所以我可能
+是在一个有特权的位置发言。如果这与你有共鸣，或者你觉得我错了，请留言。我的观点是，如果印度顶尖工程院校之一的校招都做得这么糟，
+我只能想象其他地方会发生什么。这还没有考虑疫情后的就业市场。
 
-## Whats wrong with College placements in India?
+## 印度大学校招出了什么问题？
 
-Almost Everything.
+几乎所有东西。
 
-### Context
+### 背景
 
-Lets rewind to July 2017. I had just finished an internship with Endurance International Group India(previously Directi Web Technologies) and I was supposed to head back to college for sitting for placements. I had a GPA of about 7.78
-and was going to sit for first semester placements that means I was competing with those with mostly higher GPA than me. I had written the Google Code Jam APAC test and my rank was in the low hundreds, I believe 108 and was expecting an onsite round from Google. I had previously done a Google Summer of Code with Nmap and spent a summer doing web development for the Indian Redcross Society.
+让我们回到 2017 年 7 月。我刚结束在 Endurance International Group India（以前叫 Directi Web Technologies）的实习，本应回学校参加校招。我的 GPA 大约是 7.78，
+并且要参加第一学期校招，这意味着我大多会和 GPA 比我高的人竞争。我参加了 Google Code Jam APAC 测试，排名在一百出头，我记得是 108，并期待 Google 的现场面试。我之前参加过 Nmap 的 Google Summer of Code，也花了一个夏天为 Indian Redcross Society 做 Web 开发。
 
-I had a thesis offer from Singapore University of Technology and Design. I was supposed to spend my last semester doing research in Singapore. I was a "practice school student" instead of a thesis student. So I had
-to get that changed.
+我拿到了 Singapore University of Technology and Design 的论文机会。本应在最后一个学期去新加坡做研究。但我是“Practice School 学生”，而不是论文学生。所以我必须
+把这个改掉。
 
-**Practice School**: At BITS you do two internships, Practice School 1(PS1) and Practice School 2(PS2). PS1 is after the second year and covers two months of summer holidays. Its a _paid internship_, a student pays
-Pilani for the privilege and almost always makes no money. For the current academic year a student pays Rs 65k for PS1. PS2 is an internship that you do in one of your last two semesters in BITS Pilani. This is also a _paid internship_ but for an entire semester and with good companies, a student pays for this as well but also makes money. Most Software Engineering PS2 students probably break even, or come out positive post Practice School. PS2 also leads to job offers, so its not all bad. They select based on GPA though.
+**Practice School**：在 BITS，你要做两次实习，Practice School 1(PS1) 和 Practice School 2(PS2)。PS1 在二年级后，覆盖两个月暑假。它是一个 _付费实习_，学生为这个特权向
+Pilani 付钱，而且几乎总是赚不到钱。当前学年，学生要为 PS1 支付 Rs 65k。PS2 是你在 BITS Pilani 最后两个学期之一做的实习。这也是一个 _付费实习_，但持续整个学期，且公司不错；学生同样要为此付钱，但也能赚钱。多数软件工程 PS2 学生可能能收支平衡，或在 Practice School 后净赚。PS2 也会带来工作机会，所以并非全坏。不过他们按 GPA 选择。
 
-**Placements**: For foreign readers. Placements are campus days in colleges, lots of companies visit colleges and people apply in bulk.
+**Placements**：给外国读者解释一下。Placements 是大学里的校园招聘日，很多公司访问校园，学生批量申请。
 
-### My Placement Story
-
-
-So I got to college and soon received news of a pre placement offer form Endurance. I was happy, my experience at Endurance was nice. The people were great, the work was interesting. I was facing a dilemma,
-if I chose to accept the Endurance offer then I could only sit for placements with one company that paid more than 1.75 times of what I was set to earn at Endurance. Not knowing who was set to come to University,
-there was great information asymmetry. I chose to risk it and didn't take the Endurance offer. That meant that I was eligible to sit for placements with all the companies that were set to visit BITS Pilani in the first
-half of 2017. I guess one can justify this by saying, that the placement process exists to ensure that most people are placed and if you already have a job you shouldn't compete with others. While this might be true, I want to tell the reader that the job market is a buyers market(student looking for a job). Remember this, throughout the post and later.
-
-Side note, you have to pay an extra fee to register for placements. One would think all of this would be included in the already high fees but it isn't. I think I had to spend Rs 4000, in order to register for placements.
-
-Placement in BITS Pilani starts with days. Day 0 would be companies offering significantly more  money or possibly international offers. Day 1 would be big brands but hiring in India. Day 2 would be upcoming startups
-or smaller brands hiring in India.
-
-As far as I remember there were three day 0 companies. I wasn't eligible for one because of my GPA. One took applications but would get back later and was hiring for a position in Singapore. The last one, I think I got 27/30 test cases and didn't make it to the interviews. Guess profile / GPA played a role there or others scored perfectly. I can't be sure here.
-
-I was fortunate to learn that Google had liked my APAC performance and wanted me to fly to Bangalore for an interview. I thought I could spend this month interviewing within BITS Pilani and then go for Google interviews
-in September. By going in September I would have more time to prepare, and also I wouldn't have to trade companies coming to BITS Pilani for Google. The Google recruiting team in India and the BITS Pilani placement in charge convinced me that Google absolutely has to interview me in August. They convinced me(and two others) that I should skip Day 1 and head to Bangalore for interviews as this was my one shot to interview with Google. I am not even sure why Google contacted the University instead of me directly. So I went. I lost out on almost all of Day 1. Being at Bangalore I had the pressure of doing well in the Google interviews as I had already forgone 5 other Day 1 companies for this opportunity. This my friends is stupid. I was naive. You don't have to be naive. Google is almost always hiring. You can and should be able to defer the interviews by a month easily. Be a bit more assertive, if  you are in this situation in the future. I gave the interview, I didn't do too well. Didn't get a job, neither did the other two who went to Bangalore with me. So as of this point I had said no to a job offer from Endurance, missed almost all of Day 1 or been said no to because of my GPA and was waiting to hear back from that one Day 0 job.
-
-The pressure was immense. Lot of people had already got jobs. I didn't have a job. People were celebrating, throwing placement parties. I was eating food for free. That was nice I guess. I had a call with a senior from college, friend and quiz partner [Sahil Gupta](https://www.linkedin.com/in/sahgup). He was really nice to talk to, he explained that I shouldn't take the rejections/missed opportunities as self validation
-and I should go into the next round with confidence and that I skilled. Again, grateful for having a good senior reach out. I am also grateful for having supporting friends and family, no one ever said I was a in the wrong for not getting placed but people were supportive, most of the anxiety was self imposed.
-
-So Day 2 came and I finally got placed in a startup in Mumbai. There was a party and I felt that I finally had a job. I wasn't supposed to seek validation but I felt validated.
-
-In parallel the Day 0 company had sent out a coding challenge. One that didn't have to be done instantly, with a room of 100s of students. You could spend your own time implementing it. I did well in this, and I was invited for an onsite interview. Sometime passed and in September I went to interview with them in person. A few days later I was happy to learn that I had a job offer from them. A job offer with a day 0 company, abroad(Singapore) and probably for the highest salary(well things cost more in Singapore) in college for that year. I still hadn't received a proper contract though.
+### 我的校招故事
 
 
-In the background the, the placement cell said no to the startup in Mumbai on my behalf. I wasn't even asked. As I had a job offer with a Day 0 company that paid higher and made the numbers look better, I was automatically assigned to it. Maybe I wanted to work for a growing startup, maybe I wanted to stay in India but my opinions weren't accounted for and they made the decision for me.
+所以我到了学校，很快收到 Endurance 的预录用通知。我很开心，我在 Endurance 的经历不错。人很好，工作也有趣。我面临一个两难，
+如果我选择接受 Endurance 的 offer，那我只能参加一家薪资超过 Endurance 预定薪资 1.75 倍的公司的校招。在不知道哪些公司会来学校的情况下，
+信息非常不对称。我选择冒险，没有接受 Endurance 的 offer。这意味着我有资格参加 2017 年上半年所有计划访问 BITS Pilani 的公司校招。
+我想有人可以这样解释：校招流程存在是为了确保多数人被录用，如果你已经有工作，就不应该和其他人竞争。虽然这可能是真的，但我想告诉读者，就业市场是买方市场（学生在找工作）。请在整篇文章以及之后都记住这一点。
 
-Its worth mentioning that since entering college in late July, I had been visiting the "Practice School Division" almost every week begging them to change my situation so that I could be a thesis student instead of a practice school(corporate internship) student. Due to some weird arcane law apparently I had to tell the Practice School division an year ago that I would want to do a thesis instead of practice school. An year
-ago would have been the second half of my second year in University. How is a student supposed to decide what they'll be doing an year in the future when they have only spent two years in University? I didn't even
-know about this law. To me it felt like hitchhikers guide in the galaxy,
+顺便说一句，报名校招还要额外交费。人们会以为这些应该包含在已经很高的学费里，但并没有。我记得为了报名校招，我必须花 Rs 4000。
 
-> As you are probably aware, plans for the development of the outlying regions of the galaxy invoke the building of a hyperspace express route through your star system. And your planet is one of those scheduled for  demolition.
+BITS Pilani 的校招按天开始。Day 0 是薪资显著更高或可能提供国际岗位的公司。Day 1 是大品牌，但在印度招聘。Day 2 是新兴创业公司
+或在印度招聘的小品牌。
+
+据我记得，有三家 Day 0 公司。一家因为我的 GPA 我没有资格。一家收了申请但稍后才回复，并且是在新加坡招聘。最后一家，我记得我通过了 27/30 个测试用例，但没有进面试。猜测简历/GPA 在那里起了作用，或者其他人拿了满分。我不能确定。
+
+我很幸运地得知 Google 喜欢我的 APAC 表现，并希望我飞到 Bangalore 面试。我原本以为可以这个月先在 BITS Pilani 内面试，然后九月再去 Google 面试。
+九月去的话，我会有更多时间准备，也不用为了 Google 放弃来 BITS Pilani 的公司。Google 印度招聘团队和 BITS Pilani 校招负责人说服我，Google 绝对必须在八月面试我。他们说服我（和另外两个人）跳过 Day 1 去 Bangalore 面试，因为这是我面试 Google 的唯一机会。我甚至不确定为什么 Google 是联系大学而不是直接联系我。所以我去了。我几乎错过了整个 Day 1。在 Bangalore 时，我承受着 Google 面试必须表现好的压力，因为我已经为这个机会放弃了另外 5 家 Day 1 公司。朋友们，这很蠢。我当时很天真。你不必天真。Google 几乎总是在招聘。你可以也应该能轻松把面试推迟一个月。如果未来你处在这种情况，请更坚定一点。我参加了面试，表现不太好。没拿到工作，和我一起去 Bangalore 的另外两个人也没有。所以到这时，我拒绝了 Endurance 的工作 offer，错过了几乎整个 Day 1，或因为 GPA 被拒，并且还在等那家 Day 0 公司回复。
+
+压力巨大。很多人已经拿到了工作。我没有工作。人们在庆祝，举办校招派对。我在免费吃东西。我想那还不错。我和大学学长、朋友兼答题搭档 [Sahil Gupta](https://www.linkedin.com/in/sahgup) 通了电话。他很好聊，他解释说我不应该把拒绝/错过的机会当成自我价值判断，
+应该带着信心进入下一轮，并且我是有能力的。再次感谢有这么好的学长主动联系。我也感谢支持我的朋友和家人，从来没人说我没被录用是我的错，大家都很支持，大多数焦虑是我自己强加的。
+
+所以 Day 2 到了，我最终被孟买一家创业公司录用。有一个派对，我觉得自己终于有工作了。我本不该寻求认可，但我感到了被认可。
+
+与此同时，那家 Day 0 公司发出了一个编程挑战。它不需要在满是数百名学生的房间里立即完成。你可以用自己的时间实现它。我做得不错，并被邀请参加现场面试。过了一段时间，九月我亲自去和他们面试。几天后，我很高兴得知自己拿到了他们的工作 offer。这是一家 Day 0 公司、海外（新加坡）岗位，而且可能是那一年学校里最高的薪资（当然新加坡成本也更高）。不过我还没有收到正式合同。
+
+
+在后台，校招办公室替我拒绝了孟买那家创业公司。他们甚至没有问我。因为我有一家薪资更高、能让数据更好看的 Day 0 公司 offer，我被自动分配给它。也许我想为一家成长中的创业公司工作，也许我想留在印度，但我的意见没有被考虑，他们替我做了决定。
+
+值得一提的是，自从七月底回到学校后，我几乎每周都去 “Practice School Division”，恳求他们改变我的状态，让我成为论文学生，而不是 practice school（企业实习）学生。由于某条奇怪又晦涩的规定，显然我必须在一年前告诉 Practice School division，我想做论文而不是 practice school。一年
+前是我大学二年级的下半学期。一个只在大学待了两年的学生，怎么可能决定一年后要做什么？我甚至
+不知道有这条规定。对我来说，这感觉像银河系漫游指南，
+
+> 你可能已经知道，银河系边缘地区开发计划需要修建一条穿过你们星系的超空间快速通道。而你们的星球就是计划中要被拆除的星球之一。
 > 
-> (Shouts of terror emit around the globe.)
+> （恐惧的喊叫声传遍全球。）
 
-> There's no point acting all surprised about it; the plans and demolition orders have been on display at your local planning department in Alpha Centauri for fifty of your earth years. If you can't be bothered to take an interest in local affairs, that's your own lookout.
+> 没必要表现得这么惊讶；这些计划和拆除令已经在半人马座阿尔法星你们当地规划部门展示了五十个地球年。如果你们懒得关心地方事务，那是你们自己的问题。
 
-On the 24th of October after lobbying for months along with other students who were in a similar position they finally accepted our plea. I am guessing someones parents got involved, I don't know how they changed their minds. I was hiking in Nepal, came back for the college fest and I received the good news. My professor in Singapore was grateful enough to be patient for months for me to accept the job offer. The admin
-at Singapore was quick and they processed a visa rather quickly. I was set to fly to Singapore on the first of June and begin my thesis in Singapore University of Technology and Design. Thanks, [Siddhant Shrivastava](https://www.linkedin.com/in/sidcode/?originalSubdomain=sg) for the referral and [Professor Aditya Mathur](https://www.linkedin.com/in/aditya-mathur-4960419/) for the opportunity. The only reason Sid knew of me was because I took part in Hackathons and would post stuff on Github and my blog, having a small online presence helps. Keep note of this readers.
+10 月 24 日，在我和其他处境类似的学生游说数月后，他们终于接受了我们的请求。我猜某些人的父母介入了，我不知道他们为何改变主意。我当时在尼泊尔徒步，回来参加学校节日后收到了好消息。我在新加坡的教授很宽容，耐心等了我几个月来接受这个机会。新加坡的行政
+效率很快，他们很快处理了签证。我准备 6 月 1 日飞往新加坡，并在 Singapore University of Technology and Design 开始论文。感谢 [Siddhant Shrivastava](https://www.linkedin.com/in/sidcode/?originalSubdomain=sg) 的推荐，也感谢 [Professor Aditya Mathur](https://www.linkedin.com/in/aditya-mathur-4960419/) 提供机会。Sid 知道我的唯一原因，是我参加 Hackathons，并会在 Github 和博客上发布东西，拥有一点线上存在感是有帮助的。读者请记住这一点。
 
-So I am in Singapore, still haven't received a contract or a start date from the day 0 international company. Its March already and I am anxious. The placement unit is not helpful at all. They say that they understand the concern. I don't think they care, they have already released metrics for that Semester.
+所以我到了新加坡，仍然没有从那家 Day 0 国际公司收到合同或入职日期。已经三月了，我很焦虑。校招部门一点忙都帮不上。他们说理解我的担忧。我不觉得他们在乎，他们已经发布了那个学期的数据。
 
-I am doing research, living the life and attending meetups in Singapore. A friend convinces me to do a talk in the Python Singapore meetup and then eventually convinces me to apply for a job as the company looked great. I have also applied to a few companies. I had also applied to Bloomberg in December as the company felt interesting and a friend from college told me they respond to resumes from India for jobs in London.
+我在新加坡做研究，过生活，参加 meetup。一位朋友说服我在 Python Singapore meetup 做一次演讲，后来又说服我申请一份工作，因为那家公司看起来很棒。我也申请了几家公司。12 月时我还申请了 Bloomberg，因为这家公司看起来有趣，而且大学朋友告诉我，他们会回复来自印度、申请伦敦岗位的简历。
 
-I get flown to London for the Bloomberg interview. I also visit Hungary interviewing with another company. All paid for. These companies and the Singaporean company are great at interviewing. They understand schedules can be complex and they allow me to interview when I want to, with some caveat that if I just keep dragging the positions might get filled. But they sort out visas, and do the interviews when its convenient to the both of us and not just them. Any who I have wonderful experiences interviewing with the above companies and end up with two offers one in London and one in Singapore. I pick Bloomberg in London.
+我被飞到伦敦参加 Bloomberg 面试。我还去了匈牙利和另一家公司面试。全部报销。这些公司以及那家新加坡公司在面试方面都很好。他们理解日程可能复杂，允许我在自己想要的时候面试，当然也提醒如果一直拖，岗位可能会被填满。但他们会处理签证，并在对双方都方便的时候面试，而不只是对他们方便。总之，我和上述公司有很棒的面试经历，最终拿到两个 offer，一个在伦敦，一个在新加坡。我选择了伦敦的 Bloomberg。
 
-Props were its due. My interview experience with Prezi, the Hungarian company was the best so far. It was with the application security team. They asked me to work on an assignment, we did a video call. Then I was invited to Budapest. I worked on a small project on the side for three days in the office. Visited the company socials, and had meals with the team. I didn't get the job but the interviewers were kind enough
-to dial in and give feedback. They told me what to read and do more of to be better in the future. With a full time job I am not sure whether I'd do a three day job workweek interview, its five days with flying that you take off from your job. This was possible as Prof Mathur was understanding of my job search.
+该称赞的地方要称赞。我与匈牙利公司 Prezi 的面试体验是目前最好的。面的是应用安全团队。他们让我做一个作业，我们进行了视频通话。然后我被邀请去 Budapest。我在办公室一边做一个小项目，待了三天。参加了公司的社交活动，也和团队一起吃饭。我没有拿到工作，但面试官很友善，
+专门拨入电话给反馈。他们告诉我未来该读什么、该多做什么才能变得更好。有全职工作的话，我不确定自己是否会做三天工作周式面试，加上飞行相当于请五天假。这之所以可行，是因为 Mathur 教授理解我的求职。
 
-Its June and I still haven't heard from the Day 0 company. I haven't heard from the placement unit either. They are aware of our situation but aren't doing anything about it. In August we get told that there
-will be a call in a few days where the company will tell us about the current situation. I am not stressed, I am happy going to London. There are others though who have been waiting for this job and have
-been counting on it for employment. We eventually learn that the company isn't going to take us to Singapore. We also learn that they'll be doing some training in India followed by tests, where some of the lucky ones(about 20%) would be eligible to continue working and would be moved to Singapore. I understand that the financial situation might not have been great, they are kind enough to tell us that if we withdraw our job offer then we'll receive some amount of money. Already having a job in London, I say no to them immediately.
+已经六月了，我仍然没有收到 Day 0 公司的消息。校招部门也没有联系我。他们知道我们的情况，但没有做任何事。八月时我们被告知，
+几天后会有一个电话，公司会告诉我们当前情况。我没有压力，因为我要去伦敦，我很开心。但还有其他人一直在等这份工作，并且
+指望它就业。我们最终得知，公司不会带我们去新加坡。我们还了解到，他们会在印度进行一些培训，然后测试，其中一些幸运的人（大约 20%）有资格继续工作并被调往新加坡。我理解财务状况可能不太好，他们也算友善地告诉我们，如果撤回工作 offer，会收到一笔钱。我已经有伦敦的工作，所以立刻拒绝了他们。
 
-I have other interview experiences from after having a job. I had interviewed with Google again in 2018 for a position in London, that experience was okay. The recruiter was understanding, there was
-no false urgency. Google isn't to blame, the Indian University Placement System is.
+我在有工作之后还有其他面试经历。2018 年我再次面试 Google，岗位在伦敦，那次体验还可以。招聘人员很理解，没有
+虚假的紧迫感。该怪的不是 Google，而是印度大学校招系统。
 
-To be fair, BITS Placements end up placing a lot of people.
+公平地说，BITS 校招最终确实安置了很多人。
 
-### Getting back to topic
+### 回到主题
 
-What was wrong with the above experience?
+上面的经历有什么问题？
 
-1. College placements invert the job market. They create false scarcity. They rig it in favor of the companies instead of the students.
-2. The placement unit doesn't care as long as their numbers look good.
-3. Some companies end up interviewing at strange hours in the night, say around 2 a.m. This is absurd, when you know the student has a class the next day. I am not
-sure how this is tolerated.
-4. The placement unit picks jobs for you, you don't have a choice. What is this about?
-5. As the job market is rigged against, its a rat race. You are interviewing along with your classmates, in bulk.
-6. You are made to believe that this is the only set of jobs you can apply for.
-7. You can't negotiate, the numbers are decided for you.
-8. This is a side. Companies in India ask for previous payslips and sometimes pay you based on your previous job. This is absurd. Its illegal in California but still
-all companies including big names do this in India.
+1. 大学校招颠倒了就业市场。它们制造虚假稀缺。它们把规则做得有利于公司，而不是学生。
+2. 只要数据看起来好，校招部门就不在乎。
+3. 有些公司最后会在夜里奇怪的时间面试，比如凌晨 2 点左右。明知道学生第二天有课，这很荒谬。我不
+确定这怎么会被容忍。
+4. 校招部门替你选择工作，你没有选择权。这算什么？
+5. 由于就业市场被操纵得不利于你，它成了一场内卷。你和同班同学一起批量面试。
+6. 你被迫相信这就是你唯一能申请的一组工作。
+7. 你不能谈判，数字已经替你决定好了。
+8. 这是题外话。印度公司会索要以前的工资单，有时根据你上一份工作的薪水给你定薪。这很荒谬。在 California 这是违法的，但在印度，
+包括大公司在内的所有公司都这么做。
 
 
-## What can be done?
+## 能做些什么？
 
-As a student you should apply outside of college placements in addition to the college placements if you really want to participate in that rat race. Apply to interesting companies in India, apply to
-interesting opportunities abroad if you are open to the idea. Reach out to seniors on LinkedIn and otherwise, talk to them about their job experience. Ask them for referrals.
+作为学生，如果你真的想参与那场内卷，除了大学校招之外，也应该在校外申请。申请印度有趣的公司，如果你愿意，也申请
+国外有趣的机会。在 LinkedIn 或其他地方联系学长学姐，和他们聊工作经历。请他们推荐。
 
-If you don't like algorithmic interviews, you are not alone.[Hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) is a Github list of companies that don't ask
-white board questions. Its an ever growing list of companies. Definitely check this out.
+如果你不喜欢算法面试，你并不孤单。[Hiring without white boards](https://github.com/poteto/hiring-without-whiteboards) 是一个 Github 列表，列出了不问
+白板题的公司。这是一个不断增长的公司列表。一定要看看。
 
-If you want to interview with companies doing algorithmic questions, definitely leetcode before hand. Spend sometime solving problems.
+如果你想面试会问算法题的公司，一定要提前刷 leetcode。花些时间解题。
 
-Regardless of interview type, know a bit about the company you are applying to. Maybe practice soft skills questions with friends.
+无论面试类型如何，都要了解一点你正在申请的公司。也许可以和朋友练习软技能问题。
 
-If you have a job offer, negotiate. Read [this](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) by Haseeb Qureshi and [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) Patrick Mckenzie
-to learn how to negotiate. Don't wait for the job offer to read these, some of these things like "job offer stacking" require you to know about them before you start interviewing.
+如果你有工作 offer，谈判。阅读 Haseeb Qureshi 的[这篇](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)和 Patrick Mckenzie 的[这篇](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)，
+学习如何谈判。不要等拿到 offer 才读这些，有些事情，比如 “job offer stacking”，需要你在开始面试前就了解。
 
-Don't miss a day of placements in University for a golden opportunity. Be assertive, they'll move the interviews if you are assertive enough.
+不要为了所谓黄金机会而错过大学校招的一整天。坚定一点，如果你足够坚定，他们会调整面试时间。
 
-Know that the job market is a buyers market. Its about you the engineer more than it is about the company. Know your options, apply when comfortable and negotiate.
+要知道，就业市场是买方市场。重点更多是你这个工程师，而不是公司。了解自己的选项，在舒服的时候申请，并进行谈判。
 
-In addition to the above I think asking for previous salary should be outlawed in India. You should pay on caliber and not based on what someone earned in the past otherwise if someone has a slow start
-they'll take forever to catch up.
+除了以上内容，我认为印度应该禁止询问过往薪资。你应该按能力付薪，而不是按某人过去挣了多少，否则如果有人起步慢，
+他们会永远追不上。
 
-Make a good resume while applying for jobs abroad. The standard BITS Pilani resume has your picture, most jobs abroad don't want your picture as pictures can lead to discrimination. Word your resume properly.
-If you don't have a high GPA don't mention it. Most places don't care but someone might see a not high GPA and judge your resume.
+申请国外工作时，要做一份好简历。标准 BITS Pilani 简历有你的照片，但大多数海外工作不想要你的照片，因为照片可能导致歧视。好好措辞你的简历。
+如果 GPA 不高，就别提。多数地方不在乎，但有人可能看到不高的 GPA 后评判你的简历。
 
-Having some on line presence and being useful to the Internet helps. I am not twitter famous but if I was, I could simply get a bunch of referrals based on a tweet.
+有一些线上存在感，并对互联网有用，是有帮助的。我不是 twitter 名人，但如果我是，我可能仅凭一条推文就获得一堆推荐。
 
-Enjoying programming and having side projects helps as well. Even if the company doesn't explicitly care, you have something to talk about during the interviews and it reflects well. I only got my
-thesis offer in Singapore because of side projects. I only got the job in Singapore(with the startup not the Day 0 BITS Pilani job) because I gave a talk at a meetup.
+享受编程并拥有副项目也有帮助。即使公司没有明确在意，你在面试时也有东西可聊，而且会有好印象。我之所以拿到
+新加坡的论文机会，是因为副项目。我之所以拿到新加坡的工作（那家创业公司，不是 BITS Pilani 的 Day 0 工作），是因为我在 meetup 做过演讲。
 
-Network and network some more. The only reason I became aware about applying to Bloomberg in London because a classmate wanted some help planning his trip to London for the interview. He knew that I traveled a lot and that I was approachable.
+多社交，再多社交。我之所以知道可以申请伦敦的 Bloomberg，只是因为一个同学想找人帮忙规划他去伦敦面试的行程。他知道我旅行很多，也知道我容易接近。
 
-Don't seek validation from job interviews. Prepare and hope for the best. A lot of it is luck.
+不要从工作面试中寻求认可。准备好，然后期待最好的结果。很多事情靠运气。
 
-External recruiters are good people! I am not sure how well this applies to University placements but I found my current job via an external recruiter. I knew about Palantir as a company but I didn't think
-they'd accept my resume. My recruiter referred me and made the process a lot smoother. My recruiter contacted me as some friend told him that I might be looking for a job, again luck. They can introduce you to good opportunities that you didn't  know existed or could refer you to jobs that you know
-exist but you aren't sure of applying directly to.
+外部招聘人员是好人！我不确定这在大学校招中适用程度如何，但我现在的工作就是通过外部招聘人员找到的。我知道 Palantir 这家公司，但不觉得
+他们会接受我的简历。我的招聘人员推荐了我，并让流程顺畅很多。招聘人员联系我，是因为某个朋友告诉他我可能在找工作，又是运气。他们可以把你介绍给你不知道存在的好机会，或者把你推荐到你知道
+存在、但不确定是否该直接申请的工作。
 
-The last paragraph brings me to another point. Apply everywhere. A lot of people try to tick a lot of boxes in job descriptions before applying. The truth is you don't have to. Don't apply for a `Director of Engineering` when only a new graduate but feel free applying to most junior/new graduate job posts. Job descriptions can be arbitrary, they might add words to create buzz. They might add words just to make
-their job post long enough. Now companies are realizing this problem of checking all boxes and mentioning this on their job post more and more, so I guess things are going in the right direction.
+上一段让我想到另一点。到处申请。很多人在申请前试图满足职位描述里的很多条件。事实是你不必。刚毕业时不要申请 `Director of Engineering`，但大多数初级/应届岗位都可以放心申请。职位描述可能很随意，他们可能加一些词来制造热度，也可能加词只是为了让
+招聘帖足够长。现在公司越来越意识到“勾选所有条件”这个问题，并在招聘帖里提到这一点，所以我猜事情在朝正确方向发展。
 
-You don't need a degree to find a Software Engineering job. It helps but is not compulsory. Though for jobs in different countries where you need a visa having a degree or valid work experience in the field helps the company convince the immigration agencies that you are qualified for the job and should be chosen instead of others in the country.
+你不需要学位也能找到软件工程工作。它有帮助，但不是必需。不过对于需要签证的其他国家岗位，拥有学位或该领域有效工作经验，可以帮助公司说服移民机构你有资格做这份工作，并且应该被选中而不是该国其他人。
 
-Tangential advice. Don't work for free. Not even an internship. Startups run by immediate _seniors_ offering opportunities aren't really offering anything. If they can't pay you in cash, try asking for equity. You could do what they are making you do as a side project or do something more interesting. You could start your own startup even. Almost always ask for money for a job. Getting paid, at  the least makes financial sense and sometime it implies that your work is valued.
+顺带的建议。不要免费工作。实习也不要。由直属 _学长_ 经营、声称提供机会的创业公司，其实没有真正提供什么。如果他们不能用现金支付你，试着要股权。他们让你做的事情，你完全可以作为副项目来做，或者做更有趣的事。你甚至可以创办自己的创业公司。几乎总是要为工作索要报酬。拿到报酬，至少在财务上说得通，而且有时也意味着你的工作被重视。
 
-In hindsight, Palantir worked out and so did Bloomberg and a few other job offers. College placements don't matter.
+事后看来，Palantir 成了，Bloomberg 和其他几个工作 offer 也成了。大学校招并不重要。

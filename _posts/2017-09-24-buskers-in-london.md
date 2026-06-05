@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Buskers in London
-subtitle: .. week 2 cause we count from 0
+title: 伦敦的街头艺人
+subtitle: .. 第 2 周，因为我们从 0 开始计数
 tags: [london, bloomberg, apartment search]
 ---
 
 
-## What have I managed to do in the last week?
+## 上周我做成了什么？
 
-- Got a few pull requests accepted
-- Reviewed someone elses code
+- 有几个 pull request 被接受了
+- 审查了别人的代码
 
-I'm picking up speed. I'm slowly understanding how the code works and how C++ works. Also, as I continue my work I understand the importance of **const**. We are very sensitive about using **consts** wherever we can.
+我正在提速。我慢慢开始理解代码是如何工作的，也开始理解 C++ 是如何工作的。另外，随着工作的推进，我理解了 **const** 的重要性。我们非常重视在任何可以使用 **consts** 的地方使用它们。
 
-I've narrowed down on a few house choices and should have started working on the deposits and contract for one of them by Monday. One of them only becomes available on 21st of October, so I'll be needing a place to stay for about 12 days.
+我已经缩小了几个房源选择范围，周一之前应该会开始处理其中一个的押金和合同。其中一个要到 10 月 21 日才可以入住，所以我还需要找个地方住大约 12 天。
 
-## More
+## 更多
 
-I recently uploaded a video of a man busking in Piccadilly circus. He was playing the bagpiper and fire would come out of his pipes. [Mujeeb](http://mujeeb.ch/) suggested that I should start a channel or weekly posts interviewing these buskers or posting about them. Let's see how this goes.
+我最近上传了一段视频，是一个人在 Piccadilly circus 街头表演。他在吹风笛，管子里还会喷火。[Mujeeb](http://mujeeb.ch/) 建议我开一个频道，或者每周写文章采访这些街头艺人、介绍他们。看看这件事会怎么发展吧。
 
-I haven't yet started working on the promised emulator. I did spend some time finding the perfect C++ template though. I'm going with the one with the most stars. I need to start and be regular. The contribution graph won't color itself.
+我还没有开始做之前承诺的模拟器。不过我确实花了一些时间寻找完美的 C++ 模板。我打算用 star 最多的那个。我需要开始，并且保持规律。贡献图不会自己变绿。
 
-I also need a non electronic skill. I put travel and programming as my interest wherever the field exists. The thing is I can't be traveling all the time and it really isn't a hobby. On the other hand programming is also my full time job so it isn't really an exit. Suggestions?
+我也需要一项非电子技能。只要表单里有兴趣这一栏，我都会填旅行和编程。问题是我不可能一直旅行，而且它其实也不算一个爱好。另一方面，编程也是我的全职工作，所以它也不算真正的出口。有什么建议吗？
 
-I'm thinking of hitting the *Comedy Club*, this Tuesday. I have to perform once by 31st December to be true to one of my New Year resolutions.
+我在想这个周二去 *Comedy Club*。为了兑现我的一个新年愿望，我必须在 12 月 31 日之前表演一次。

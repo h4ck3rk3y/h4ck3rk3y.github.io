@@ -1,74 +1,74 @@
 ---
 layout: post
-title: Another Year
-subtitle: .. another post
+title: 又是一年
+subtitle: .. 又是一篇文章
 tags: [self, 2018, life]
 ---
 
-2018 is coming up, so I thought I should write another post. Why do we haven't to wait another year to get started with things? That's rather silly.
+2018 年快到了，所以我觉得应该再写一篇文章。为什么我们非得等到又一年开始，才开始做事情呢？这挺傻的。
 
-It's a new year so there have to be a few changes. One of the easiest things that I am going to do next year is buy a new chair. My present chair is the cheapest I could find at Argos, it's tough to keep sitting on it.
+新年到了，所以必须有一些变化。明年我要做的最简单的事情之一，就是买一把新椅子。我现在的椅子是我在 Argos 能找到的最便宜的，坐久了很难受。
 
-So last year I wrote a post called [Bring it On 2017](https://gyani.net/blog/bring-it-on-2017/). I talked about stuff that I wanted to achieve or do in the year 2017. I thought I should do a similar post for the year 2018 but start it by reflecting on the year that passed.
+去年我写了一篇叫 [Bring it On 2017](https://gyani.net/blog/bring-it-on-2017/) 的文章。我谈了自己想在 2017 年实现或完成的事情。我觉得也应该为 2018 年写一篇类似的文章，不过先从回顾过去这一年开始。
 
-# No Soda
+# 不喝汽水
 
-I kept true to this till mid April of 2017. I had completely cut down on cold sugary beverages but then I started again. Since I've been in London(about September) whenever I get Soda, it's Coke Zero or something else made of artificial sugar. I'll follow try to follow through with the no sugary drink policy.
+我一直坚持到 2017 年 4 月中旬。我曾经完全戒掉了冷的含糖饮料，但后来又开始喝了。自从我来到 London（大约 9 月）以后，每次喝 Soda，都是 Coke Zero 或其他用人工糖制成的东西。我会尽量继续执行不喝含糖饮料的政策。
 
-# Regular Video Logs
+# 定期视频日志
 
-While I was in Singapore I would frequently record stuff but I never got to actually making videos out of them. [Shubhankar](shubh24.github.io) on the other hand is doing a pretty great job making regular vlogs since he got his GoPro. I have featured in two of his blogs this year. It goes without saying that this is something I'll not be doing. I'll be traveling and recording things but those videos will go to my personal collection.
+我在 Singapore 的时候经常录东西，但从来没有真正把它们做成视频。另一方面，[Shubhankar](shubh24.github.io) 自从有了 GoPro 后，在定期制作 vlog 这件事上做得相当不错。今年我出现在他的两个视频里。不用说，这不是我会去做的事。我会旅行并记录一些东西，但这些视频会进入我的个人收藏。
 
-# Run Daily
+# 每天跑步
 
-This was an utter failure as well. Started off okay but then I injured my leg skateboarding and then decided to be lazy. Recently I have started running pretty often again, my shin starts hurting soon but I'll sort it out. Getting fit is defintely on the top of list for 2018, as is the name of my gym *Fitness First*.
+这也完全失败了。一开始还不错，但后来我滑板时伤了腿，然后决定偷懒。最近我又开始比较频繁地跑步了，小腿胫骨很快会疼，不过我会解决它。变得健康绝对是 2018 年清单的最前面，就像我健身房的名字 *Fitness First* 一样。
 
-# Make Something Beautiful
+# 做出美好的东西
 
-I didn't make a new product this year. Did take part in a few hackathons. Made a new version of RouteRush that looked better but that doesn't count. I wrote a few papers, maybe the text and the research was beautiful. My GitHub hasn't been really active, I'll work on this. I aim on actively contributing to a FOSS project or working on something of my own throughout the year.
+今年我没有做出新产品。确实参加了几场 hackathon。做了一个看起来更好的新版 RouteRush，但那不算。我写了几篇论文，也许文字和研究本身很美。我的 GitHub 并不算活跃，我会改进这一点。我的目标是在全年积极为一个 FOSS 项目贡献，或者持续做自己的东西。
 
-# Research Paper from My Time at SUTD
+# 我在 SUTD 期间的研究论文
 
-This worked out well actually. Have another paper in the loop.
+这件事其实进展不错。还有另一篇论文在推进中。
 
-# Stand up Comedy at an Open Mic Event
+# 在开放麦活动上表演单口喜剧
 
-I have been writing material every now and then but have never actually performed. I think like the videos the jokes are for my consumption only. I might however perform once next year.
+我时不时会写段子，但从来没有真正表演过。我觉得和视频一样，这些笑话只是给我自己消费的。不过明年我也许会表演一次。
 
-# Master Web Security
+# 掌握 Web 安全
 
-No progress has been made in this regard either. I am not working on web applications at work(luckily?).
+这方面也没有任何进展。我在工作中没有做 web 应用（幸运吗？）。
 
-# Full Stack Dev
+# 全栈开发
 
-No progress has been made in this regard either. I am not working on web applications at work(luckily?).
+这方面也没有任何进展。我在工作中没有做 web 应用（幸运吗？）。
 
-# Half Marathon
+# 半程马拉松
 
-Another goal that went unfulfilled. I'll work on it over the next year.
+又一个没有完成的目标。明年我会继续努力。
 
-# Cooking
+# 烹饪
 
-I am decently good at cooking now.
+我现在做饭还算不错。
 
-# Functional Programming
+# 函数式编程
 
-I am beginning to think that the above list was too long and unrealistic. I didn't follow through with this either. Learned a little C++ though.
+我开始觉得上面的清单太长，也不现实。这一点我也没有坚持下来。不过学了一点 C++。
 
 # Bali
 
-This didn't happen either, will happen if folks from Pilani decide it's going to happen.
+这也没有发生，如果 Pilani 的朋友们决定要去，它就会发生。
 
 
-Anyhow to summarize, I plan on doing the following next year
+总之，总结一下，我计划明年做以下事情
 
-- A trip to Colombia
-- A trip to Bali
-- Camping in Norway
-- Read More
-    + Physics
-    + Non-Physics books
-- Learn how to Invest
-- Learn how to drive
-- Build a network
-- Always have an active side project
+- 去 Colombia 旅行
+- 去 Bali 旅行
+- 在 Norway 露营
+- 多读书
+    + 物理
+    + 非物理类书籍
+- 学习如何投资
+- 学会开车
+- 建立人脉网络
+- 始终有一个活跃的副项目

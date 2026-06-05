@@ -1,66 +1,66 @@
 ---
 layout: post
-title: Exploration
-subtitle: .. what is going on
+title: 探索
+subtitle: .. 到底发生了什么
 tags: [fat, fit, life]
 fb-img: https://gyani.net/img/explore.png
 ---
 
-Alright so I left my job two weeks ago. 22nd of August was my last day at Kurtosis. Its been a little over two weeks and I have decided to start writing on this blog again. I want to write about my learnings and any experiences I have had in the last couple of weeks.
+好吧，我两周前离职了。8月22日是我在Kurtosis的最后一天。现在刚过两周多一点，我决定重新开始在这个博客上写东西。我想写写过去几周里的学习和经历。
 
-## So why did I leave my job?
+## 所以我为什么离职？
 
-I have always wanted to start my own business and that itch isn't going away. I got into programming after watching "The Pirates of Silicon Valley" when I was 13 and I like the idea of building things with computers and selling pure software. I want to give it a shot, I have been playing with llms since Januaryh 2023 and I think there is something special going on and it is a great time to build a business. I am 28, turning 29 soon, don't have any dependents and I feel well placed financially & mentally to take on risk.
+我一直想创办自己的公司，而且这种痒感没有消失。我13岁看完《硅谷传奇》后开始接触编程，我喜欢用电脑构建东西、销售纯软件这个想法。我想试一试。我从2023年1月开始玩llms，我觉得正在发生一些特别的事情，现在是创业的好时机。我28岁，很快29岁，没有任何需要抚养的人，而且我觉得自己在财务和心理上都处在适合承担风险的位置。
 
-Further, back in April 2024 I received a Global Talent Visa that allows me to be unemployed, self employed or work for anyone in the UK. This is amazing as I have a bunch of friends and family in the UK, and now the UK feels like home. This really gives me the permission to explore to figure out what I want to build and do with life.
+另外，2024年4月我拿到了Global Talent Visa，它允许我在英国失业、自雇，或者为任何人工作。这太棒了，因为我在英国有很多朋友和家人，现在英国感觉像家一样。这真的给了我探索的许可，让我弄清楚我想构建什么、想怎样生活。
 
-## So what is the plan?
+## 那计划是什么？
 
-I found [this video](https://www.youtube.com/watch?v=2TqeZ8CJ6tw) a few weeks ago by HealthyGamerGG that talks about being lost in your twenties and that really echoed with me. If you watch the video, I'd place myself in the exploration phase. I know I want to build something, I have some ideas, I have some spaces that I echo with but I have to explore spaces. I also have to do the hardwork to find a cofounder who shares an interest in the same space that I'd like to build in.
+几周前我看到了HealthyGamerGG的[这个视频](https://www.youtube.com/watch?v=2TqeZ8CJ6tw)，讲的是二十多岁时感到迷茫，这非常引起我的共鸣。如果你看这个视频，我会把自己放在探索阶段。我知道我想构建某种东西，我有一些想法，有一些让我有共鸣的领域，但我必须去探索这些领域。我还必须付出艰苦努力，找到一个对我想构建的同一领域感兴趣的联合创始人。
 
-The idea is to explore spaces to eventually find a "zip code" that I can commit to, and then start with my best hypothesis in that space. This shall come through action, introspection and reading. I have started building random side projects in order to learn some skills that will be useful in this journey
-of company building. I will talk more about the details later in the post.
+这个想法是去探索不同领域，最终找到一个我可以投入的“邮政编码”，然后在那个领域里从我最好的假设开始。这会通过行动、内省和阅读来实现。我已经开始构建一些随机的副项目，以学习在这段公司建设旅程中会有用的技能。
+我会在文章后面更详细地谈这些细节。
 
-I am still figuring out whether I should focus on finding a co-founder or whether I should focus on committing to a "zip code" / "idea space". The advice on this is biographical like all advice. I'm finding balance between the two different opinions. I have some natural inclinations towards certain spaces, adn I can have conversations with folks who are interested in those spaces. As finding, meeting & talking to people is a low throughput process, I keep building / exploring my inclinations.
+我仍在弄清楚自己应该专注于寻找联合创始人，还是应该专注于确定一个“邮政编码”/“想法空间”。关于这件事的建议和所有建议一样，都带有传记性。我正在两种不同意见之间寻找平衡。我对某些领域有一些天然倾向，也可以和对这些领域感兴趣的人交流。因为寻找、见面和交谈是一个低吞吐量的过程，所以我会继续构建/探索自己的倾向。
 
-## How long do I keep exploring?
+## 我还要探索多久？
 
-This is a tricky question. There needs to be some balance between comitting & exploring. As its just been two weeks of exploration, the balance lies in the side of exploring. I want to give myself until March of 2024 to either -
+这是个棘手的问题。投入和探索之间需要某种平衡。因为探索才刚刚两周，平衡现在更偏向探索。我想给自己到2024年3月的时间，完成以下之一 -
 
-1. Find a cofounder + deep interest in a space who I have raised or am in the process of raising a pre-seed with
-1. Find deep interest in a space and raise a pre-seed solo
-1. Get traction + revenue on my own projects that pay the bills
+1. 找到联合创始人 + 对某个领域有深度兴趣，并且已经完成或正在进行种子前融资
+1. 找到对某个领域的深度兴趣，并独自完成种子前融资
+1. 让自己的项目获得用户牵引力和收入，足以支付账单
 
-That would be the order of preference. I have been struggling with the question of boostrapping or venture in the past year. I think venture is a really great way to build a business that compounds over time and delivers maximum impact. I also understand that the journey of founding a startup & running it is a long, lonely, hard, painful one so having a co-founder is really helpful for mental health, bouncing ideas and productivity.
+这会是我的偏好顺序。过去一年我一直在纠结自举创业还是风险投资这个问题。我认为风险投资是一种非常好的创业方式，可以随着时间复利并产生最大影响。我也明白创办并运营一家创业公司是一段漫长、孤独、艰难、痛苦的旅程，所以有一个联合创始人对心理健康、碰撞想法和生产力都非常有帮助。
 
-I would greatly value 1 over 2, 2 over 3. If its March 2024, and I am not at 1, 2 or 3 then I have to make a judgement call of whether I keep going. My answer there would be if I can make peace that this journey isn't for me at this time, then I can work for someone full time, this time fully committing without the "itch". Otherwise I keep going, maybe I start part-timing, free-lancing, as I continue the exploration.
+我会非常看重1胜过2，2胜过3。如果到了2024年3月，我还没有达到1、2或3，那我就必须判断是否继续走下去。到那时我的答案会是：如果我能接受这段旅程目前不适合我，那我可以为别人全职工作，这次完全投入，不再带着那种“痒感”。否则我就继续，也许开始兼职、自由职业，同时继续探索。
 
-## What has been going on for the past two weeks more concretely?
+## 过去两周更具体地发生了什么？
 
-I had started writing this out as a diary entry but I have decided to be more concise. I will use bullet points - 
+我本来把这部分写成日记，但后来决定更简洁。我会用要点 -
 
-1. I have been building out some of my ideas, learning how to finally design frontends (thanks Cursor), shipping them and getting people to pay for them. I started working on [MyGuy](https://trymyguy.xyz/) an AI assistant that woould make calls on your behalf and was able to get a few people (friends so far))to pay for them. Yesterday I was at a Hackathon and I built a [silly app](https://movie-photo-creator-4gerrqvpjdzkndyvt9hmd5.streamlit.app/) that morphed you into movie posters and I was able to get some more people to pay for them.
+1. 我一直在构建一些自己的想法，学习如何最终设计前端（感谢Cursor），发布它们，并让人们为它们付费。我开始做[MyGuy](https://trymyguy.xyz/)，一个可以代表你打电话的AI助手，并且成功让一些人（目前是朋友）付费。昨天我参加了一个黑客松，做了一个[傻乎乎的应用](https://movie-photo-creator-4gerrqvpjdzkndyvt9hmd5.streamlit.app/)，可以把你变成电影海报，我也让更多人付了钱。
 
-2. I have been meeting friends, friends of friends, former colleagues, friends of former colleagues, people at Hackathons, people through co-founder matching, people at meetups and other events. This has been fun! I have met some really ambitious and smart people over the last couple of weeks. The Bay Area really allows you to be ambitious. At an event I met one of the foudners of Etched, they've raised $120M at a $600M valuation to compete against Nvidia for LLM inference. The two co-founders are 21 & 22. This is really inspiring.
+2. 我一直在见朋友、朋友的朋友、前同事、前同事的朋友、黑客松上的人、通过联合创始人匹配认识的人、meetup和其他活动上的人。这很有趣！过去几周我遇到了一些非常有野心也很聪明的人。湾区真的允许你有野心。在一次活动上我遇到了Etched的一位创始人，他们以$600M估值融资$120M，要在LLM推理上与Nvidia竞争。两位联合创始人分别是21岁和22岁。这真的很鼓舞人。
 
-3. I have been learning more about LLMs, their internals, watching videos of Karpathy and trying tools beyond the simple GPT/Claude API. I have been attending events & workshops that talk about how LLMs are currently being used in enterprises, how people are building with them and what challenges people are facing.
+3. 我一直在更多地学习LLMs、它们的内部机制，看Karpathy的视频，并尝试简单GPT/Claude API之外的工具。我参加了一些活动和workshop，讨论LLMs目前如何在企业中被使用，人们如何用它们构建，以及人们正在面对哪些挑战。
 
-4. I have been learning what works and what doesn't work for businesses using LLMs. I have learned about new types of businesses that are now possible due to LLMs. I have met some founders with ridiculous amount of growth in usage and revenue which has been eye opening and inspiring.
+4. 我一直在学习使用LLMs的企业中什么有效、什么无效。我了解到一些因为LLMs而变得可能的新型业务。我见到了一些在使用量和收入上增长夸张的创始人，这让我大开眼界，也很受鼓舞。
 
-5. I have been trying to meet customers where they are. I was workshopping ideas with a friend in the elderly care space, so to see if I am actually interested in that space I started visiting care homes & assisted living facilities. I am reaching out to founders in different spaces to see what they are building and what challenges they have faced.
+5. 我一直在尝试到客户所在的地方去见客户。我和一个朋友在老年护理领域研讨想法，所以为了看看我是否真的对那个领域感兴趣，我开始拜访养老院和辅助生活机构。我正在联系不同领域的创始人，看看他们在构建什么，以及他们遇到了哪些挑战。
 
-## Some more concrete learnings
+## 一些更具体的收获
 
-1. San Francisco is definitely a special place to start a startup - you see people doing well you get inspired, you see fellow founders going through the journey and you feel a sense of empathy and learn from them
+1. San Francisco确实是一个适合创办创业公司的特别地方 - 你看到别人做得好会受到鼓舞，看到其他创始人走在这段旅程中，你会产生共情并向他们学习
 
-2. There are spaces that I am definitely not interested in that I can eliminate - Fashion Tech, Ed Tech, E-Commerce, Market Paces, Climate Tech, Agritech
+2. 有些领域我明确不感兴趣，可以排除 - Fashion Tech、Ed Tech、E-Commerce、Market Paces、Climate Tech、Agritech
 
-3. There are some spaces that I am more interested in than others - Finance, Taxes, Insurance, Infrastructure, Healthcare
+3. 有些领域我比其他领域更感兴趣 - Finance、Taxes、Insurance、Infrastructure、Healthcare
 
-4. I want to the end user of my product or the customer of my end user
+4. 我想成为自己产品的最终用户，或者我最终用户的客户
 
-5. I should charge more
+5. 我应该收费更高
 
-6. Play your own game
+6. 玩你自己的游戏
 
-7. The ocean
+7. 海洋

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Greece Trip in 11 days
-subtitle: ...expectations
+title: 11 天后的希腊之旅
+subtitle: ...期待
 tags: [greece, travel, europe]
 ---
 
-11 days from now I will be leaving for Greece for around 11 days. This covers the route that I will be following. Having booked all my hotels on [Agoda](https://agoda.com), I have my fingers crossed.
+11 天后，我将出发去希腊，行程大约 11 天。这篇会记录我将要走的路线。我已经在 [Agoda](https://agoda.com) 上订好了所有酒店，现在只能祈祷一切顺利。
 
-So the route is as follows.
+路线如下。
 
-From **12th of May** to the **14th of May** I will be in Kos, Greece. I haven't seen any images of Kos so I won't attach anything as the expectations picture.
+从 **5 月 12 日** 到 **5 月 14 日**，我会在希腊科斯。我还没看过科斯的任何照片，所以不会附上什么作为期待图。
 
 
-From **14th of May** to the **16th of May** I will be in Rhodes, Greece.
+从 **5 月 14 日** 到 **5 月 16 日**，我会在希腊 Rhodes。
 
 ![Rhodes](/img/blog/rhodes.jpg)
 
-From **16th of May** to the **18th of May** I'll be in the famous Greek Island called Santorini.
+从 **5 月 16 日** 到 **5 月 18 日**，我会在著名的希腊岛屿 Santorini。
 
 ![Santorini](/img/blog/santorini.jpg)
 
-**19th of May** I'll be in Athens. **20th of May** I'll be visiting Delphi and in the evening I'll be headed to Kalabaka. On **21st of May** I'll be visiting Meteora and returning back to Athens. On **22nd of May** I fly back to
-Mumbai.
+**5 月 19 日** 我会在 Athens。**5 月 20 日** 我会参观 Delphi，晚上前往 Kalabaka。**5 月 21 日** 我会参观 Meteora，然后返回 Athens。**5 月 22 日** 我飞回
+Mumbai。

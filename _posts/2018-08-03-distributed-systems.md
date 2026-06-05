@@ -1,58 +1,58 @@
 ---
 layout: post
-title: Learning distributed systems
-subtitle: .. or coming up with a lesson plan
+title: 学习分布式系统
+subtitle: .. 或者制定一个学习计划
 tags: [golang, distributed, learning, guitar]
 ---
 
-I've decided to learn about distributed systems. They seem really interesting. I've been looking at the theory
-but in a very hacky way. I'm trying to come up with a more directed plan on learning distributed systems.
+我决定学习分布式系统。它们看起来真的很有意思。我一直在看相关理论，
+但方式非常 hacky。我正在尝试制定一个更有方向的分布式系统学习计划。
 
-I usually learn things by doing. I like to get my hands dirty. When I'm picking up new languages for example
-I try to have a project that I could potentially work on. I then proceed to read some syntax and after I am
-vaguely familiar with the language I start hacking.
+我通常通过动手来学习东西。我喜欢亲自动手。当我学习新语言时，比如说，
+我会尽量找一个自己可能会做的项目。然后我会读一些语法，等我对这门语言
+大致熟悉之后，就开始 hack。
 
-After I have spent enough time hacking and I feel comfortable with the code. I read about the best practices
-and how I could better use the language. I find articles about using the language in a more idiomatic way.
-I then try to figure out the workings of the language if I want to spend more time learning it.
+当我花了足够多时间 hack，并且对代码感到舒服之后，我会阅读最佳实践，
+以及如何更好地使用这门语言。我会找一些文章，了解如何用更符合习惯的方式使用这门语言。
+如果我想花更多时间学习它，我接着会试着弄清楚这门语言的工作原理。
 
-I would like to try something similar for distributed systems. At work I do write services that run in replicas
-and the leader gets elected by ZooKeeper. I have also been using Kafka recently as a message queue between
-two different tasks but I want to dive deeper.
+我想对分布式系统也尝试类似的方法。在工作中，我确实会写一些以副本形式运行的服务，
+leader 由 ZooKeeper 选举产生。我最近也一直在用 Kafka 作为两个不同任务之间的消息队列，
+但我想更深入地研究。
 
-I understand that distributed systems is a fairly broad topic. I have been searching Hacker News for articles
-on Distributed Systems and I have found a few good links :
+我明白分布式系统是一个相当宽泛的话题。我一直在 Hacker News 上搜索关于
+Distributed Systems 的文章，并找到了一些不错的链接：
 
-- [Distributed Systems Theory for Distributed Systems Engineers](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
-- [A book - Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
-- [A Stanford Course on Distributed Systems](http://www.scs.stanford.edu/17au-cs244b/sched/)
-- [The person who wrote Jespen created a nice outline for a distributed systems class](https://github.com/aphyr/distsys-class)
-- [MapReduce Paper](https://ai.google/research/pubs/pub62)
-- [System Design Primer - Though this is meant for people interviewing it has good starting points](https://github.com/donnemartin/system-design-primer)
-- [MIT 6.824 - A course on distributed systems](http://nil.csail.mit.edu/6.824/2015/general.html)
-- [Martin Kleppmann's book Designing Data Intensive Applications](https://pdfs.semanticscholar.org/24f1/4e3b30012c2bc7e3abbdb16e2b3365d6f920.pdf)
+- [面向分布式系统工程师的分布式系统理论](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+- [一本书 - Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
+- [Stanford 的分布式系统课程](http://www.scs.stanford.edu/17au-cs244b/sched/)
+- [写 Jespen 的人创建了一个不错的分布式系统课程大纲](https://github.com/aphyr/distsys-class)
+- [MapReduce 论文](https://ai.google/research/pubs/pub62)
+- [System Design Primer - 虽然它面向面试者，但有不错的起点](https://github.com/donnemartin/system-design-primer)
+- [MIT 6.824 - 一门分布式系统课程](http://nil.csail.mit.edu/6.824/2015/general.html)
+- [Martin Kleppmann 的书 Designing Data Intensive Applications](https://pdfs.semanticscholar.org/24f1/4e3b30012c2bc7e3abbdb16e2b3365d6f920.pdf)
 
 
-Videos for the 2015 MIT 6.824 Spring Lectures are online. According to the course website Robert Morris takes the course. He is
-the guy who wrote the first worm on the internet. He is also involved in YC.
+2015 年 MIT 6.824 Spring Lectures 的视频已经上线。根据课程网站，Robert Morris 负责这门课。他就是
+写出互联网上第一个 worm 的那个人。他也参与了 YC。
 
-The Stanford Course requires a Stanford login for the videos but the syllabus is accessible. They also have a
-great list of [projects](http://www.scs.stanford.edu/17au-cs244b/labs/project.html). All the projects look
-daunting and are fairly long projects. I need to pick one that I can start hacking on from tomorrow.
+Stanford 课程的视频需要 Stanford 登录才能观看，但教学大纲可以访问。他们还有一个很棒的
+[项目](http://www.scs.stanford.edu/17au-cs244b/labs/project.html)列表。所有项目看起来都很
+令人生畏，而且都是相当长的项目。我需要挑一个明天就能开始 hack 的。
 
-One of the exciting ones is "Scalable Web Cache With Consistent Hashing". I can perhaps start with that. Or something else,
-I should have a decision soon. Learning new things can be tough. Maybe I should bike shed and go with the first
-idea that I like.
+其中一个令人兴奋的是 “Scalable Web Cache With Consistent Hashing”。也许我可以从那个开始。或者别的东西，
+我应该很快做出决定。学习新东西可能很难。也许我应该少纠结，直接选第一个
+我喜欢的想法。
 
-Someone suggests that I play with my own Kubernetes cluster by deploying one from scratch. I could do that. At work a colleague
-is pushing for the internal platform as a service which builds on top of Kubernetes, so some knowledge of Kubernetes would
-be useful for work as well.
+有人建议我从零部署一个自己的 Kubernetes 集群来玩。我可以这样做。工作中有一位同事
+正在推动基于 Kubernetes 构建的内部 platform as a service，所以一些 Kubernetes 知识
+对工作也会有用。
 
 ![Martin Smith Guitar](/img/blog/guitar.jpg)
 
-I have started listening to rock again. Thanks to AC/DC. I bought a guitar yesterday that just arrived. The plan is the same,
-learn some basics and then just start learning Thunder Struck, picking that project was easy as I just can't stop listening to it.
-Up next would be "Dream On". Yep, I still listen to very cliche tracks.
+我又开始听摇滚了。感谢 AC/DC。我昨天买了一把吉他，刚刚送到。计划是一样的，
+学一些基础，然后直接开始学 Thunder Struck。挑这个项目很容易，因为我就是停不下来一直听它。
+接下来会是 “Dream On”。是的，我仍然听非常俗套的曲目。
 
-Well that's my weekend. Distributed systems and the guitar. Hasn't been super productive so far and now I need to head out
-to the London Edition of Bitsians Day.
+嗯，这就是我的周末。分布式系统和吉他。到目前为止还算不上特别高产，现在我需要出门
+去参加 London Edition of Bitsians Day。

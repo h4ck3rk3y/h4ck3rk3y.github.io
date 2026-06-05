@@ -1,30 +1,30 @@
 ---
 layout: post
-title: Boredom is a privilege
-subtitle: .. and other self advice
+title: 无聊是一种特权
+subtitle: .. 以及其他给自己的建议
 tags: [boredom, life, advice]
 ---
 
-Yeah this isn't the monthly post. The monthly post will be here tomorrow.
+是的，这不是月度文章。月度文章明天会发。
 
-It's 3:03 am; I woke up. I am reflecting. Some ideas come to mind -
+现在是凌晨3:03；我醒了。我在反思。一些想法浮现出来 -
 
-1. Boredom is a privilege - I can afford to be bored. Boredom shows that I am financially stable enough to not worry about a lot of things
-that people otherwise might worry about. If I was here 1000s of years ago I wouldn't be bored, I'd be trying to find food and be worried
-about animals that might otherwise kill me
-2. It's okay to be bored - I don't have to scroll twitter, order waffles with ice cream, watch TV, message people, look at reels, party or do anything else
-thats dopamine seeking.
-3. I have really high pain tolerance - I can run a lot, I can bang my head against problems for hours at a time to get them solved. That's a good thing. I just
-need control over my brain where I can tell it "it's okay to be bored", "go easy" and then choose "what to go hard on".
-4. If I have ADHD its a gift - Admittedly this is self diagnosed & based on what people have told me. My dopamine seeking. My way of talking where I juggle multiple thoughts in my head, my constant task switching, being called scattered brain in the past; all of this can be explained if I label myself as ADHD. I'm not going to. I don't need meds; I think there's a lot of creativity and good that comes(& can come) out of this brain that I wouldn't be able to do otherwise. I just need some discipline. I need that part of me that says "don't go", "don't go" and when it has to "go". I just need more self control. As a kid this was easy. As an adult who
-lives on his own and is financially secure; it isn't.
-5. I should write more - I've been told that I am good at telling stories. I am good at painting a picture. I do have thoughts. Maybe instead of ordering waffle with a scoop of vanilla ice cream; I can just write.
-6. I obsess about things - This is very related to my high pain tolerance. I can go "at it" solving a bug even if I don't care about the problem underneath just because
-not doing so won't let me sleep and I want to win. As a kid while preparing for TCS IT Wiz; I'd go hours on an end reading & digesting information about tech. I ran 30k last week; having only run 22k tops because I can just "go". Quoting Eminem from his song Legacy `I used to be the type of kid that would always think the sky's fallin' Now I think the fact that I'm differently wired's awesome ‘Cause if I wasn't, I wouldn't be able to work words like this And connect lines like crosswords And use my enemy's words as strength To try and draw from, and get inspired off 'em`
-7. I can worry less - This one comes from Victor. Everything's going to be alright. We've come a long way. We're fairly stable now. The worst case isn't bad.
-8. I should meditate more - I believe this will help me build more discipline. I believe this will help me sit with myself and be bored without doing dopamine seeking. I believe this will allow me to say "don't go", "don't go" or "go" when I should
-9. If you're going to try go all the way - I don't look like a long distance runner if that means anything. Yet, I can run pretty far. Come back home and run again. I've been getting decent times without thinking much about nutrition or preparation. On the other hand I actively sabotage my nutrition, sleep & health as I seek dopamine. What if I went all in on running? How fast can I run in September? Surely this would take away time from other "nicer" pursuits - like writing, work, going to the gym, any side projects. Yet I can go a lot further & faster if I just eliminate some of my dopamine seeking
-10. I need to learn how to delay gratification more - I do this while I am running but I still get takeaway for every meal as I am too lazy to cook. Let's cook more.
-11. 5h of screen time isn't healthy - especially if most of it is on Twitter. Run more. Read more on Kindle. Make more side projects. Work more. Write more. Play the drums. Write and perform standup comedy. Simply sit with yourself and do nothing.
+1. 无聊是一种特权 - 我负担得起无聊。无聊说明我的财务足够稳定，不必担心很多其他人可能会担心的事情
+那些人本来可能会担心。如果我在1000s年前来到这里，我不会无聊，我会忙着找食物，并担心
+那些可能会杀死我的动物
+2. 无聊没关系 - 我不必刷Twitter、点华夫饼配冰淇淋、看电视、给人发消息、看reels、派对，或做任何其他
+追逐多巴胺的事。
+3. 我的疼痛耐受度真的很高 - 我可以跑很多，可以连续几个小时用脑袋撞问题，直到把它们解决。这是好事。我只是
+需要控制自己的大脑，能够告诉它“无聊没关系”、“轻一点”，然后选择“要在哪件事上用力”。
+4. 如果我有ADHD，那它是一份礼物 - 诚然这是自我诊断，也是基于别人告诉我的东西。我的多巴胺追逐。我的说话方式，脑子里同时处理多个想法，我不断切换任务，过去被说成思维散乱；如果我把自己标记为ADHD，这一切都能解释。我不会这么做。我不需要药；我觉得这个大脑里有很多创造力和好东西正在出现（也可以出现），否则我做不到这些。我只是需要一些纪律。我需要自己那个会说“别去”、“别去”，以及该“去”时就去的部分。我只是需要更多自控。小时候这很容易。作为一个
+独居且财务安全的成年人，就没那么容易。
+5. 我应该多写 - 有人告诉我，我很会讲故事。我很会描绘画面。我确实有想法。也许与其点一份配一勺香草冰淇淋的华夫饼，我可以直接写东西。
+6. 我会沉迷于事情 - 这和我的高疼痛耐受度非常相关。我可以一直“钻进去”解决一个bug，即使我并不关心底层问题，只是因为
+不解决它我就睡不着，而且我想赢。小时候准备TCS IT Wiz时，我会连续几个小时阅读和消化科技信息。上周我跑了30k；此前最多只跑过22k，因为我就是可以“冲”。引用Eminem歌曲Legacy里的话：`我曾经是那种总觉得天要塌下来的孩子。现在我觉得自己线路不同这件事很棒，因为如果不是这样，我就没法这样运用文字，像填字游戏一样连接句子，并把敌人的话当作力量，试着从中汲取并获得灵感`
+7. 我可以少担心一点 - 这一条来自Victor。一切都会没事的。我们已经走了很远。现在我们相当稳定了。最坏的情况也不糟。
+8. 我应该多冥想 - 我相信这会帮助我建立更多纪律。我相信这会帮助我和自己坐在一起，能够无聊而不去追逐多巴胺。我相信这会让我在应该的时候说“别去”、“别去”或者“去”
+9. 如果你要尝试，就一路走到底 - 如果这有什么意义的话，我看起来不像长跑运动员。然而，我可以跑得很远。回家后还能再跑。我没有太考虑营养或准备，也跑出了还不错的成绩。另一方面，我在追逐多巴胺时主动破坏自己的营养、睡眠和健康。如果我全力投入跑步会怎样？九月我能跑多快？当然，这会占用其他“更好”的追求的时间，比如写作、工作、去健身房、任何副项目。但如果我消除一些多巴胺追逐，我可以跑得远得多、快得多
+10. 我需要更多地学习延迟满足 - 跑步时我会这么做，但我仍然因为太懒不做饭而每顿都点外卖。多做饭吧。
+11. 5h的屏幕时间不健康 - 尤其是大部分都花在Twitter上。多跑步。多在Kindle上阅读。多做副项目。多工作。多写。打鼓。写并表演单口喜剧。只是和自己坐着，什么都不做。
 
-It's 3:22 am now. I shall sleep.
+现在是凌晨3:22。我该睡了。

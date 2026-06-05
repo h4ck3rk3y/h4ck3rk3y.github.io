@@ -1,36 +1,36 @@
 ---
 layout: post
-title: Mid March 2020
-subtitle: .. some goes done, some close, some far
+title: 三月中旬 2020
+subtitle: .. 有些完成，有些接近，有些还远
 tags: [update, mid-month]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-## Mid March Update
+## 三月中旬更新
 
 [post](https://gyani.net/blog/marchy-2020/)
 
-## March
+## 三月
 
-I was supposed to have friends come over. We were supposed to go to Spain. Neither happened because of the Corona virus. When Spain had 100 patients on the 2nd of March we decided to abort our trip to Spain that was going to be between the 8th and 15th of March. By the 15th Spain had about 8000 cases. It's at 18,077 cases.
+本来应该有朋友过来。我们本来应该去西班牙。因为 Corona virus，两件事都没发生。3 月 2 日西班牙有 100 名患者时，我们决定取消原定 3 月 8 日到 15 日的西班牙旅行。到 15 日，西班牙大约有 8000 例。现在是 18,077 例。
 
-The silver lining was that I could continue working on my fitness.
-
-
-1. **Running** I was supposed to run 90.33400 km. I'm already done with 100.3 km If things go according to plan, I'll be done with 172 km. So I'm getting a fitness watch, too bad the Apple store is closed. Garmin 945 or Series 5? ✅ 
-
-2. **Weight** I made conservative estimates as I was supposed to be holidaying with friends. I wanted to be under 70 kg. Well this morning I was 68.90 kg. Not being social helps with losing weight. There was no win function here but I'm off the hook for donation. ✅  
-
-3. **Reading** The dark forest is finished. I have 11 days to finish 3 more chapters of the intelligent investor. I think this goal will be on my side, that means I get a book. I'm thinking of getting The Algebra of Happiness by Prof Galloway. Almost ✅. I'll start reading the last in the series of the Remembrance of Earths Past series, Deaths End.
-
-4. **Side Project** I'm headed to lose access for Seinfeld. This is sad. I did some work on Indiecasters but the project is far from release, I then worked on another small app and that is far from release. Now I have started working on a Gameboy emulator, but even if I do that diligently it will take too long. Reminder: Win was getting Netflix back, last month the win for this and being under 70 kg was a new phone. Loss was losing access to Seinfeld. Life will be very boring with quarantine plus no Netflix/Seinfeld. I better work!
+好的一面是，我可以继续推进健身。
 
 
-## General
+1. **跑步** 我本来应该跑 90.33400 km。我已经完成 100.3 km。如果一切按计划进行，我会完成 172 km。所以我要买一块健身手表，可惜 Apple store 关门了。Garmin 945 还是 Series 5？✅
 
-The new phone at under 70 kg goal is being pushed now. Why? Well I'm waiting for a new iPhone to come out. If it comes out, with the virus going around. Also, the under 70 kg goal happened faster than I expected. Also, currently I don't need a phone. My personal phone(though old) and work phone seem fine for now. Unless either of them breaks, the new condition for a new phone is
+2. **体重** 因为本来要和朋友度假，我做了保守估计。我想低于 70 kg。嗯，今天早上我是 68.90 kg。不社交有助于减重。这里没有奖励机制，但我不用捐款了。✅
 
-1. A shipped side project
-2. Weight under 65 kg. Can't be too far off can it?
+3. **阅读** The Dark Forest 读完了。我还有 11 天读完 The Intelligent Investor 的 3 章。我觉得这个目标会站在我这边，也就是说我能得到一本书。我在考虑买 Prof Galloway 的 The Algebra of Happiness。差不多 ✅。我会开始读 Remembrance of Earths Past 系列的最后一本 Deaths End。
 
-Also the new ideal weight is 59kg. So that I have something to work for.
+4. **副项目** 我正朝着失去 Seinfeld 访问权前进。这很悲伤。我在 Indiecasters 上做了一些工作，但项目离发布还很远；之后又做了另一个小应用，也离发布很远。现在我开始做 Gameboy emulator，但即使勤奋做，也会花太久。提醒：奖励是拿回 Netflix，上个月这个目标和体重低于 70 kg 的奖励是新手机。失败是失去 Seinfeld 访问权。隔离再加上没有 Netflix/Seinfeld，生活会非常无聊。我最好干活！
+
+
+## 总体
+
+低于 70 kg 后买新手机的目标现在被推迟了。为什么？嗯，我在等新 iPhone 发布。如果它在病毒期间发布。另外，低于 70 kg 比我预期发生得更快。而且，目前我不需要手机。我的个人手机（虽然旧）和工作手机目前看起来都还好。除非其中一个坏了，否则获得新手机的新条件是
+
+1. 一个已发布的副项目
+2. 体重低于 65 kg。应该不会太远吧？
+
+另外新的理想体重是 59kg。这样我就有东西可以努力。

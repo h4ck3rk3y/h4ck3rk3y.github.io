@@ -1,164 +1,158 @@
 ---
 layout: post
-title: Internship at Go-Jek!
-subtitle: an extremely brutal boot camp
+title: 在 Go-Jek 实习！
+subtitle: 一场极其残酷的 boot camp
 tags: [programming, travel, life]
 fb-img: https://gyani.net/img/blog/go-jek.png
 ---
 
-Between my previous internship and my permanent job I had a few months so I decided to make myself useful and do an Internship. I wanted to feel how a start up feels like and **Go-Jek** seemed perfect.
+在上一段实习和正式工作之间，我有几个月时间，所以我决定让自己有点用，去做一段 Internship。我想感受一下 start up 是什么样子，而 **Go-Jek** 看起来很完美。
 
-Go-Jek is Indonesia's first Unicorn and provides every service once could think of from movie tickets, cab rides, scooter rides to transportation of goods all through one app. They grew 900x in he past 18 months. The growth is phenomenal.
+Go-Jek 是 Indonesia 的第一家 Unicorn，通过一个 app 提供从电影票、出租车、摩托车出行到货物运输等几乎所有能想到的服务。它们在过去 18 个月里增长了 900x。这个增长非常惊人。
 
-My mentors decided that the boot-camp they were conducting for fresh grads would help me learn the most. After two days of the boot-camp, I agree with them.
+我的导师们认为，他们为应届毕业生举办的 boot-camp 能让我学到最多东西。经过两天 boot-camp 后，我同意他们的看法。
 
-The coach at the boot camp Sidu is also the Director of Engineering at Go-Jek. He is exceptional, speaks brilliantly and is very clear about what he speaks.
+boot camp 的教练 Sidu 也是 Go-Jek 的 Director of Engineering。他非常出色，表达精彩，而且对自己讲的内容非常清楚。
 
-So what did I learn in the past two days? **A lot**.
+那么过去两天我学到了什么？**很多**。
 
 ![Jim Carrey Banging the Keyboard](/img/blog/jim_carrey.gif)
 
-The past two days has been a lecture on best practices in coding, thinking and speaking. I think the coach gets this from his time at ThoughtWorks, the front runners of the Agile movement.
+过去两天一直是关于编码、思考和表达最佳实践的讲座。我觉得教练从他在 ThoughtWorks 的经历中获得了这些，ThoughtWorks 是 Agile 运动的先行者。
 
-# Communication
+# 沟通
 
-A lot has been discussed on how arguments work and how people fall prey to logical fallacies like Argumentum ad populum and how Reductio ad absurdum can be often used to find incorrect arguments.
+我们大量讨论了论证如何运作、人们如何落入 Argumentum ad populum 这样的逻辑谬误，以及 Reductio ad absurdum 如何常常被用来发现错误论证。
 
-The coach also stresses on how your arguments should be logically consistent and empirically adequate and how communication is a slippery slope. He stresses on how different labels mean different things to different people and in every conversation one should define their labels and the listener should rephrase to ensure that they a
+教练还强调，你的论证应该在逻辑上一致，并且在经验上充分，也强调沟通是一条湿滑的斜坡。他强调不同标签对不同人意味着不同东西，在每一次对话中，都应该定义自己的标签，而听者应该重新表述，以确保他们理解。
 
-Couple of other pointers
+其他一些要点：
 
-- You don't have to win every argument, you have to be right.
-- You have to right but be polite about it.
-- You have to be polite but not stop being right.
-- Empathy takes you a long way, listen to what the other has to say. Think how they might be thinking.
-- An argument that leads to no learning is useless.
-- Avoid circular logic
-- Avoid using terms in their own definitions
+- 你不需要赢得每一场争论，你需要的是正确。
+- 你必须正确，但要礼貌地正确。
+- 你必须礼貌，但不能停止正确。
+- 同理心能带你走很远，倾听对方要说什么。思考他们可能是怎么想的。
+- 不带来学习的争论是无用的。
+- 避免循环逻辑
+- 避免在定义中使用被定义的术语本身
 
-## Coding
+## 编码
 
-A lot has been said in the past 2 days that University Education simply misses.A lot of these things are tough to find if you are learning to program on your own.
+过去 2 天讲了很多大学教育完全遗漏的东西。如果你是自学编程，这些东西也很难找到。
 
-Earlier this year I was introduced to the book *Clean Code: A Handbook of Agile Software Craftsmanship written by Robert Cecil Martin*, by [Mihaly Zagon](https://www.linkedin.com/in/zagonmihaly/) a programmer at Prezi in a feedback session after an interview. During the boot-camp we are being taught how to follow every word of it and more.
+今年早些时候，Prezi 的程序员 [Mihaly Zagon](https://www.linkedin.com/in/zagonmihaly/) 在一次面试后的反馈环节中向我介绍了 *Clean Code: A Handbook of Agile Software Craftsmanship written by Robert Cecil Martin* 这本书。在 boot-camp 期间，我们正在学习如何遵循其中的每一句话，以及更多内容。
 
-## Non Negotiable Etiquettes
+## 不可协商的礼仪
 
-We have been given a list of non-negotiable etiquettes that can't be ignored. If ignored, whatever code(the entire directory) was written till that moment will be deleted. To summarize them:
+我们拿到了一份不可协商的礼仪清单，不能忽视。如果被忽视，到那一刻为止写下的任何代码（整个目录）都会被删除。总结如下：
 
-- Consistent indentation
-- Spaces, no tabs. Yes we can fight over this. Reason given is that different IDEs define tabs differently. Reach consensus in your group.
-- New Lines at the End of File. Git can be annoying.
-- Follow conventions for naming
-- Follow conventions for project structures
-- No unused code, that includes comments
+- 一致的缩进
+- 使用空格，不用 tab。是的，我们可以为此争论。给出的理由是不同 IDE 对 tab 的定义不同。请在你的小组中达成共识。
+- 文件末尾要有 New Lines。Git 可能很烦人。
+- 遵循命名约定
+- 遵循项目结构约定
+- 不要有未使用的代码，也包括注释
   + Code Updates, Comment Rots
-  + Code is the Single Source of Truth. Why create ambiguity?
-  + Comments mean that your code isn't expressive enough
-  + Comments are an excuse for bad code
-- Run time environment and IDE environment should be consistent
-- Use .gitignore
-- Ensure that there is always a README.md that helps get new devs up and running.
+  + Code 是 Single Source of Truth。为什么要制造歧义？
+  + 注释意味着你的代码表达力不够
+  + 注释是糟糕代码的借口
+- Run time environment 和 IDE environment 应该保持一致
+- 使用 .gitignore
+- 确保总是有一个 README.md，帮助新开发者运行起来。
 
 ![rm -rf everything](/img/blog/delete.gif)
 
-## Branching is Bad
+## 分支是坏事
 
-At the beginning of the session we were told that we will be given a lot of knowledge that might be contrary to the what you might expect, one of them was that **branching** is **bad**. This was mind blowing. This following arguments were given against branching:
+课程一开始，我们被告知将会接收到很多可能与你预期相反的知识，其中之一就是 **branching** 是**坏事**。这让人大开眼界。以下是反对 branching 的论点：
 
-- Branching is an excuse for bad code
-- Branching hampers continuous integration
-- Code should always build and pass tests.
-  + If it does then why branch?
-  + If it doesn't then you are writing bad code.
-  + Why are you writing bad code?
-- You don't want to be the guy handling multiple merges from different branches
-- Master based development is faster and less error prone
+- Branching 是糟糕代码的借口
+- Branching 阻碍 continuous integration
+- Code 应该总是能够 build 并通过 tests。
+  + 如果能做到，那为什么要 branch？
+  + 如果不能，那你就是在写糟糕代码。
+  + 你为什么要写糟糕代码？
+- 你不会想成为那个处理多个不同 branches 合并的人
+- Master based development 更快，也更不容易出错
 
 ![mind blown](/img/blog/kramer.gif)
 
-## Express Intent
+## 表达意图
 
-I can't stress this enough. Your code and your git log should express intent. If it isn't then you aren't proud of your work. If you aren't proud of your work then why work at all? Code should read like a poetry, a poem that one understands automatically and is beautiful. This can be achieved in a lot of ways, some of them are expressive function names, functions instead of long if conditions and no magic numbers. You should make your code as expressive as possible.
+这一点我怎么强调都不为过。你的代码和你的 git log 都应该表达意图。如果它们没有表达意图，那你就没有为自己的工作感到骄傲。如果你不为自己的工作感到骄傲，那为什么还要工作？代码应该像诗一样阅读，一首人们能自动理解并且美丽的诗。这可以通过很多方式实现，比如有表达力的函数名、用函数替代冗长的 if 条件，以及不要使用魔法数字。你应该让代码尽可能具有表达力。
 
 ![Robin Williams, Dead Poets Society](/img/blog/keating.gif)
 
 ## YAGNI
 
-You aren't going to need it. Only write code that you are going to need immediately. Designing
-for the future is risky and should be avoided whenever possible. Never design for a hypothetical future. Your design will be based on assumptions. What do we know about assumptions? That they are wrong, always wrong. Well, mostly
+You aren't going to need it。只写你马上会需要的代码。为未来设计是有风险的，应尽可能避免。永远不要为一个假想的未来做设计。你的设计会基于假设。我们对假设知道什么？它们是错的，永远是错的。好吧，大多数时候是。
 
 ![Wrong, by Donald J Trump](/img/blog/wrong.gif)
 
-## Tell Don't Ask
+## 告诉，不要询问
 
-You should ask an object to do what you want instead of asking for things and doing things on the object based on the information supplied. A real world example. Imagine you want to ask
-someone for the time. What do you do?
+你应该要求一个对象去做你想要的事，而不是向它索取信息，然后基于这些信息对对象做事。一个现实世界的例子。想象你想问某人时间。你会怎么做？
 
-- You hold his hand. You take it near your eyes. You read the time
-- You tell him "Hey, please tell me the time"
-  + He uses his phone
-  + He uses his watch
-  + He calls his friend up
-  + You don't care how he tells you the time
+- 你抓住他的手。把它拿到眼前。读出时间
+- 你告诉他：“嘿，请告诉我时间”
+  + 他用手机
+  + 他用手表
+  + 他给朋友打电话
+  + 你不关心他如何告诉你时间
 
-The same thing applies to programming. No small talk.
+同样的事情也适用于编程。不要闲聊。
 
-## Inheritance is generally a bad idea
+## 继承通常是坏主意
 
-It violates Open/Close Principle. It violates encapsulation, why should the derived class
-know about the base class?
+它违反 Open/Close Principle。它违反封装，为什么派生类应该知道基类？
 
-Especially multiple inheritance. Imagine you are cataloging animals and you create a new animal that inherits somethings from cats and something from dogs. Does this make sense? Yet we do this when we inherit from multiple sources.
+尤其是多重继承。想象你在给动物编目录，然后创建了一个新动物，它从猫那里继承一些东西，又从狗那里继承一些东西。这合理吗？然而我们从多个来源继承时就是这么做的。
 
-## No programming by coincidence
+## 不要靠巧合编程
 
-If it just works, it shouldn't be committed. You should know why it exactly works and what makes it work. If you don't know why something works in the dev environment how can you be sure it will continue working on production?
+如果它只是碰巧能工作，就不应该提交。你应该知道它到底为什么能工作，以及是什么让它工作。如果你不知道某件事为什么能在 dev environment 中工作，又怎么能确定它会在 production 上继续工作？
 
 ![Sherlock](/img/blog/coincidence.gif)
 
-## One Class is As Bad As No Class
+## 一个类和没有类一样糟糕
 
-Remove the class definitions and break out into separate methods. What do you have?
-Nothing but procedural programming where class variables are global variables. Stop
-lying to yourself.
+移除 class definitions，把它们拆成独立方法。你会得到什么？
+什么都没有，只是 procedural programming，其中 class variables 是 global variables。别再骗自己了。
 
-## Programming is About Abstraction
+## 编程关乎抽象
 
-What makes a programmer 10x? Abstraction. If humans were smart enough they wouldn't be using
-computers, they would be running entire programs in their heads. Always abstract. Abstract as much as you can. Abstracting programs allows you to create small classes, with small methods which allow you to load the small part of your program in your brain without
-caring about what's happening elsewhere.
+是什么让一个程序员成为 10x？抽象。如果人类足够聪明，就不会使用电脑，而是在脑子里运行整个程序。永远抽象。尽可能抽象。抽象程序让你可以创建小类和小方法，从而把程序的一小部分装进脑子里，而不必关心其他地方发生了什么。
 
-Abstract in the following manner:
+按以下方式抽象：
 
-- Break down the problems to as small parts as possible
-- Ensure there is no overlap
-- These small parts should talk to each other via a contract.
-- Honor the contract everywhere in your code
+- 把问题拆到尽可能小的部分
+- 确保没有重叠
+- 这些小部分应该通过契约彼此通信。
+- 在你的代码中处处遵守契约
 
 ![Cyborg](/img/blog/cyborg.gif)
 
-Sidu says, abstraction along with automated testing is the closest we are to being cyborgs. it might sound funny but what he means is that we can off load a lot of things to the computer and do what we do best think and innovate.
+Sidu 说，抽象加上自动化测试，是我们最接近成为 cyborgs 的方式。这听起来可能很好笑，但他的意思是，我们可以把很多事情卸载给计算机，然后去做我们最擅长的事：思考和创新。
 
-## Tests are specifications
+## 测试就是规格说明
 
-Tests are important. They are the most important parts of your program. A program without tests is like a program without specifications. Tests specify what your program does and ensures it does exactly that after every build. Tests allow you to develop faster and without branching.
+Tests 很重要。它们是你程序中最重要的部分。一个没有 tests 的程序，就像一个没有 specifications 的程序。Tests 说明你的程序做什么，并确保它在每次 build 后都准确做到这一点。Tests 让你能够更快开发，而且无需 branching。
 
-Always follow TDD. From tomorrow not following TDD will result in our code being deleted.
+永远遵循 TDD。从明天开始，不遵循 TDD 会导致我们的代码被删除。
 
-### How to TDD?
+### 如何 TDD？
 
-- Write test code to fail [RED]
-- Write code that passes the test code and not more [GREEN]
+- 编写会失败的测试代码 [RED]
+- 编写刚好通过测试代码的代码，不多写 [GREEN]
 - Commit and Push
-- Refactor, no refactoring specs though. Run Tests.
+- Refactor，没有重构 specs。运行 Tests。
 - Commit
 
-That's all I could recollect, better notes from tomorrow I guess.
+我能回忆起来的就这些了，明天应该做更好的笔记。
 
-You'll be seeing more of these fairly frequently as writing a blog post daily is one of the tasks of the boot-camp.
+你会比较频繁地看到这类文章，因为每天写一篇博客是 boot-camp 的任务之一。
 
 
 ![My Reaction When Tests Pass](/img/blog/pass.gif)
 
-Everyones happy when tests pass
+tests 通过时，每个人都很开心

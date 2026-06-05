@@ -1,62 +1,62 @@
 ---
 layout: post
-title: Call to Action
-subtitle: .. sharing an email I wrote a while back
+title: 行动号召
+subtitle: .. 分享一封我之前写的邮件
 tags: [travel, life, work]
 fb-img: https://gyani.net/img/blog/mars.jpg
 ---
 
-Wrote an email a while back while on a trip to Amsterdam. The gifs were added later.
+之前在去 Amsterdam 旅行时写过一封邮件。gif 是后来加上的。
 
-Hey,
+嘿，
 
-If you are receiving this email it's because of the following reasons. After reading this don't surf the web, think for 15-20 minutes and then respond.
+如果你收到了这封邮件，是因为以下原因。读完之后不要上网浏览，思考 15-20 分钟，然后回复。
 
-- You are one of the smartest people I know. You might not be an Olympiad winner(I know some of you are) but you are really smart.
-- You are discontent with life. You feel there's something missing and that you could be doing a lot more.
-- I felt a little comfortable mailing you.
+- 你是我认识的最聪明的人之一。你可能不是 Olympiad 获奖者（我知道你们中有些人是），但你真的很聪明。
+- 你对生活并不满足。你觉得少了点什么，并且觉得自己本可以做得更多。
+- 我觉得给你发邮件会稍微自在一些。
 
-I guess we can't debate point one. About point two :-
+我想第一点我们没法争论。关于第二点：-
 
-1. If you are extremely content. Please stop reading and just wish me luck.
-2. You think you are already onto something. Just let me know what you are up.
-2. If you have a sense of dissatisfaction please continue reading.
+1. 如果你极其满足。请停止阅读，只祝我好运就好。
+2. 如果你觉得自己已经在做某件事。告诉我你在做什么就好。
+2. 如果你有一种不满足感，请继续读下去。
 
-Why is it that the smartest people I know are doing really average things in life? There's a [blog](http://www.sebastianmarshall.com/if-you-want-to-get-rich-stop-being-a-fucking-joker?1) I read before the starting of this trip that I'll link that conveys this point.
+为什么我认识的最聪明的人，在生活中做的却是非常普通的事情？这次旅行开始前我读过一篇[博客](http://www.sebastianmarshall.com/if-you-want-to-get-rich-stop-being-a-fucking-joker?1)，我会把它链接出来，它表达了这个观点。
 
-Doing what most people do is the definition of average.
+做大多数人做的事，就是平庸的定义。
 
-![Definition Of Average](/img/blog/average.gif)
+![平庸的定义](/img/blog/average.gif)
 
-We are really young in life and we have really cushy jobs. We should be grateful for that but we should strive to do better. We can have these jobs whenever we want.
+我们还非常年轻，而且有非常舒服的工作。我们应该对此心怀感激，但也应该努力做得更好。只要我们想，我们随时都能拥有这些工作。
 
-The worst thing to do is to continue to walk on this path and not take any risk. To be honest there isn't any risk, with our skills and the industry we are in we should be able to find good jobs fairly easily.
+最糟糕的事情就是继续走在这条路上，不承担任何风险。说实话，这并没有什么风险。凭借我们的技能和所在行业，我们应该能相当容易地找到好工作。
 
-Ok moving to the point
+好了，进入正题。
 
-For anyone with a sense of patriotism. Here's a way to think about it :- if all the smart people that you know did what they think was their calling then some of them would succeed. Your nation would grow just because somebody wins. Those who failed can go try again or go back to being average, that's okay. They tried, they learnt a lot. Now scale this for humanity. Imagine how fast we could go if all of us were doing what we believed in. A lot of us would fail but it's a numbers game.
+对于任何有爱国情怀的人。可以这样想：如果你认识的所有聪明人都去做他们认为是自己使命的事情，那么其中一些人会成功。只要有人赢了，你的国家就会成长。失败的人可以再试一次，或者回到平庸，这也没关系。他们尝试过，也学到了很多。现在把这个尺度扩展到全人类。想象一下，如果我们所有人都在做自己相信的事情，我们能前进得多快。我们很多人会失败，但这是一个数字游戏。
 
-Today I realized that we should be playing to win. We might lose. But if a lot more of us play to win, eventually someone will win. That's the only way forward. We need a million Elon Musk's, we need to do our bit for the world. You don't need to be extremely smart to be successful in this world, just look at the leader of the free world. Or any politician, you just need to have a strong bias towards action. You must not be a joker. You might still fail but that's okay. It's a numbers game. If all of us in this mailing list try, some of us will be millionaires.
+今天我意识到，我们应该以胜利为目标去行动。我们可能会输。但如果我们中更多人以胜利为目标去参与，最终会有人赢。这是唯一的前进道路。我们需要一百万个 Elon Musk，我们需要为这个世界尽自己的一份力。你不需要极其聪明才能在这个世界取得成功，看看自由世界的领袖就知道了。或者看看任何政客，你只需要有强烈的行动倾向。你不能是个小丑。你可能仍然会失败，但那没关系。这是一个数字游戏。如果这个邮件列表里的我们所有人都去尝试，我们中有些人会成为百万富翁。
 
-We all need to have goals. My goal is to see children being born on Mars in my life time. People who are born there, who visit earth every now and then.
+我们都需要有目标。我的目标是在有生之年看到孩子在 Mars 出生。那些在那里出生、偶尔访问 earth 的人。
 
-Think nothing can get bigger than Amazon? Amazon is limited by earth scale. Imagine when people start living across planets,  Amazon will be more than a  hundred trillion dollars. Spreading across space is the only way forward. Otherwise we collapse as a species mostly because capitalism stops working and even if it works eventually the sun cools down.
+觉得没有什么能比 Amazon 更大？Amazon 受限于 earth 的尺度。想象一下，当人类开始跨星球生活时，Amazon 会超过一百万亿美元。向太空扩展是唯一的前进方向。否则我们这个物种会崩溃，主要是因为资本主义会停止运转，而且即使它继续运转，最终太阳也会冷却。
 
-Imagine a future where cloud flare has nodes on the Moon/Mars so that people there get better internet. Now this is the ideal future, the 10 star experience that Brian Chesky talks about. For me to contribute to this future I need influence and money. For both of them I can start working on solving other interesting problems in the world that aren't extremely capital intensive.
+想象一个未来，cloud flare 在 Moon/Mars 上有节点，这样那里的人就能获得更好的互联网。现在这就是理想未来，是 Brian Chesky 谈到的 10 星体验。为了让我能为这个未来做贡献，我需要影响力和金钱。为了获得这两者，我可以开始解决世界上其他有趣且不那么资本密集的问题。
 
-Your calling might be something else. Perhaps not starting a startup That's okay. Not having a bias towards action is the mistake that you are making.
+你的使命可能是别的事情。也许不是创办一家 startup。这没关系。没有行动倾向才是你正在犯的错误。
 
-So we have established that the future can possibly be at a higher scale than what we have today and as smart people we have a chance building that future. I like to imagine Mars to be the next America, humans love to explore.
+所以我们已经确定，未来可能比今天拥有更高的尺度，而作为聪明人，我们有机会建设那个未来。我喜欢把 Mars 想象成下一个 America，人类热爱探索。
 
-So let's start small. I have decided to work for any of you on this mailing list for free on an idea that you vaguely feel about. That idea might not be the calling, that's okay. Stop romancing the perfect idea. Any thing that you work on now is much better than your daily job.
+所以让我们从小处开始。我决定免费为这个邮件列表里的任何一个人工作，去做一个你隐约有感觉的想法。那个想法可能不是你的使命，这没关系。停止迷恋完美想法。你现在做的任何事情，都比你的日常工作好得多。
 
-I've a few ideas as well and if you are ears I'm open to discuss.
+我也有一些想法，如果你愿意听，我很愿意讨论。
 
-You might not want to work with me. I know you have your reasons. Let me know if this email provoked you to do what you eventually did.
+你可能不想和我一起工作。我知道你有自己的理由。如果这封邮件激发你去做了你最终做的事，请告诉我。
 
-I want you to be trying things. I want you to be doing things. I want you to do the most primal thing man can do, explore.
+我希望你去尝试事情。我希望你去做事情。我希望你去做男人能做的最原始的事情：探索。
 
-There's this tricky spot. So if we quit and meetup and decide to work on something we will definitely work but we might work on things out of desperation. If we continue working where we are we might not ever start. The best thing to do would be to use the free time we have to hack on things and try a lot of things very quickly.
+这里有一个棘手点。如果我们辞职、见面并决定一起做某件事，我们肯定会工作，但我们可能会因为绝望而去做一些事情。如果我们继续待在现在的工作岗位上，我们可能永远不会开始。最好的办法是利用我们拥有的空闲时间去 hack 各种事情，并非常快速地尝试很多事情。
 
 ```python
 idea_status = false
@@ -65,20 +65,20 @@ while idea_status != pass
       idea_status = idea.test()
 ```
 
-Look at the loop again. There isn't a check for the size of the idea queue, you guys are smart. There are a lot of ideas, lot less time.
+再看看这个循环。这里没有检查 idea 队列的大小，你们都很聪明。想法很多，时间少得多。
 
-![Test and Learn](/img/blog/test.gif)
+![测试与学习](/img/blog/test.gif)
 
-Now as soon as you break out of the loop. Relentlessly pursue the idea that passed your initial test as long as some metric still keeps supporting this idea. Needless to say, you are already out if your normal job after that initial idea passes whatever tests you have.
+一旦你跳出这个循环，就要毫不留情地追求那个通过初始测试的想法，只要某个指标仍然支持这个想法。不用说，在那个初始想法通过你设定的任何测试之后，你已经应该离开正常工作了。
 
-I guess if we get into that loop that would do a lot of good for the world as a whole.
+我想，如果我们进入那个循环，这会对整个世界有很大好处。
 
-Now to solve this tricky situation mentioned above. I propose a solution, those of us who quit probably already have some run way. If you want some funding we can find people in my network and your network who would fund you.
+现在为了解决上面提到的棘手情况。我提出一个方案：我们中辞职的人可能已经有一些 runway。如果你需要一些资金，我们可以在我的人脉和你的人脉中找到愿意资助你的人。
 
-Those who are working can help the community by funding the idea people depending on their risk appetite.
+还在工作的人可以根据自己的风险偏好，通过资助做想法的人来帮助这个社区。
 
-![Lets Go Hundred](/img/blog/lets-go-hundred.gif)
+![冲到一百](/img/blog/lets-go-hundred.gif)
 
-Thanks,
+谢谢，
 
 Gyani

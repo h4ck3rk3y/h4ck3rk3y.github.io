@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Life in the time of Corona
-subtitle: .. going off track
+title: Corona 时代的生活
+subtitle: .. 偏离轨道
 tags: [update, midmonth april, reality check]
 fb-img: https://gyani.net/img/blog/monkey.png
 ---
 
-## early month reality check
+## 月初现实检查
 
-In the last two months around the 17th or the 20th I'd post early wins where the minimum number of kilometers was hit. This months it's going to be the opposite. That sucks.  I've been blaming this on the virus. I can't be outside of the home at all after 8 pm till 6 am. I can't be away from my building apart from essentials and the nearest running track is closed. I've also started snacking outside of IF hours. So that isn't holding either. The combination of work out and IF worked well. Now both of them have been crashing. I don't have a proper schedule any more. I'm busy with work and then the I barely have any time before the 8 pm curfew.  Should I start waking up early? That's tough.
+过去两个月，大约在 17 日或 20 日，我会发布早期胜利，也就是已达到最低公里数。这个月会相反。很糟糕。我一直把这归咎于病毒。晚上 8 点到早上 6 点之间我完全不能出门。除了必需事项外，我不能离开大楼，最近的跑道也关闭了。我还开始在 IF 时间之外吃零食。所以这也没守住。锻炼和 IF 的组合之前很有效。现在两者都在崩。我再也没有合适的日程。忙于工作，然后在晚上 8 点宵禁前几乎没有时间。我应该开始早起吗？很难。
 
-I'm taking out time to reflect on the last 8 days in order to decide what can be done.
+我正在抽时间反思过去 8 天，以决定能做些什么。
 
-## April Revisited
+## 重新审视四月
 
-Corona has been winning. I'm tuning these rules, adding more prizes but not subtracting punishments.
+Corona 一直在赢。我正在调整这些规则，增加更多奖励，但不减少惩罚。
 
-1. **Running** Want to do a minimum of 87.42 km. Have barely run at all with the restrictions. New rule, can replace a run with a similar calorie NTC workout. Punishment: Donate GBP 50 to diabetes charity or food bank. Win: I get twins heavy jumping ropes.
+1. **跑步** 想至少跑 87.42 km。由于限制，几乎没跑。新规则，可以用消耗相近热量的 NTC 训练替代一次跑步。惩罚：向糖尿病慈善机构或食物银行捐 GBP 50。奖励：得到 twins 重型跳绳。
 
-2. **Weight** 2. **Weight** I aimed at being 66.5. I started at 69.25. I have seen lows of 68.5. That's still two far from the goal! Measured at 69.05 this morning. Note to self only eat between 1pm and 9pm. No matter what day of the weak. Note to self don't buy dorritos in
-the shopping center. Note to self, stick to 1500 calories. Still a little hopeful here, as said will stick to IF(1pm to 9 pm) and 1500, will start logging IF times as a forcing function. Loss: Donation of GBP 50. Win: Weighing machine.
+2. **体重** 2. **体重** 我的目标是 66.5。从 69.25 开始。我看到过 68.5 的低点。离目标仍然太远！今天早上测到 69.05。提醒自己只在 1pm 到 9pm 之间吃东西。无论星期几。提醒自己不要在
+购物中心买 dorritos。提醒自己，坚持 1500 卡路里。这里仍然有一点希望，如前所述会坚持 IF(1pm to 9 pm) 和 1500，并开始记录 IF 时间作为强制机制。失败：捐 GBP 50。奖励：体重秤。
 
-3. **Reading** Minimum: Finish death end & 5 more intelligent investor chapters. I think deaths end will be done. I'm not so sure about intelligent investor. I started watching Aswath Damodarns investment philosophies course. Any who, Loss: Education Charity and Win: A lamp!
+3. **阅读** 最低目标：读完 Deaths End 和 The Intelligent Investor 的 5 章。我觉得 Deaths End 能读完。不太确定 The Intelligent Investor。我开始看 Aswath Damodarn 的投资哲学课程。总之，失败：教育类慈善机构，奖励：一盏灯！
 
-4. **Side Project** Wanted to ship a defined project. Currently the project is basic CI. Haven't made much progress here. Maybe over the weekend? Loss: 50GBP to Wikipedia and loss of Netflix. Win: Hitman 2.
+4. **副项目** 想发布一个定义明确的项目。目前项目是基础 CI。这里进展不大。也许周末？失败：给 Wikipedia 捐 50GBP 并失去 Netflix。奖励：Hitman 2。

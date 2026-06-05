@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Essential Skills
-subtitle: everyone must know
+title: 必备技能
+subtitle: 每个人都必须知道
 tags: [skills, life, general, survival]
 ---
 
-Today while taking a 6 hour cruise around the Caldera in Santorini I realized a few things.
+今天在圣托里尼的火山口周围坐了 6 小时游船时，我意识到几件事。
 
-# Need to Get Fit
+# 需要强身健体
 
-While hiking to the top of *Nea Kameni* at times my back would hurt. Earlier this year we were planning to hike *Everest Base Camp*. After this mini hike I realized I am probably not fit enough to hike EBC and my back shouldn't hurt during a mini hike like this given the fact that I am just 20.
+徒步爬到 *Nea Kameni* 顶部时，我的背有时会痛。今年早些时候，我们还计划徒步去 *Everest Base Camp*。这次小徒步之后，我意识到自己可能还没有足够的体能去徒步 EBC，而且考虑到我才 20 岁，这种小徒步不该让我背痛。
 
-# Need to Learn How To Swim
+# 需要学会游泳
 
-From *Nea Kameni* we headed to the hot springs, *Palea Kameni*. To get to the springs one had to swim in the sea for less than 50 meters. The was 11 meter deep at the deepest point. I didn't trust my swimming skills enough to swim in the sea and was left seeing others swim to the spring. Swimming is an essential skill.
+从 *Nea Kameni* 出发后，我们前往温泉 *Palea Kameni*。要到温泉，必须在海里游不到 50 米。最深处有 11 米。我对自己的游泳技术没有信心，不敢在海里游，只能看着别人游向温泉。游泳是一项必备技能。
 
-# Need to Learn how to ride a two wheeler
+# 需要学会骑两轮车
 
-While thinking about essential skills I realized that I need to learn how to ride a bike. I was thinking of the Thousand Dollar Challenge and how I never rode the bike, sitting in the back seat the whole time. At 20 I should know how to ride a bike.
+想到必备技能时，我意识到自己需要学会骑摩托车。我想起了 Thousand Dollar Challenge，那一路我从没骑过车，一直坐在后座。20 岁了，我应该会骑车。
 
-Summer looks like a good time to learn some of these things. Can learn how to ride a two wheeler courtsey Edwin during a few weekends at Pune. If my company keeps me in Courtyard by Marriot for 2 months then I can learn to swim and get fit in the process.
+夏天看起来是学习这些东西的好时机。可以在浦那的几个周末里，在 Edwin 的帮助下学会骑两轮车。如果公司让我在 Courtyard by Marriot 住 2 个月，那我就可以学游泳，同时把身体练好。
