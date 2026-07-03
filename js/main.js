@@ -1,130 +1,259 @@
-// Dean Attali 2015
+/**
+ * gyani.net — Main JavaScript
+ * Futuristic blog interactions
+ */
 
-var main = {
+(function() {
+  'use strict';
 
-  bigImgEl : null,
-  numImgs : null,
+  // ============================================================
+  // Navbar: scroll behavior + mobile toggle
+  // ============================================================
+  function initNavbar() {
+    var navbar   = document.querySelector('.navbar-custom');
+    var toggle   = document.querySelector('.navbar-toggle');
+    var collapse = document.querySelector('.navbar-collapse');
+    if (!navbar) return;
 
-  init : function() {
-    // Shorten the navbar after scrolling a little bit down
-    $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $(".navbar").addClass("top-nav-short");
-        } else {
-            $(".navbar").removeClass("top-nav-short");
-        }
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 40) {
+        navbar.classList.add('scrolled');
+      } else {
+        navbar.classList.remove('scrolled');
+      }
     });
-    
-    // On mobile, hide the avatar when expanding the navbar menu
-    $('#main-navbar').on('show.bs.collapse', function () {
-      $(".navbar").addClass("top-nav-expanded");
-    })
-    $('#main-navbar').on('hidden.bs.collapse', function () {
-      $(".navbar").removeClass("top-nav-expanded");
-    })
 
-    // show a message if there is one to show
-    var qs = main.getQueryParams();
-    if (qs.message) {
-      $(".container")[0].innerHTML =
-        '<div class="row"><div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">' +
-          '<div class="alert alert-success" role="alert">' +
-            qs.message +
-        "</div></div></div>" +
-        $(".container")[0].innerHTML;
-    }
+    if (toggle && collapse) {
+      toggle.addEventListener('click', function() {
+        toggle.classList.toggle('open');
+        collapse.classList.toggle('open');
+      });
 
-    // show the big header image	
-    main.initImgs();
-    
-    // set up Google Analytics event tracking
-    if (typeof ga === "function") {
-      $("a[data-ga-event]").click(function() {
-        ga('send', 'event', $(this).data("ga-category"), $(this).data("ga-action"), $(this).data("ga-label"));
+      collapse.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          toggle.classList.remove('open');
+          collapse.classList.remove('open');
+        });
       });
     }
-  },
-  
-  initImgs : function() {
-    // If the page was large images to randomly select from, choose an image
-    if ($("#header-big-imgs").length > 0) {
-      main.bigImgEl = $("#header-big-imgs");
-      main.numImgs = main.bigImgEl.attr("data-num-img");
+  }
 
-          // 2fc73a3a967e97599c9763d05e564189
-	  // set an initial image
-	  var imgInfo = main.getImgInfo();
-	  var src = imgInfo.src;
-	  var desc = imgInfo.desc;
-  	  main.setImg(src, desc);
-  	
-	  // For better UX, prefetch the next image so that it will already be loaded when we want to show it
-  	  var getNextImg = function() {
-	    var imgInfo = main.getImgInfo();
-	    var src = imgInfo.src;
-	    var desc = imgInfo.desc;		  
-	    
-		var prefetchImg = new Image();
-  		prefetchImg.src = src;
-		// if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
-		
-  		setTimeout(function(){
-                  var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
-  		  $(".intro-header.big-img").prepend(img);
-  		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
-		  
-		  // after the animation of fading in the new image is done, prefetch the next one
-  		  //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
-		  setTimeout(function() {
-		    main.setImg(src, desc);
-			img.remove();
-  			getNextImg();
-		  }, 1000); 
-  		  //});		
-  		}, 6000);
-  	  };
-	  
-	  // If there are multiple images, cycle through them
-	  if (main.numImgs > 1) {
-  	    getNextImg();
-	  }
+  // ============================================================
+  // Big image hero rotator
+  // ============================================================
+  function initImgs() {
+    var imgEl = document.getElementById('header-big-imgs');
+    if (!imgEl) return;
+
+    var numImgs = parseInt(imgEl.getAttribute('data-num-img'), 10);
+    if (isNaN(numImgs) || numImgs < 1) return;
+
+    var imgs = [];
+    for (var i = 1; i <= numImgs; i++) {
+      var src  = imgEl.getAttribute('data-img-src-'  + i);
+      var desc = imgEl.getAttribute('data-img-desc-' + i) || '';
+      if (src) imgs.push({ src: src, desc: desc });
     }
-  },
-  
-  getImgInfo : function() {
-  	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
-    var src = main.bigImgEl.attr("data-img-src-" + randNum);
-	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
-	
-	return {
-	  src : src,
-	  desc : desc
-	}
-  },
-  
-  setImg : function(src, desc) {
-	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
-	if (typeof desc !== typeof undefined && desc !== false) {
-	  $(".img-desc").text(desc).show();
-	} else {
-	  $(".img-desc").hide();  
-	}
-  },
- 
- // get the GET parameters in the URL
- getQueryParams : function() {
-    var qs = document.location.search.replace(/\?/g, "&").split("+").join(" ");
+    if (!imgs.length) return;
 
-    var params = {}, tokens,
-        re = /[?&]?([^=]+)=([^&]*)/g;
-
-    while (tokens = re.exec(qs)) {
-        params[decodeURIComponent(tokens[1])]
-            = decodeURIComponent(tokens[2]);
+    // Shuffle
+    for (var j = imgs.length - 1; j > 0; j--) {
+      var k = Math.floor(Math.random() * (j + 1));
+      var tmp = imgs[j]; imgs[j] = imgs[k]; imgs[k] = tmp;
     }
 
-    return params;
-  }  
-};
+    var headerBig  = document.querySelector('.intro-header.big-img');
+    var transition = document.querySelector('.big-img-transition');
+    var imgDesc    = document.querySelector('.img-desc');
+    var curIdx = 0;
 
-document.addEventListener('DOMContentLoaded', main.init);
+    if (!headerBig) return;
+
+    function setImage(idx) {
+      headerBig.style.backgroundImage = 'url("' + imgs[idx].src + '")';
+      if (imgDesc) imgDesc.textContent = imgs[idx].desc;
+    }
+
+    function preloadAndRotate(nextIdx) {
+      var img = new Image();
+      img.src = imgs[nextIdx].src;
+      function doSwap() {
+        if (transition) {
+          transition.style.backgroundImage = 'url("' + imgs[nextIdx].src + '")';
+          transition.style.opacity = '1';
+          setTimeout(function() {
+            setImage(nextIdx);
+            transition.style.opacity = '0';
+            curIdx = nextIdx;
+            scheduleNext();
+          }, 1500);
+        } else {
+          setImage(nextIdx);
+          curIdx = nextIdx;
+          scheduleNext();
+        }
+      }
+      img.onload  = doSwap;
+      img.onerror = doSwap;
+    }
+
+    function scheduleNext() {
+      setTimeout(function() {
+        preloadAndRotate((curIdx + 1) % imgs.length);
+      }, 7000);
+    }
+
+    setImage(0);
+    if (imgs.length > 1) scheduleNext();
+  }
+
+  // ============================================================
+  // Reading progress bar
+  // ============================================================
+  function initReadingProgress() {
+    if (!document.querySelector('.blog-post')) return;
+
+    var bar = document.createElement('div');
+    bar.id = 'reading-progress';
+    bar.style.cssText = [
+      'position:fixed',
+      'top:64px',
+      'left:0',
+      'height:2px',
+      'width:0%',
+      'background:linear-gradient(90deg,#00d4ff,#00ff88)',
+      'z-index:999',
+      'transition:width 0.1s linear',
+      'box-shadow:0 0 8px rgba(0,212,255,0.6)',
+      'pointer-events:none'
+    ].join(';');
+    document.body.appendChild(bar);
+
+    window.addEventListener('scroll', function() {
+      var scrollTop  = window.scrollY || document.documentElement.scrollTop;
+      var docHeight  = document.documentElement.scrollHeight - window.innerHeight;
+      var pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = Math.min(pct, 100) + '%';
+    });
+  }
+
+  // ============================================================
+  // Fade-in post previews on scroll
+  // ============================================================
+  function initFadeIn() {
+    var items = document.querySelectorAll('.post-preview');
+    if (!items.length) return;
+
+    items.forEach(function(el) {
+      el.style.opacity    = '0';
+      el.style.transform  = 'translateY(20px)';
+      el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+    });
+
+    function check() {
+      var viewBottom = window.scrollY + window.innerHeight;
+      items.forEach(function(el) {
+        if (el.style.opacity === '1') return;
+        var top = el.getBoundingClientRect().top + window.scrollY;
+        if (top < viewBottom - 60) {
+          el.style.opacity   = '1';
+          el.style.transform = 'translateY(0)';
+        }
+      });
+    }
+
+    window.addEventListener('scroll', check);
+    check();
+  }
+
+  // ============================================================
+  // Copy button on code blocks
+  // ============================================================
+  function initCodeCopy() {
+    document.querySelectorAll('pre code').forEach(function(codeEl) {
+      var pre = codeEl.closest('pre');
+      if (!pre) return;
+
+      pre.style.position = 'relative';
+
+      var btn = document.createElement('button');
+      btn.textContent  = 'copy';
+      btn.style.cssText = [
+        'position:absolute',
+        'top:0.75rem',
+        'right:0.75rem',
+        'font-family:"Space Mono",monospace',
+        'font-size:0.65rem',
+        'font-weight:700',
+        'text-transform:uppercase',
+        'letter-spacing:0.08em',
+        'color:var(--text-muted)',
+        'background:var(--bg-elevated)',
+        'border:1px solid var(--border-color)',
+        'border-radius:3px',
+        'padding:0.2rem 0.5rem',
+        'cursor:pointer',
+        'opacity:0',
+        'transition:opacity 0.2s,color 0.2s',
+        'z-index:10'
+      ].join(';');
+
+      pre.addEventListener('mouseenter', function() { btn.style.opacity = '1'; });
+      pre.addEventListener('mouseleave', function() { btn.style.opacity = '0'; });
+
+      btn.addEventListener('click', function() {
+        var text = codeEl.textContent;
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(text);
+        }
+        btn.textContent  = 'copied!';
+        btn.style.color  = 'var(--neon-green)';
+        setTimeout(function() {
+          btn.textContent = 'copy';
+          btn.style.color = 'var(--text-muted)';
+        }, 2000);
+      });
+
+      pre.appendChild(btn);
+    });
+  }
+
+  // ============================================================
+  // URL message display (form redirects)
+  // ============================================================
+  function initUrlMsg() {
+    var search = window.location.search;
+    if (!search) return;
+    var match = search.match(/[?&]message=([^&]+)/);
+    if (!match) return;
+    var msg = decodeURIComponent(match[1].replace(/\+/g, ' '));
+    var container = document.querySelector('.container');
+    if (!container) return;
+    var el = document.createElement('div');
+    el.textContent = msg;
+    el.style.cssText = [
+      'background:rgba(0,255,136,0.1)',
+      'border:1px solid rgba(0,255,136,0.3)',
+      'border-radius:6px',
+      'padding:0.75rem 1rem',
+      'font-family:"Space Mono",monospace',
+      'font-size:0.85rem',
+      'color:var(--neon-green)',
+      'margin-bottom:1.5rem'
+    ].join(';');
+    container.insertBefore(el, container.firstChild);
+  }
+
+  // ============================================================
+  // Boot
+  // ============================================================
+  document.addEventListener('DOMContentLoaded', function() {
+    initNavbar();
+    initImgs();
+    initReadingProgress();
+    initFadeIn();
+    initCodeCopy();
+    initUrlMsg();
+  });
+
+})();

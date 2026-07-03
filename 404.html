@@ -3,19 +3,16 @@ layout: default
 title: 404 - Page not found
 ---
 
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
-
-  <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
+<div class="error-page">
+  <h1>404</h1>
+  <p>This page doesn't exist — or maybe it never did.</p>
+  <a href="{{ site.baseurl }}/" style="font-family:'Space Mono',monospace;font-size:0.85rem;text-transform:uppercase;letter-spacing:0.1em;">&larr; Go home</a>
 </div>
 
 <script>
-  // on 2016-02-01 GitHub Pages upgraded to Jekyll3, which broke all blog posts with trailing slashes
-  // and there are tons of links out there on the web to posts with a trailing slash, so can't ignore it
+  // Redirect URLs with trailing slashes (Jekyll 3 migration fix)
   var url = location.href;
-  if(url.substr(url.length - 1) === '/') {
+  if (url.substr(url.length - 1) === '/') {
     window.location = url.substr(0, url.length - 1);
   }
 </script>
